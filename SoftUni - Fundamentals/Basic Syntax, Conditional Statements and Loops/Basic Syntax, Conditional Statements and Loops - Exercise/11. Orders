@@ -1,0 +1,44 @@
+using System;
+
+namespace _11._Orders
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int n = int.Parse(Console.ReadLine());
+            double pricePerCapsule = double.Parse(Console.ReadLine());
+            int days = int.Parse(Console.ReadLine());
+            int capusuleCount = int.Parse(Console.ReadLine());
+            double price = 0;
+            double total = 0;
+            
+            for (int i = 1; i <= n; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    price = ((days * capusuleCount) * pricePerCapsule);
+                    Console.WriteLine($"The price for the coffee is: ${price:F2}");
+                }
+                else
+                {
+                    price = ((days * capusuleCount) * pricePerCapsule);
+                    Console.WriteLine($"The price for the coffee is: ${price:F2}");
+                }
+                total += price;
+                if (i >= n)
+                {
+                    break;
+                }
+                else
+                {
+                    pricePerCapsule = double.Parse(Console.ReadLine());
+                    days = int.Parse(Console.ReadLine());
+                    capusuleCount = int.Parse(Console.ReadLine());
+                }
+            }
+            
+            Console.WriteLine($"Total: ${total:F2}");
+        }
+    }
+}
