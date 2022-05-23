@@ -1,0 +1,113 @@
+using System;
+
+namespace _07._Vending_Machine
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            double balance = 0;        
+            string products = string.Empty;
+
+
+            while (true)
+            {
+                string money = Console.ReadLine();
+                if(money=="Start")
+                {
+                    break;
+                }
+                double coins = double.Parse(money);
+                if (coins != 0.1 && coins != 0.2 && coins != 0.5 && coins != 1 && coins != 2)
+                {
+                    Console.WriteLine($"Cannot accept {coins}");
+                    continue;
+                }
+                balance += coins;
+                
+            }
+            while(true)
+            {                                
+                 products = Console.ReadLine();
+                if(products=="End")
+                {
+                    break;
+                }
+                if (products!="Nuts"&& products != "Water" && products != "Crisps" && products != "Soda" && products!="Coke")
+                {
+                    Console.WriteLine("Invalid product");
+                    continue;
+                }
+                if (products == "Nuts")
+                {
+                    if (balance < 2.0) 
+                    {
+                        Console.WriteLine("Sorry, not enough money");
+                    }
+                    else
+                    {
+                        
+                        balance -= 2.0;
+                        Console.WriteLine("Purchased nuts");
+                    }
+
+                }
+                else if (products == "Water")
+                {
+                    if (balance < 0.7)
+                    {
+                        Console.WriteLine("Sorry, not enough money");
+                    }
+                    else
+                    {                      
+                        balance -= 0.7;
+                        Console.WriteLine("Purchased water");
+                    }
+
+                }
+                else if (products == "Crisps")
+                {
+                    if (balance < 1.5)
+                    {
+                        Console.WriteLine("Sorry, not enough money");
+                    }
+                    else
+                    {                       
+                        balance -= 1.5;
+                        Console.WriteLine("Purchased crisps");
+                    }
+
+                }
+                else if (products == "Soda")
+                {
+                    if (balance < 0.8)
+                    {
+                        Console.WriteLine("Sorry, not enough money");
+                    }
+                    else
+                    {
+                        
+                        balance -= 0.8;
+                        Console.WriteLine("Purchased soda");
+                    }
+
+                }
+                else if (products == "Coke")
+                {
+                    if (balance < 1.0)
+                    {
+                        Console.WriteLine("Sorry, not enough money");
+                    }
+                    else
+                    {                     
+                        balance -= 1.0;
+                        Console.WriteLine("Purchased coke");
+                    }
+
+                }
+
+            }
+            Console.WriteLine($"Change: {balance:F2}");
+        }
+    }
+}
