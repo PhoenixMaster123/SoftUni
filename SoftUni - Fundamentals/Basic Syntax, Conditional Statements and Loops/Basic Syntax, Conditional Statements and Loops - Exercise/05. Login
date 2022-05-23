@@ -1,0 +1,53 @@
+using System;
+
+namespace Login
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Input!!!
+            //string username = Console.ReadLine();
+            ////Action!!!
+            //string password = string.Empty; //<==> string = "";
+            //for (int reverseIndex = username.Length - 1; reverseIndex >= 0; reverseIndex--) 
+            //{
+            //    password += username[reverseIndex];                           
+            //}
+            //Output!!!
+            //Console.WriteLine(password);
+
+            // Reverse na String
+
+            string username = Console.ReadLine();
+            string password = string.Empty;
+            for (int reverseIndex = username.Length - 1; reverseIndex >= 0; reverseIndex--)
+                {
+                    password += username[reverseIndex];                           
+                }
+                
+            for (int count = 1; count <=4 ; count++)
+            { 
+                string input = Console.ReadLine();
+                if (input == password)
+                {
+                    Console.WriteLine($"User {username} logged in.");
+                    break;
+                }
+                else
+                {
+                    if(count == 4)
+                    {
+                        Console.WriteLine($"User {username} blocked!");
+                    }
+                    else
+                    {
+                        Console.WriteLine($"Incorrect password. Try again.");
+                    }
+                }
+            }
+
+         
+        }
+    }
+}
