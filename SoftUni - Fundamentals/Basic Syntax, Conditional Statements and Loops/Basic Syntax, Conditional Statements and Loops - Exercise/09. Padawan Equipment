@@ -1,0 +1,32 @@
+using System;
+
+namespace _09._Padawan_Equipment
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            double amount = double.Parse(Console.ReadLine());
+            int students = int.Parse(Console.ReadLine());
+            double lightsaber = double.Parse(Console.ReadLine());
+            double robes = double.Parse(Console.ReadLine());
+            double beltsprice = double.Parse(Console.ReadLine());
+            int freebelts = students / 6;
+            double students1 = Math.Ceiling((students * 0.1) + students);           
+            double money = lightsaber * (students1) + robes * (students) + beltsprice * (students - freebelts);
+
+            if (money <= amount)
+            {
+
+                Console.WriteLine($"The money is enough - it would cost {money:F2}lv.");
+            }
+            else
+            {
+                money -= amount;
+                Console.WriteLine($"John will need {money:F2}lv more.");
+            }
+
+            }
+
+        }
+    }
