@@ -1,0 +1,28 @@
+using System;
+
+namespace _11._Multiplication_Table_2._0
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int num = int.Parse(Console.ReadLine());
+            int num2 =int.Parse(Console.ReadLine());
+            int k = num2;           
+            while (true)
+            {
+                if (k >= 10)
+                {
+                    
+                    Console.WriteLine($"{num} X {num2} = {num * k}");
+                    break;
+                }
+               
+                
+                Console.WriteLine($"{num} X {num2} = {num * k}");
+                num2++;
+                k++;
+            }
+        }
+    }
+}
