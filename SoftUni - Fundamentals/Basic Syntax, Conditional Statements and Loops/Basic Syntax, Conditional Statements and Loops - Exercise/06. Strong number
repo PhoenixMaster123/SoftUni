@@ -1,0 +1,32 @@
+using System;
+
+namespace _6._Strong_number
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string number = Console.ReadLine();
+            long factorialSum = 0;
+            for (int input = 0; input <= number.Length - 1; input++)
+            {
+                char currCh = number[input];
+                int currDigit = (int)currCh - 48;
+                long currDigitFactorial = 1;
+                for (int r = currDigit; r >= 1; r--)
+                {
+                    currDigitFactorial *= r;
+                }
+                factorialSum += currDigitFactorial;
+            }
+            if (factorialSum == int.Parse(number))
+            {
+                Console.WriteLine("yes");
+            }
+            else
+            {
+                Console.WriteLine("no");
+            }
+        }
+    }
+}
