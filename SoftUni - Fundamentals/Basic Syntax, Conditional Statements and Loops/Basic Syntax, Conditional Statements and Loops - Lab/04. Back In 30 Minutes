@@ -1,0 +1,35 @@
+using System;
+
+namespace _04._Back_In_30_Minutes
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int hours = int.Parse(Console.ReadLine());
+            int munutes = int.Parse(Console.ReadLine());
+           double  munutess = hours * 60;
+            munutes = munutes + 30;
+            int hourss = 0;
+            if(munutes>=60)
+            {
+                hourss++;
+                hours = hours + hourss;
+                munutes = munutes - 60;          
+            }
+            if(hours>=24)
+            {
+                hours = 0;
+            }
+            if (munutes < 10)
+            {
+                Console.WriteLine($"{hours}:0{munutes}");
+            }
+            else
+            {
+                Console.WriteLine($"{hours}:{munutes}");
+            }
+           
+        }
+    }
+}
