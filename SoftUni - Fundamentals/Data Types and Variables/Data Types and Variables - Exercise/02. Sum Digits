@@ -1,0 +1,21 @@
+using System;
+
+namespace _02._Sum_Digits
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string number = Console.ReadLine();
+            int sum = 0;           
+            for (int input = 0; input <= number.Length - 1; input++)
+            {
+                char currCh = number[input];
+                int currDigit = (int)currCh - 48;             
+               
+                sum += currDigit;
+            }
+            Console.WriteLine(sum);
+        }
+    }
+}
