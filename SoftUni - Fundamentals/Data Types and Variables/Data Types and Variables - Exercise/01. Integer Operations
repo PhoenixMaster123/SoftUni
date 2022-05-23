@@ -1,0 +1,21 @@
+using System;
+
+namespace _01._Integer_Operations
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+           int first = int.Parse(Console.ReadLine());
+           int second = int.Parse(Console.ReadLine());
+           int third = int.Parse(Console.ReadLine());
+           int four = int.Parse(Console.ReadLine());
+
+            long add = (long)first + second;
+            long devide = add / third;
+            long multy = devide * four;
+
+            Console.WriteLine(multy);
+        }
+    }
+}
