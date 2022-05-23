@@ -1,0 +1,81 @@
+using System;
+
+namespace Vacation
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int countpeople = int.Parse(Console.ReadLine());
+            string group = Console.ReadLine();
+            string day = Console.ReadLine();
+            double price = 0;
+           
+                if (group == "Students")
+                {
+                    if (day == "Friday")
+                    {
+                        price = countpeople* 8.45;
+                    }
+                    else if (day == "Saturday")
+                    {
+                        price = countpeople*9.80;
+                    }
+                    else
+                    {
+                        price = countpeople * 10.46;
+                    }
+                if (countpeople >= 30)
+                {
+                    price = price - price * 0.15;
+                }
+            }
+                else if (group == "Business")
+                {
+                  if(countpeople>=100)
+                 {
+                    countpeople -= 10;
+                 }
+                    if (day == "Friday")
+                    {
+                        price = countpeople*10.90;
+                    }
+                    else if (day == "Saturday")
+                    {
+                        price = countpeople*15.60;
+                    }
+                    else
+                    {
+                        price = countpeople*16;
+                    }
+
+                   
+                }
+                else
+                {
+                    if (day == "Friday")
+                    {
+                        price = countpeople* 15;
+                    }
+                    else if (day == "Saturday")
+                    {
+                        price = countpeople*20;
+                    }
+                    else
+                    {
+                        price = countpeople*22.50;
+                    }
+                    if (countpeople >= 10 && countpeople <= 20)
+                {
+                    price = price - price * 0.05;
+                }
+
+            }
+      
+          
+            Console.WriteLine($"Total price: {price:F2}");
+
+
+        }
+    }
+}
