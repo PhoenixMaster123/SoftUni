@@ -1,0 +1,16 @@
+D:\SoftUni Fundamentals\Array\01. Day of Week\Array\obj\Debug\net5.0\Array.csproj.AssemblyReference.cache
+D:\SoftUni Fundamentals\Array\01. Day of Week\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Fundamentals\Array\01. Day of Week\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+D:\SoftUni Fundamentals\Array\01. Day of Week\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs
+D:\SoftUni Fundamentals\Array\01. Day of Week\Array\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
+D:\SoftUni Fundamentals\Array\01. Day of Week\Array\bin\Debug\net5.0\Array.exe
+D:\SoftUni Fundamentals\Array\01. Day of Week\Array\bin\Debug\net5.0\Array.deps.json
+D:\SoftUni Fundamentals\Array\01. Day of Week\Array\bin\Debug\net5.0\Array.runtimeconfig.json
+D:\SoftUni Fundamentals\Array\01. Day of Week\Array\bin\Debug\net5.0\Array.runtimeconfig.dev.json
+D:\SoftUni Fundamentals\Array\01. Day of Week\Array\bin\Debug\net5.0\Array.dll
+D:\SoftUni Fundamentals\Array\01. Day of Week\Array\bin\Debug\net5.0\ref\Array.dll
+D:\SoftUni Fundamentals\Array\01. Day of Week\Array\bin\Debug\net5.0\Array.pdb
+D:\SoftUni Fundamentals\Array\01. Day of Week\Array\obj\Debug\net5.0\Array.dll
+D:\SoftUni Fundamentals\Array\01. Day of Week\Array\obj\Debug\net5.0\ref\Array.dll
+D:\SoftUni Fundamentals\Array\01. Day of Week\Array\obj\Debug\net5.0\Array.pdb
+D:\SoftUni Fundamentals\Array\01. Day of Week\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache
