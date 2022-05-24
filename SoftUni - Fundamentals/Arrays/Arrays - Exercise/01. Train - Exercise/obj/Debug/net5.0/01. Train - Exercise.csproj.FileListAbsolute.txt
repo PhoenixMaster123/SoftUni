@@ -1,0 +1,15 @@
+D:\SoftUni Fundamentals\Array\01. Day of Week\01. Train - Exercise\bin\Debug\net5.0\01. Train - Exercise.exe
+D:\SoftUni Fundamentals\Array\01. Day of Week\01. Train - Exercise\bin\Debug\net5.0\01. Train - Exercise.deps.json
+D:\SoftUni Fundamentals\Array\01. Day of Week\01. Train - Exercise\bin\Debug\net5.0\01. Train - Exercise.runtimeconfig.json
+D:\SoftUni Fundamentals\Array\01. Day of Week\01. Train - Exercise\bin\Debug\net5.0\01. Train - Exercise.runtimeconfig.dev.json
+D:\SoftUni Fundamentals\Array\01. Day of Week\01. Train - Exercise\bin\Debug\net5.0\01. Train - Exercise.dll
+D:\SoftUni Fundamentals\Array\01. Day of Week\01. Train - Exercise\bin\Debug\net5.0\ref\01. Train - Exercise.dll
+D:\SoftUni Fundamentals\Array\01. Day of Week\01. Train - Exercise\bin\Debug\net5.0\01. Train - Exercise.pdb
+D:\SoftUni Fundamentals\Array\01. Day of Week\01. Train - Exercise\obj\Debug\net5.0\01. Train - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Fundamentals\Array\01. Day of Week\01. Train - Exercise\obj\Debug\net5.0\01. Train - Exercise.AssemblyInfoInputs.cache
+D:\SoftUni Fundamentals\Array\01. Day of Week\01. Train - Exercise\obj\Debug\net5.0\01. Train - Exercise.AssemblyInfo.cs
+D:\SoftUni Fundamentals\Array\01. Day of Week\01. Train - Exercise\obj\Debug\net5.0\01. Train - Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni Fundamentals\Array\01. Day of Week\01. Train - Exercise\obj\Debug\net5.0\01. Train - Exercise.dll
+D:\SoftUni Fundamentals\Array\01. Day of Week\01. Train - Exercise\obj\Debug\net5.0\ref\01. Train - Exercise.dll
+D:\SoftUni Fundamentals\Array\01. Day of Week\01. Train - Exercise\obj\Debug\net5.0\01. Train - Exercise.pdb
+D:\SoftUni Fundamentals\Array\01. Day of Week\01. Train - Exercise\obj\Debug\net5.0\01. Train - Exercise.genruntimeconfig.cache
