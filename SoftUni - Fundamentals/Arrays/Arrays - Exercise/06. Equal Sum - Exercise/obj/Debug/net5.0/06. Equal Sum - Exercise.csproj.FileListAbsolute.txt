@@ -1,0 +1,16 @@
+D:\SoftUni Fundamentals\Array\01. Day of Week\06. Equal Sum - Exercise\bin\Debug\net5.0\06. Equal Sum - Exercise.exe
+D:\SoftUni Fundamentals\Array\01. Day of Week\06. Equal Sum - Exercise\bin\Debug\net5.0\06. Equal Sum - Exercise.deps.json
+D:\SoftUni Fundamentals\Array\01. Day of Week\06. Equal Sum - Exercise\bin\Debug\net5.0\06. Equal Sum - Exercise.runtimeconfig.json
+D:\SoftUni Fundamentals\Array\01. Day of Week\06. Equal Sum - Exercise\bin\Debug\net5.0\06. Equal Sum - Exercise.runtimeconfig.dev.json
+D:\SoftUni Fundamentals\Array\01. Day of Week\06. Equal Sum - Exercise\bin\Debug\net5.0\06. Equal Sum - Exercise.dll
+D:\SoftUni Fundamentals\Array\01. Day of Week\06. Equal Sum - Exercise\bin\Debug\net5.0\ref\06. Equal Sum - Exercise.dll
+D:\SoftUni Fundamentals\Array\01. Day of Week\06. Equal Sum - Exercise\bin\Debug\net5.0\06. Equal Sum - Exercise.pdb
+D:\SoftUni Fundamentals\Array\01. Day of Week\06. Equal Sum - Exercise\obj\Debug\net5.0\06. Equal Sum - Exercise.csproj.AssemblyReference.cache
+D:\SoftUni Fundamentals\Array\01. Day of Week\06. Equal Sum - Exercise\obj\Debug\net5.0\06. Equal Sum - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Fundamentals\Array\01. Day of Week\06. Equal Sum - Exercise\obj\Debug\net5.0\06. Equal Sum - Exercise.AssemblyInfoInputs.cache
+D:\SoftUni Fundamentals\Array\01. Day of Week\06. Equal Sum - Exercise\obj\Debug\net5.0\06. Equal Sum - Exercise.AssemblyInfo.cs
+D:\SoftUni Fundamentals\Array\01. Day of Week\06. Equal Sum - Exercise\obj\Debug\net5.0\06. Equal Sum - Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni Fundamentals\Array\01. Day of Week\06. Equal Sum - Exercise\obj\Debug\net5.0\06. Equal Sum - Exercise.dll
+D:\SoftUni Fundamentals\Array\01. Day of Week\06. Equal Sum - Exercise\obj\Debug\net5.0\ref\06. Equal Sum - Exercise.dll
+D:\SoftUni Fundamentals\Array\01. Day of Week\06. Equal Sum - Exercise\obj\Debug\net5.0\06. Equal Sum - Exercise.pdb
+D:\SoftUni Fundamentals\Array\01. Day of Week\06. Equal Sum - Exercise\obj\Debug\net5.0\06. Equal Sum - Exercise.genruntimeconfig.cache
