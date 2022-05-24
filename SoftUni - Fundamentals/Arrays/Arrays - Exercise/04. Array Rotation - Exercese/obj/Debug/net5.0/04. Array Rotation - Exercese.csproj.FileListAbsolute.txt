@@ -1,0 +1,16 @@
+D:\SoftUni Fundamentals\Array\01. Day of Week\04. Array Rotation - Exercese\bin\Debug\net5.0\04. Array Rotation - Exercese.exe
+D:\SoftUni Fundamentals\Array\01. Day of Week\04. Array Rotation - Exercese\bin\Debug\net5.0\04. Array Rotation - Exercese.deps.json
+D:\SoftUni Fundamentals\Array\01. Day of Week\04. Array Rotation - Exercese\bin\Debug\net5.0\04. Array Rotation - Exercese.runtimeconfig.json
+D:\SoftUni Fundamentals\Array\01. Day of Week\04. Array Rotation - Exercese\bin\Debug\net5.0\04. Array Rotation - Exercese.runtimeconfig.dev.json
+D:\SoftUni Fundamentals\Array\01. Day of Week\04. Array Rotation - Exercese\bin\Debug\net5.0\04. Array Rotation - Exercese.dll
+D:\SoftUni Fundamentals\Array\01. Day of Week\04. Array Rotation - Exercese\bin\Debug\net5.0\ref\04. Array Rotation - Exercese.dll
+D:\SoftUni Fundamentals\Array\01. Day of Week\04. Array Rotation - Exercese\bin\Debug\net5.0\04. Array Rotation - Exercese.pdb
+D:\SoftUni Fundamentals\Array\01. Day of Week\04. Array Rotation - Exercese\obj\Debug\net5.0\04. Array Rotation - Exercese.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Fundamentals\Array\01. Day of Week\04. Array Rotation - Exercese\obj\Debug\net5.0\04. Array Rotation - Exercese.AssemblyInfoInputs.cache
+D:\SoftUni Fundamentals\Array\01. Day of Week\04. Array Rotation - Exercese\obj\Debug\net5.0\04. Array Rotation - Exercese.AssemblyInfo.cs
+D:\SoftUni Fundamentals\Array\01. Day of Week\04. Array Rotation - Exercese\obj\Debug\net5.0\04. Array Rotation - Exercese.csproj.CoreCompileInputs.cache
+D:\SoftUni Fundamentals\Array\01. Day of Week\04. Array Rotation - Exercese\obj\Debug\net5.0\04. Array Rotation - Exercese.dll
+D:\SoftUni Fundamentals\Array\01. Day of Week\04. Array Rotation - Exercese\obj\Debug\net5.0\ref\04. Array Rotation - Exercese.dll
+D:\SoftUni Fundamentals\Array\01. Day of Week\04. Array Rotation - Exercese\obj\Debug\net5.0\04. Array Rotation - Exercese.pdb
+D:\SoftUni Fundamentals\Array\01. Day of Week\04. Array Rotation - Exercese\obj\Debug\net5.0\04. Array Rotation - Exercese.genruntimeconfig.cache
+D:\SoftUni Fundamentals\Array\01. Day of Week\04. Array Rotation - Exercese\obj\Debug\net5.0\04. Array Rotation - Exercese.csproj.AssemblyReference.cache
