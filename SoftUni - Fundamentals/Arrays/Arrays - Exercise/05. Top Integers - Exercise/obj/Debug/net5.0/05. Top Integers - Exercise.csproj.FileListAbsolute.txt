@@ -1,0 +1,16 @@
+D:\SoftUni Fundamentals\Array\01. Day of Week\05. Top Integers - Exercise\bin\Debug\net5.0\05. Top Integers - Exercise.exe
+D:\SoftUni Fundamentals\Array\01. Day of Week\05. Top Integers - Exercise\bin\Debug\net5.0\05. Top Integers - Exercise.deps.json
+D:\SoftUni Fundamentals\Array\01. Day of Week\05. Top Integers - Exercise\bin\Debug\net5.0\05. Top Integers - Exercise.runtimeconfig.json
+D:\SoftUni Fundamentals\Array\01. Day of Week\05. Top Integers - Exercise\bin\Debug\net5.0\05. Top Integers - Exercise.runtimeconfig.dev.json
+D:\SoftUni Fundamentals\Array\01. Day of Week\05. Top Integers - Exercise\bin\Debug\net5.0\05. Top Integers - Exercise.dll
+D:\SoftUni Fundamentals\Array\01. Day of Week\05. Top Integers - Exercise\bin\Debug\net5.0\ref\05. Top Integers - Exercise.dll
+D:\SoftUni Fundamentals\Array\01. Day of Week\05. Top Integers - Exercise\bin\Debug\net5.0\05. Top Integers - Exercise.pdb
+D:\SoftUni Fundamentals\Array\01. Day of Week\05. Top Integers - Exercise\obj\Debug\net5.0\05. Top Integers - Exercise.csproj.AssemblyReference.cache
+D:\SoftUni Fundamentals\Array\01. Day of Week\05. Top Integers - Exercise\obj\Debug\net5.0\05. Top Integers - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Fundamentals\Array\01. Day of Week\05. Top Integers - Exercise\obj\Debug\net5.0\05. Top Integers - Exercise.AssemblyInfoInputs.cache
+D:\SoftUni Fundamentals\Array\01. Day of Week\05. Top Integers - Exercise\obj\Debug\net5.0\05. Top Integers - Exercise.AssemblyInfo.cs
+D:\SoftUni Fundamentals\Array\01. Day of Week\05. Top Integers - Exercise\obj\Debug\net5.0\05. Top Integers - Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni Fundamentals\Array\01. Day of Week\05. Top Integers - Exercise\obj\Debug\net5.0\05. Top Integers - Exercise.dll
+D:\SoftUni Fundamentals\Array\01. Day of Week\05. Top Integers - Exercise\obj\Debug\net5.0\ref\05. Top Integers - Exercise.dll
+D:\SoftUni Fundamentals\Array\01. Day of Week\05. Top Integers - Exercise\obj\Debug\net5.0\05. Top Integers - Exercise.pdb
+D:\SoftUni Fundamentals\Array\01. Day of Week\05. Top Integers - Exercise\obj\Debug\net5.0\05. Top Integers - Exercise.genruntimeconfig.cache
