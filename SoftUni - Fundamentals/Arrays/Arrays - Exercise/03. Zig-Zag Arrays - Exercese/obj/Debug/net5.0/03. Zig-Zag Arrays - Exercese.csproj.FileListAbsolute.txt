@@ -1,0 +1,16 @@
+D:\SoftUni Fundamentals\Array\01. Day of Week\03. Zig-Zag Arrays - Exercese\bin\Debug\net5.0\03. Zig-Zag Arrays - Exercese.exe
+D:\SoftUni Fundamentals\Array\01. Day of Week\03. Zig-Zag Arrays - Exercese\bin\Debug\net5.0\03. Zig-Zag Arrays - Exercese.deps.json
+D:\SoftUni Fundamentals\Array\01. Day of Week\03. Zig-Zag Arrays - Exercese\bin\Debug\net5.0\03. Zig-Zag Arrays - Exercese.runtimeconfig.json
+D:\SoftUni Fundamentals\Array\01. Day of Week\03. Zig-Zag Arrays - Exercese\bin\Debug\net5.0\03. Zig-Zag Arrays - Exercese.runtimeconfig.dev.json
+D:\SoftUni Fundamentals\Array\01. Day of Week\03. Zig-Zag Arrays - Exercese\bin\Debug\net5.0\03. Zig-Zag Arrays - Exercese.dll
+D:\SoftUni Fundamentals\Array\01. Day of Week\03. Zig-Zag Arrays - Exercese\bin\Debug\net5.0\ref\03. Zig-Zag Arrays - Exercese.dll
+D:\SoftUni Fundamentals\Array\01. Day of Week\03. Zig-Zag Arrays - Exercese\bin\Debug\net5.0\03. Zig-Zag Arrays - Exercese.pdb
+D:\SoftUni Fundamentals\Array\01. Day of Week\03. Zig-Zag Arrays - Exercese\obj\Debug\net5.0\03. Zig-Zag Arrays - Exercese.csproj.AssemblyReference.cache
+D:\SoftUni Fundamentals\Array\01. Day of Week\03. Zig-Zag Arrays - Exercese\obj\Debug\net5.0\03. Zig-Zag Arrays - Exercese.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Fundamentals\Array\01. Day of Week\03. Zig-Zag Arrays - Exercese\obj\Debug\net5.0\03. Zig-Zag Arrays - Exercese.AssemblyInfoInputs.cache
+D:\SoftUni Fundamentals\Array\01. Day of Week\03. Zig-Zag Arrays - Exercese\obj\Debug\net5.0\03. Zig-Zag Arrays - Exercese.AssemblyInfo.cs
+D:\SoftUni Fundamentals\Array\01. Day of Week\03. Zig-Zag Arrays - Exercese\obj\Debug\net5.0\03. Zig-Zag Arrays - Exercese.csproj.CoreCompileInputs.cache
+D:\SoftUni Fundamentals\Array\01. Day of Week\03. Zig-Zag Arrays - Exercese\obj\Debug\net5.0\03. Zig-Zag Arrays - Exercese.dll
+D:\SoftUni Fundamentals\Array\01. Day of Week\03. Zig-Zag Arrays - Exercese\obj\Debug\net5.0\ref\03. Zig-Zag Arrays - Exercese.dll
+D:\SoftUni Fundamentals\Array\01. Day of Week\03. Zig-Zag Arrays - Exercese\obj\Debug\net5.0\03. Zig-Zag Arrays - Exercese.pdb
+D:\SoftUni Fundamentals\Array\01. Day of Week\03. Zig-Zag Arrays - Exercese\obj\Debug\net5.0\03. Zig-Zag Arrays - Exercese.genruntimeconfig.cache
