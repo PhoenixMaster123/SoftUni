@@ -1,0 +1,16 @@
+D:\SoftUni Fundamentals\Methods\Methods\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.exe
+D:\SoftUni Fundamentals\Methods\Methods\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.deps.json
+D:\SoftUni Fundamentals\Methods\Methods\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.runtimeconfig.json
+D:\SoftUni Fundamentals\Methods\Methods\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.runtimeconfig.dev.json
+D:\SoftUni Fundamentals\Methods\Methods\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.dll
+D:\SoftUni Fundamentals\Methods\Methods\01. Sign of Integer Numbers\bin\Debug\net5.0\ref\01. Sign of Integer Numbers.dll
+D:\SoftUni Fundamentals\Methods\Methods\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.pdb
+D:\SoftUni Fundamentals\Methods\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.csproj.AssemblyReference.cache
+D:\SoftUni Fundamentals\Methods\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Fundamentals\Methods\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.AssemblyInfoInputs.cache
+D:\SoftUni Fundamentals\Methods\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.AssemblyInfo.cs
+D:\SoftUni Fundamentals\Methods\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni Fundamentals\Methods\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.dll
+D:\SoftUni Fundamentals\Methods\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\ref\01. Sign of Integer Numbers.dll
+D:\SoftUni Fundamentals\Methods\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.pdb
+D:\SoftUni Fundamentals\Methods\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.genruntimeconfig.cache
