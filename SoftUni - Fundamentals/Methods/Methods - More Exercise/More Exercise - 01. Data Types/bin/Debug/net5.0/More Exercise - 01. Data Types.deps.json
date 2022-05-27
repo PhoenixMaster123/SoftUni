@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "More Exercise - 01. Data Types/1.0.0": {
+        "runtime": {
+          "More Exercise - 01. Data Types.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "More Exercise - 01. Data Types/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
