@@ -1,0 +1,15 @@
+D:\SoftUni Fundamentals\Methods\Methods\More Exercise - 05. Multiplication Sign\bin\Debug\net5.0\More Exercise - 05. Multiplication Sign.exe
+D:\SoftUni Fundamentals\Methods\Methods\More Exercise - 05. Multiplication Sign\bin\Debug\net5.0\More Exercise - 05. Multiplication Sign.deps.json
+D:\SoftUni Fundamentals\Methods\Methods\More Exercise - 05. Multiplication Sign\bin\Debug\net5.0\More Exercise - 05. Multiplication Sign.runtimeconfig.json
+D:\SoftUni Fundamentals\Methods\Methods\More Exercise - 05. Multiplication Sign\bin\Debug\net5.0\More Exercise - 05. Multiplication Sign.runtimeconfig.dev.json
+D:\SoftUni Fundamentals\Methods\Methods\More Exercise - 05. Multiplication Sign\bin\Debug\net5.0\More Exercise - 05. Multiplication Sign.dll
+D:\SoftUni Fundamentals\Methods\Methods\More Exercise - 05. Multiplication Sign\bin\Debug\net5.0\ref\More Exercise - 05. Multiplication Sign.dll
+D:\SoftUni Fundamentals\Methods\Methods\More Exercise - 05. Multiplication Sign\bin\Debug\net5.0\More Exercise - 05. Multiplication Sign.pdb
+D:\SoftUni Fundamentals\Methods\Methods\More Exercise - 05. Multiplication Sign\obj\Debug\net5.0\More Exercise - 05. Multiplication Sign.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Fundamentals\Methods\Methods\More Exercise - 05. Multiplication Sign\obj\Debug\net5.0\More Exercise - 05. Multiplication Sign.AssemblyInfoInputs.cache
+D:\SoftUni Fundamentals\Methods\Methods\More Exercise - 05. Multiplication Sign\obj\Debug\net5.0\More Exercise - 05. Multiplication Sign.AssemblyInfo.cs
+D:\SoftUni Fundamentals\Methods\Methods\More Exercise - 05. Multiplication Sign\obj\Debug\net5.0\More Exercise - 05. Multiplication Sign.csproj.CoreCompileInputs.cache
+D:\SoftUni Fundamentals\Methods\Methods\More Exercise - 05. Multiplication Sign\obj\Debug\net5.0\More Exercise - 05. Multiplication Sign.dll
+D:\SoftUni Fundamentals\Methods\Methods\More Exercise - 05. Multiplication Sign\obj\Debug\net5.0\ref\More Exercise - 05. Multiplication Sign.dll
+D:\SoftUni Fundamentals\Methods\Methods\More Exercise - 05. Multiplication Sign\obj\Debug\net5.0\More Exercise - 05. Multiplication Sign.pdb
+D:\SoftUni Fundamentals\Methods\Methods\More Exercise - 05. Multiplication Sign\obj\Debug\net5.0\More Exercise - 05. Multiplication Sign.genruntimeconfig.cache
