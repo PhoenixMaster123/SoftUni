@@ -1,0 +1,16 @@
+D:\SoftUni Fundamentals\Methods\Methods\Exercise - 06. Middle Characters\bin\Debug\net5.0\Exercise - 06. Middle Characters.exe
+D:\SoftUni Fundamentals\Methods\Methods\Exercise - 06. Middle Characters\bin\Debug\net5.0\Exercise - 06. Middle Characters.deps.json
+D:\SoftUni Fundamentals\Methods\Methods\Exercise - 06. Middle Characters\bin\Debug\net5.0\Exercise - 06. Middle Characters.runtimeconfig.json
+D:\SoftUni Fundamentals\Methods\Methods\Exercise - 06. Middle Characters\bin\Debug\net5.0\Exercise - 06. Middle Characters.runtimeconfig.dev.json
+D:\SoftUni Fundamentals\Methods\Methods\Exercise - 06. Middle Characters\bin\Debug\net5.0\Exercise - 06. Middle Characters.dll
+D:\SoftUni Fundamentals\Methods\Methods\Exercise - 06. Middle Characters\bin\Debug\net5.0\ref\Exercise - 06. Middle Characters.dll
+D:\SoftUni Fundamentals\Methods\Methods\Exercise - 06. Middle Characters\bin\Debug\net5.0\Exercise - 06. Middle Characters.pdb
+D:\SoftUni Fundamentals\Methods\Methods\Exercise - 06. Middle Characters\obj\Debug\net5.0\Exercise - 06. Middle Characters.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Fundamentals\Methods\Methods\Exercise - 06. Middle Characters\obj\Debug\net5.0\Exercise - 06. Middle Characters.AssemblyInfoInputs.cache
+D:\SoftUni Fundamentals\Methods\Methods\Exercise - 06. Middle Characters\obj\Debug\net5.0\Exercise - 06. Middle Characters.AssemblyInfo.cs
+D:\SoftUni Fundamentals\Methods\Methods\Exercise - 06. Middle Characters\obj\Debug\net5.0\Exercise - 06. Middle Characters.csproj.CoreCompileInputs.cache
+D:\SoftUni Fundamentals\Methods\Methods\Exercise - 06. Middle Characters\obj\Debug\net5.0\Exercise - 06. Middle Characters.dll
+D:\SoftUni Fundamentals\Methods\Methods\Exercise - 06. Middle Characters\obj\Debug\net5.0\ref\Exercise - 06. Middle Characters.dll
+D:\SoftUni Fundamentals\Methods\Methods\Exercise - 06. Middle Characters\obj\Debug\net5.0\Exercise - 06. Middle Characters.pdb
+D:\SoftUni Fundamentals\Methods\Methods\Exercise - 06. Middle Characters\obj\Debug\net5.0\Exercise - 06. Middle Characters.genruntimeconfig.cache
+D:\SoftUni Fundamentals\Methods\Methods\Exercise - 06. Middle Characters\obj\Debug\net5.0\Exercise - 06. Middle Characters.csproj.AssemblyReference.cache
