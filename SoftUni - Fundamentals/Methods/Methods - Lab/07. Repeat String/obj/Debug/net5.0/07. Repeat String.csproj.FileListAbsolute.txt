@@ -1,0 +1,15 @@
+D:\SoftUni Fundamentals\Methods\Methods\07. Repeat String\bin\Debug\net5.0\07. Repeat String.exe
+D:\SoftUni Fundamentals\Methods\Methods\07. Repeat String\bin\Debug\net5.0\07. Repeat String.deps.json
+D:\SoftUni Fundamentals\Methods\Methods\07. Repeat String\bin\Debug\net5.0\07. Repeat String.runtimeconfig.json
+D:\SoftUni Fundamentals\Methods\Methods\07. Repeat String\bin\Debug\net5.0\07. Repeat String.runtimeconfig.dev.json
+D:\SoftUni Fundamentals\Methods\Methods\07. Repeat String\bin\Debug\net5.0\07. Repeat String.dll
+D:\SoftUni Fundamentals\Methods\Methods\07. Repeat String\bin\Debug\net5.0\ref\07. Repeat String.dll
+D:\SoftUni Fundamentals\Methods\Methods\07. Repeat String\bin\Debug\net5.0\07. Repeat String.pdb
+D:\SoftUni Fundamentals\Methods\Methods\07. Repeat String\obj\Debug\net5.0\07. Repeat String.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Fundamentals\Methods\Methods\07. Repeat String\obj\Debug\net5.0\07. Repeat String.AssemblyInfoInputs.cache
+D:\SoftUni Fundamentals\Methods\Methods\07. Repeat String\obj\Debug\net5.0\07. Repeat String.AssemblyInfo.cs
+D:\SoftUni Fundamentals\Methods\Methods\07. Repeat String\obj\Debug\net5.0\07. Repeat String.csproj.CoreCompileInputs.cache
+D:\SoftUni Fundamentals\Methods\Methods\07. Repeat String\obj\Debug\net5.0\07. Repeat String.dll
+D:\SoftUni Fundamentals\Methods\Methods\07. Repeat String\obj\Debug\net5.0\ref\07. Repeat String.dll
+D:\SoftUni Fundamentals\Methods\Methods\07. Repeat String\obj\Debug\net5.0\07. Repeat String.pdb
+D:\SoftUni Fundamentals\Methods\Methods\07. Repeat String\obj\Debug\net5.0\07. Repeat String.genruntimeconfig.cache
