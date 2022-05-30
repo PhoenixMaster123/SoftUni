@@ -1,0 +1,15 @@
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 06. Cards Game\bin\Debug\net5.0\Exercise - 06. Cards Game.exe
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 06. Cards Game\bin\Debug\net5.0\Exercise - 06. Cards Game.deps.json
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 06. Cards Game\bin\Debug\net5.0\Exercise - 06. Cards Game.runtimeconfig.json
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 06. Cards Game\bin\Debug\net5.0\Exercise - 06. Cards Game.runtimeconfig.dev.json
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 06. Cards Game\bin\Debug\net5.0\Exercise - 06. Cards Game.dll
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 06. Cards Game\bin\Debug\net5.0\ref\Exercise - 06. Cards Game.dll
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 06. Cards Game\bin\Debug\net5.0\Exercise - 06. Cards Game.pdb
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 06. Cards Game\obj\Debug\net5.0\Exercise - 06. Cards Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 06. Cards Game\obj\Debug\net5.0\Exercise - 06. Cards Game.AssemblyInfoInputs.cache
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 06. Cards Game\obj\Debug\net5.0\Exercise - 06. Cards Game.AssemblyInfo.cs
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 06. Cards Game\obj\Debug\net5.0\Exercise - 06. Cards Game.csproj.CoreCompileInputs.cache
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 06. Cards Game\obj\Debug\net5.0\Exercise - 06. Cards Game.dll
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 06. Cards Game\obj\Debug\net5.0\ref\Exercise - 06. Cards Game.dll
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 06. Cards Game\obj\Debug\net5.0\Exercise - 06. Cards Game.pdb
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 06. Cards Game\obj\Debug\net5.0\Exercise - 06. Cards Game.genruntimeconfig.cache
