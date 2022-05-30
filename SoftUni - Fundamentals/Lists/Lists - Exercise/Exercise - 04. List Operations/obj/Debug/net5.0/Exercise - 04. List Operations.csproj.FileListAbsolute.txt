@@ -1,0 +1,16 @@
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 04. List Operations\bin\Debug\net5.0\Exercise - 04. List Operations.exe
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 04. List Operations\bin\Debug\net5.0\Exercise - 04. List Operations.deps.json
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 04. List Operations\bin\Debug\net5.0\Exercise - 04. List Operations.runtimeconfig.json
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 04. List Operations\bin\Debug\net5.0\Exercise - 04. List Operations.runtimeconfig.dev.json
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 04. List Operations\bin\Debug\net5.0\Exercise - 04. List Operations.dll
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 04. List Operations\bin\Debug\net5.0\ref\Exercise - 04. List Operations.dll
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 04. List Operations\bin\Debug\net5.0\Exercise - 04. List Operations.pdb
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 04. List Operations\obj\Debug\net5.0\Exercise - 04. List Operations.csproj.AssemblyReference.cache
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 04. List Operations\obj\Debug\net5.0\Exercise - 04. List Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 04. List Operations\obj\Debug\net5.0\Exercise - 04. List Operations.AssemblyInfoInputs.cache
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 04. List Operations\obj\Debug\net5.0\Exercise - 04. List Operations.AssemblyInfo.cs
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 04. List Operations\obj\Debug\net5.0\Exercise - 04. List Operations.csproj.CoreCompileInputs.cache
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 04. List Operations\obj\Debug\net5.0\Exercise - 04. List Operations.dll
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 04. List Operations\obj\Debug\net5.0\ref\Exercise - 04. List Operations.dll
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 04. List Operations\obj\Debug\net5.0\Exercise - 04. List Operations.pdb
+D:\SoftUni Fundamentals\Lists\Lists\Exercise - 04. List Operations\obj\Debug\net5.0\Exercise - 04. List Operations.genruntimeconfig.cache
