@@ -1,0 +1,16 @@
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\02. Big Factorial - Lab\bin\Debug\net5.0\02. Big Factorial - Lab.exe
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\02. Big Factorial - Lab\bin\Debug\net5.0\02. Big Factorial - Lab.deps.json
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\02. Big Factorial - Lab\bin\Debug\net5.0\02. Big Factorial - Lab.runtimeconfig.json
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\02. Big Factorial - Lab\bin\Debug\net5.0\02. Big Factorial - Lab.runtimeconfig.dev.json
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\02. Big Factorial - Lab\bin\Debug\net5.0\02. Big Factorial - Lab.dll
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\02. Big Factorial - Lab\bin\Debug\net5.0\ref\02. Big Factorial - Lab.dll
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\02. Big Factorial - Lab\bin\Debug\net5.0\02. Big Factorial - Lab.pdb
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\02. Big Factorial - Lab\obj\Debug\net5.0\02. Big Factorial - Lab.csproj.AssemblyReference.cache
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\02. Big Factorial - Lab\obj\Debug\net5.0\02. Big Factorial - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\02. Big Factorial - Lab\obj\Debug\net5.0\02. Big Factorial - Lab.AssemblyInfoInputs.cache
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\02. Big Factorial - Lab\obj\Debug\net5.0\02. Big Factorial - Lab.AssemblyInfo.cs
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\02. Big Factorial - Lab\obj\Debug\net5.0\02. Big Factorial - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\02. Big Factorial - Lab\obj\Debug\net5.0\02. Big Factorial - Lab.dll
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\02. Big Factorial - Lab\obj\Debug\net5.0\ref\02. Big Factorial - Lab.dll
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\02. Big Factorial - Lab\obj\Debug\net5.0\02. Big Factorial - Lab.pdb
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\02. Big Factorial - Lab\obj\Debug\net5.0\02. Big Factorial - Lab.genruntimeconfig.cache
