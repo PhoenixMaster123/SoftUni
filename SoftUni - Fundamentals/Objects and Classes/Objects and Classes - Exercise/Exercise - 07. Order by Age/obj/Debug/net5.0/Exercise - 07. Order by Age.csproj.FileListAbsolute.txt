@@ -1,0 +1,15 @@
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\Exercise - 07. Order by Age\bin\Debug\net5.0\Exercise - 07. Order by Age.exe
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\Exercise - 07. Order by Age\bin\Debug\net5.0\Exercise - 07. Order by Age.deps.json
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\Exercise - 07. Order by Age\bin\Debug\net5.0\Exercise - 07. Order by Age.runtimeconfig.json
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\Exercise - 07. Order by Age\bin\Debug\net5.0\Exercise - 07. Order by Age.runtimeconfig.dev.json
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\Exercise - 07. Order by Age\bin\Debug\net5.0\Exercise - 07. Order by Age.dll
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\Exercise - 07. Order by Age\bin\Debug\net5.0\ref\Exercise - 07. Order by Age.dll
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\Exercise - 07. Order by Age\bin\Debug\net5.0\Exercise - 07. Order by Age.pdb
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\Exercise - 07. Order by Age\obj\Debug\net5.0\Exercise - 07. Order by Age.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\Exercise - 07. Order by Age\obj\Debug\net5.0\Exercise - 07. Order by Age.AssemblyInfoInputs.cache
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\Exercise - 07. Order by Age\obj\Debug\net5.0\Exercise - 07. Order by Age.AssemblyInfo.cs
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\Exercise - 07. Order by Age\obj\Debug\net5.0\Exercise - 07. Order by Age.csproj.CoreCompileInputs.cache
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\Exercise - 07. Order by Age\obj\Debug\net5.0\Exercise - 07. Order by Age.dll
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\Exercise - 07. Order by Age\obj\Debug\net5.0\ref\Exercise - 07. Order by Age.dll
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\Exercise - 07. Order by Age\obj\Debug\net5.0\Exercise - 07. Order by Age.pdb
+D:\SoftUni Fundamentals\Objects and Classes\Objects and Classes\Exercise - 07. Order by Age\obj\Debug\net5.0\Exercise - 07. Order by Age.genruntimeconfig.cache
