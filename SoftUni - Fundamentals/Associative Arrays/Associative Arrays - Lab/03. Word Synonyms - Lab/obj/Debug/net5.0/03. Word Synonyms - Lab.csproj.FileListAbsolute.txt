@@ -1,0 +1,16 @@
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\03. Word Synonyms - Lab\bin\Debug\net5.0\03. Word Synonyms - Lab.exe
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\03. Word Synonyms - Lab\bin\Debug\net5.0\03. Word Synonyms - Lab.deps.json
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\03. Word Synonyms - Lab\bin\Debug\net5.0\03. Word Synonyms - Lab.runtimeconfig.json
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\03. Word Synonyms - Lab\bin\Debug\net5.0\03. Word Synonyms - Lab.runtimeconfig.dev.json
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\03. Word Synonyms - Lab\bin\Debug\net5.0\03. Word Synonyms - Lab.dll
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\03. Word Synonyms - Lab\bin\Debug\net5.0\ref\03. Word Synonyms - Lab.dll
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\03. Word Synonyms - Lab\bin\Debug\net5.0\03. Word Synonyms - Lab.pdb
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\03. Word Synonyms - Lab\obj\Debug\net5.0\03. Word Synonyms - Lab.csproj.AssemblyReference.cache
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\03. Word Synonyms - Lab\obj\Debug\net5.0\03. Word Synonyms - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\03. Word Synonyms - Lab\obj\Debug\net5.0\03. Word Synonyms - Lab.AssemblyInfoInputs.cache
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\03. Word Synonyms - Lab\obj\Debug\net5.0\03. Word Synonyms - Lab.AssemblyInfo.cs
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\03. Word Synonyms - Lab\obj\Debug\net5.0\03. Word Synonyms - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\03. Word Synonyms - Lab\obj\Debug\net5.0\03. Word Synonyms - Lab.dll
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\03. Word Synonyms - Lab\obj\Debug\net5.0\ref\03. Word Synonyms - Lab.dll
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\03. Word Synonyms - Lab\obj\Debug\net5.0\03. Word Synonyms - Lab.pdb
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\03. Word Synonyms - Lab\obj\Debug\net5.0\03. Word Synonyms - Lab.genruntimeconfig.cache
