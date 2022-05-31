@@ -1,0 +1,16 @@
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\04. Word Filter - Lab\bin\Debug\net5.0\04. Word Filter - Lab.exe
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\04. Word Filter - Lab\bin\Debug\net5.0\04. Word Filter - Lab.deps.json
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\04. Word Filter - Lab\bin\Debug\net5.0\04. Word Filter - Lab.runtimeconfig.json
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\04. Word Filter - Lab\bin\Debug\net5.0\04. Word Filter - Lab.runtimeconfig.dev.json
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\04. Word Filter - Lab\bin\Debug\net5.0\04. Word Filter - Lab.dll
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\04. Word Filter - Lab\bin\Debug\net5.0\ref\04. Word Filter - Lab.dll
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\04. Word Filter - Lab\bin\Debug\net5.0\04. Word Filter - Lab.pdb
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\04. Word Filter - Lab\obj\Debug\net5.0\04. Word Filter - Lab.csproj.AssemblyReference.cache
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\04. Word Filter - Lab\obj\Debug\net5.0\04. Word Filter - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\04. Word Filter - Lab\obj\Debug\net5.0\04. Word Filter - Lab.AssemblyInfoInputs.cache
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\04. Word Filter - Lab\obj\Debug\net5.0\04. Word Filter - Lab.AssemblyInfo.cs
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\04. Word Filter - Lab\obj\Debug\net5.0\04. Word Filter - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\04. Word Filter - Lab\obj\Debug\net5.0\04. Word Filter - Lab.dll
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\04. Word Filter - Lab\obj\Debug\net5.0\ref\04. Word Filter - Lab.dll
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\04. Word Filter - Lab\obj\Debug\net5.0\04. Word Filter - Lab.pdb
+D:\SoftUni Fundamentals\Associative Arrays\Associative Arrays\04. Word Filter - Lab\obj\Debug\net5.0\04. Word Filter - Lab.genruntimeconfig.cache
