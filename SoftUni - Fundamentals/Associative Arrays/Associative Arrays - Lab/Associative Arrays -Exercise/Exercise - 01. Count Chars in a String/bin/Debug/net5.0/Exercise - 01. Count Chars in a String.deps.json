@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercise - 01. Count Chars in a String/1.0.0": {
+        "runtime": {
+          "Exercise - 01. Count Chars in a String.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise - 01. Count Chars in a String/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
