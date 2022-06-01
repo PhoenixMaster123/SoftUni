@@ -1,0 +1,15 @@
+D:\SoftUni Fundamentals\Text Processing\Text Processing\Exercise - 06. Replace Repeating Chars\bin\Debug\net5.0\Exercise - 06. Replace Repeating Chars.exe
+D:\SoftUni Fundamentals\Text Processing\Text Processing\Exercise - 06. Replace Repeating Chars\bin\Debug\net5.0\Exercise - 06. Replace Repeating Chars.deps.json
+D:\SoftUni Fundamentals\Text Processing\Text Processing\Exercise - 06. Replace Repeating Chars\bin\Debug\net5.0\Exercise - 06. Replace Repeating Chars.runtimeconfig.json
+D:\SoftUni Fundamentals\Text Processing\Text Processing\Exercise - 06. Replace Repeating Chars\bin\Debug\net5.0\Exercise - 06. Replace Repeating Chars.runtimeconfig.dev.json
+D:\SoftUni Fundamentals\Text Processing\Text Processing\Exercise - 06. Replace Repeating Chars\bin\Debug\net5.0\Exercise - 06. Replace Repeating Chars.dll
+D:\SoftUni Fundamentals\Text Processing\Text Processing\Exercise - 06. Replace Repeating Chars\bin\Debug\net5.0\ref\Exercise - 06. Replace Repeating Chars.dll
+D:\SoftUni Fundamentals\Text Processing\Text Processing\Exercise - 06. Replace Repeating Chars\bin\Debug\net5.0\Exercise - 06. Replace Repeating Chars.pdb
+D:\SoftUni Fundamentals\Text Processing\Text Processing\Exercise - 06. Replace Repeating Chars\obj\Debug\net5.0\Exercise - 06. Replace Repeating Chars.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Fundamentals\Text Processing\Text Processing\Exercise - 06. Replace Repeating Chars\obj\Debug\net5.0\Exercise - 06. Replace Repeating Chars.AssemblyInfoInputs.cache
+D:\SoftUni Fundamentals\Text Processing\Text Processing\Exercise - 06. Replace Repeating Chars\obj\Debug\net5.0\Exercise - 06. Replace Repeating Chars.AssemblyInfo.cs
+D:\SoftUni Fundamentals\Text Processing\Text Processing\Exercise - 06. Replace Repeating Chars\obj\Debug\net5.0\Exercise - 06. Replace Repeating Chars.csproj.CoreCompileInputs.cache
+D:\SoftUni Fundamentals\Text Processing\Text Processing\Exercise - 06. Replace Repeating Chars\obj\Debug\net5.0\Exercise - 06. Replace Repeating Chars.dll
+D:\SoftUni Fundamentals\Text Processing\Text Processing\Exercise - 06. Replace Repeating Chars\obj\Debug\net5.0\ref\Exercise - 06. Replace Repeating Chars.dll
+D:\SoftUni Fundamentals\Text Processing\Text Processing\Exercise - 06. Replace Repeating Chars\obj\Debug\net5.0\Exercise - 06. Replace Repeating Chars.pdb
+D:\SoftUni Fundamentals\Text Processing\Text Processing\Exercise - 06. Replace Repeating Chars\obj\Debug\net5.0\Exercise - 06. Replace Repeating Chars.genruntimeconfig.cache
