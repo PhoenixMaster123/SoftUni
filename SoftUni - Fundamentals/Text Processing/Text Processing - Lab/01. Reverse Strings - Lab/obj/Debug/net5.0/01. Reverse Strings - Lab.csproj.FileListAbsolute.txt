@@ -1,0 +1,16 @@
+D:\SoftUni Fundamentals\Text Processing\Text Processing\01. Reverse Strings - Lab\bin\Debug\net5.0\01. Reverse Strings - Lab.exe
+D:\SoftUni Fundamentals\Text Processing\Text Processing\01. Reverse Strings - Lab\bin\Debug\net5.0\01. Reverse Strings - Lab.deps.json
+D:\SoftUni Fundamentals\Text Processing\Text Processing\01. Reverse Strings - Lab\bin\Debug\net5.0\01. Reverse Strings - Lab.runtimeconfig.json
+D:\SoftUni Fundamentals\Text Processing\Text Processing\01. Reverse Strings - Lab\bin\Debug\net5.0\01. Reverse Strings - Lab.runtimeconfig.dev.json
+D:\SoftUni Fundamentals\Text Processing\Text Processing\01. Reverse Strings - Lab\bin\Debug\net5.0\01. Reverse Strings - Lab.dll
+D:\SoftUni Fundamentals\Text Processing\Text Processing\01. Reverse Strings - Lab\bin\Debug\net5.0\ref\01. Reverse Strings - Lab.dll
+D:\SoftUni Fundamentals\Text Processing\Text Processing\01. Reverse Strings - Lab\bin\Debug\net5.0\01. Reverse Strings - Lab.pdb
+D:\SoftUni Fundamentals\Text Processing\Text Processing\01. Reverse Strings - Lab\obj\Debug\net5.0\01. Reverse Strings - Lab.csproj.AssemblyReference.cache
+D:\SoftUni Fundamentals\Text Processing\Text Processing\01. Reverse Strings - Lab\obj\Debug\net5.0\01. Reverse Strings - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Fundamentals\Text Processing\Text Processing\01. Reverse Strings - Lab\obj\Debug\net5.0\01. Reverse Strings - Lab.AssemblyInfoInputs.cache
+D:\SoftUni Fundamentals\Text Processing\Text Processing\01. Reverse Strings - Lab\obj\Debug\net5.0\01. Reverse Strings - Lab.AssemblyInfo.cs
+D:\SoftUni Fundamentals\Text Processing\Text Processing\01. Reverse Strings - Lab\obj\Debug\net5.0\01. Reverse Strings - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni Fundamentals\Text Processing\Text Processing\01. Reverse Strings - Lab\obj\Debug\net5.0\01. Reverse Strings - Lab.dll
+D:\SoftUni Fundamentals\Text Processing\Text Processing\01. Reverse Strings - Lab\obj\Debug\net5.0\ref\01. Reverse Strings - Lab.dll
+D:\SoftUni Fundamentals\Text Processing\Text Processing\01. Reverse Strings - Lab\obj\Debug\net5.0\01. Reverse Strings - Lab.pdb
+D:\SoftUni Fundamentals\Text Processing\Text Processing\01. Reverse Strings - Lab\obj\Debug\net5.0\01. Reverse Strings - Lab.genruntimeconfig.cache
