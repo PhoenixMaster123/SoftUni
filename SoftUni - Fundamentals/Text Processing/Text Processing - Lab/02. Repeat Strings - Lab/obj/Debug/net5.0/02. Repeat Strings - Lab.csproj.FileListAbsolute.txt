@@ -1,0 +1,16 @@
+D:\SoftUni Fundamentals\Text Processing\Text Processing\02. Repeat Strings - Lab\bin\Debug\net5.0\02. Repeat Strings - Lab.exe
+D:\SoftUni Fundamentals\Text Processing\Text Processing\02. Repeat Strings - Lab\bin\Debug\net5.0\02. Repeat Strings - Lab.deps.json
+D:\SoftUni Fundamentals\Text Processing\Text Processing\02. Repeat Strings - Lab\bin\Debug\net5.0\02. Repeat Strings - Lab.runtimeconfig.json
+D:\SoftUni Fundamentals\Text Processing\Text Processing\02. Repeat Strings - Lab\bin\Debug\net5.0\02. Repeat Strings - Lab.runtimeconfig.dev.json
+D:\SoftUni Fundamentals\Text Processing\Text Processing\02. Repeat Strings - Lab\bin\Debug\net5.0\02. Repeat Strings - Lab.dll
+D:\SoftUni Fundamentals\Text Processing\Text Processing\02. Repeat Strings - Lab\bin\Debug\net5.0\ref\02. Repeat Strings - Lab.dll
+D:\SoftUni Fundamentals\Text Processing\Text Processing\02. Repeat Strings - Lab\bin\Debug\net5.0\02. Repeat Strings - Lab.pdb
+D:\SoftUni Fundamentals\Text Processing\Text Processing\02. Repeat Strings - Lab\obj\Debug\net5.0\02. Repeat Strings - Lab.csproj.AssemblyReference.cache
+D:\SoftUni Fundamentals\Text Processing\Text Processing\02. Repeat Strings - Lab\obj\Debug\net5.0\02. Repeat Strings - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Fundamentals\Text Processing\Text Processing\02. Repeat Strings - Lab\obj\Debug\net5.0\02. Repeat Strings - Lab.AssemblyInfoInputs.cache
+D:\SoftUni Fundamentals\Text Processing\Text Processing\02. Repeat Strings - Lab\obj\Debug\net5.0\02. Repeat Strings - Lab.AssemblyInfo.cs
+D:\SoftUni Fundamentals\Text Processing\Text Processing\02. Repeat Strings - Lab\obj\Debug\net5.0\02. Repeat Strings - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni Fundamentals\Text Processing\Text Processing\02. Repeat Strings - Lab\obj\Debug\net5.0\02. Repeat Strings - Lab.dll
+D:\SoftUni Fundamentals\Text Processing\Text Processing\02. Repeat Strings - Lab\obj\Debug\net5.0\ref\02. Repeat Strings - Lab.dll
+D:\SoftUni Fundamentals\Text Processing\Text Processing\02. Repeat Strings - Lab\obj\Debug\net5.0\02. Repeat Strings - Lab.pdb
+D:\SoftUni Fundamentals\Text Processing\Text Processing\02. Repeat Strings - Lab\obj\Debug\net5.0\02. Repeat Strings - Lab.genruntimeconfig.cache
