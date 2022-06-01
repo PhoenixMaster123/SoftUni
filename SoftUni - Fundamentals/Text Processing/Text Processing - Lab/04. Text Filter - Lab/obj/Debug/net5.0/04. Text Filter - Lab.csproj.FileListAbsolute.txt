@@ -1,0 +1,16 @@
+D:\SoftUni Fundamentals\Text Processing\Text Processing\04. Text Filter - Lab\bin\Debug\net5.0\04. Text Filter - Lab.exe
+D:\SoftUni Fundamentals\Text Processing\Text Processing\04. Text Filter - Lab\bin\Debug\net5.0\04. Text Filter - Lab.deps.json
+D:\SoftUni Fundamentals\Text Processing\Text Processing\04. Text Filter - Lab\bin\Debug\net5.0\04. Text Filter - Lab.runtimeconfig.json
+D:\SoftUni Fundamentals\Text Processing\Text Processing\04. Text Filter - Lab\bin\Debug\net5.0\04. Text Filter - Lab.runtimeconfig.dev.json
+D:\SoftUni Fundamentals\Text Processing\Text Processing\04. Text Filter - Lab\bin\Debug\net5.0\04. Text Filter - Lab.dll
+D:\SoftUni Fundamentals\Text Processing\Text Processing\04. Text Filter - Lab\bin\Debug\net5.0\ref\04. Text Filter - Lab.dll
+D:\SoftUni Fundamentals\Text Processing\Text Processing\04. Text Filter - Lab\bin\Debug\net5.0\04. Text Filter - Lab.pdb
+D:\SoftUni Fundamentals\Text Processing\Text Processing\04. Text Filter - Lab\obj\Debug\net5.0\04. Text Filter - Lab.csproj.AssemblyReference.cache
+D:\SoftUni Fundamentals\Text Processing\Text Processing\04. Text Filter - Lab\obj\Debug\net5.0\04. Text Filter - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Fundamentals\Text Processing\Text Processing\04. Text Filter - Lab\obj\Debug\net5.0\04. Text Filter - Lab.AssemblyInfoInputs.cache
+D:\SoftUni Fundamentals\Text Processing\Text Processing\04. Text Filter - Lab\obj\Debug\net5.0\04. Text Filter - Lab.AssemblyInfo.cs
+D:\SoftUni Fundamentals\Text Processing\Text Processing\04. Text Filter - Lab\obj\Debug\net5.0\04. Text Filter - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni Fundamentals\Text Processing\Text Processing\04. Text Filter - Lab\obj\Debug\net5.0\04. Text Filter - Lab.dll
+D:\SoftUni Fundamentals\Text Processing\Text Processing\04. Text Filter - Lab\obj\Debug\net5.0\ref\04. Text Filter - Lab.dll
+D:\SoftUni Fundamentals\Text Processing\Text Processing\04. Text Filter - Lab\obj\Debug\net5.0\04. Text Filter - Lab.pdb
+D:\SoftUni Fundamentals\Text Processing\Text Processing\04. Text Filter - Lab\obj\Debug\net5.0\04. Text Filter - Lab.genruntimeconfig.cache
