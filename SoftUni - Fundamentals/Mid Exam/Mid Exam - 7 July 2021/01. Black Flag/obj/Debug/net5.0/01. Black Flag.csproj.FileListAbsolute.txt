@@ -1,0 +1,16 @@
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Black Flag\bin\Debug\net5.0\01. Black Flag.exe
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Black Flag\bin\Debug\net5.0\01. Black Flag.deps.json
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Black Flag\bin\Debug\net5.0\01. Black Flag.runtimeconfig.json
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Black Flag\bin\Debug\net5.0\01. Black Flag.runtimeconfig.dev.json
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Black Flag\bin\Debug\net5.0\01. Black Flag.dll
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Black Flag\bin\Debug\net5.0\ref\01. Black Flag.dll
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Black Flag\bin\Debug\net5.0\01. Black Flag.pdb
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Black Flag\obj\Debug\net5.0\01. Black Flag.csproj.AssemblyReference.cache
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Black Flag\obj\Debug\net5.0\01. Black Flag.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Black Flag\obj\Debug\net5.0\01. Black Flag.AssemblyInfoInputs.cache
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Black Flag\obj\Debug\net5.0\01. Black Flag.AssemblyInfo.cs
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Black Flag\obj\Debug\net5.0\01. Black Flag.csproj.CoreCompileInputs.cache
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Black Flag\obj\Debug\net5.0\01. Black Flag.dll
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Black Flag\obj\Debug\net5.0\ref\01. Black Flag.dll
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Black Flag\obj\Debug\net5.0\01. Black Flag.pdb
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Black Flag\obj\Debug\net5.0\01. Black Flag.genruntimeconfig.cache
