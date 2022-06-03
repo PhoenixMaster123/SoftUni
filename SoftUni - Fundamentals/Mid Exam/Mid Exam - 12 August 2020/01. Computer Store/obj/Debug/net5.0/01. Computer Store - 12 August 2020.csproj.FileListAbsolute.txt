@@ -1,0 +1,16 @@
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Computer Store\bin\Debug\net5.0\01. Computer Store - 12 August 2020.exe
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Computer Store\bin\Debug\net5.0\01. Computer Store - 12 August 2020.deps.json
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Computer Store\bin\Debug\net5.0\01. Computer Store - 12 August 2020.runtimeconfig.json
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Computer Store\bin\Debug\net5.0\01. Computer Store - 12 August 2020.runtimeconfig.dev.json
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Computer Store\bin\Debug\net5.0\01. Computer Store - 12 August 2020.dll
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Computer Store\bin\Debug\net5.0\ref\01. Computer Store - 12 August 2020.dll
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Computer Store\bin\Debug\net5.0\01. Computer Store - 12 August 2020.pdb
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Computer Store\obj\Debug\net5.0\01. Computer Store - 12 August 2020.csproj.AssemblyReference.cache
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Computer Store\obj\Debug\net5.0\01. Computer Store - 12 August 2020.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Computer Store\obj\Debug\net5.0\01. Computer Store - 12 August 2020.AssemblyInfoInputs.cache
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Computer Store\obj\Debug\net5.0\01. Computer Store - 12 August 2020.AssemblyInfo.cs
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Computer Store\obj\Debug\net5.0\01. Computer Store - 12 August 2020.csproj.CoreCompileInputs.cache
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Computer Store\obj\Debug\net5.0\01. Computer Store - 12 August 2020.dll
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Computer Store\obj\Debug\net5.0\ref\01. Computer Store - 12 August 2020.dll
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Computer Store\obj\Debug\net5.0\01. Computer Store - 12 August 2020.pdb
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\01. Computer Store\obj\Debug\net5.0\01. Computer Store - 12 August 2020.genruntimeconfig.cache
