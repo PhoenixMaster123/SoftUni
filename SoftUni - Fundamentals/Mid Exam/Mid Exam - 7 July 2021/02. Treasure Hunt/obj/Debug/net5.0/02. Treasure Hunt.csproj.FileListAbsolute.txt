@@ -1,0 +1,16 @@
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\02. Treasure Hunt\bin\Debug\net5.0\02. Treasure Hunt.exe
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\02. Treasure Hunt\bin\Debug\net5.0\02. Treasure Hunt.deps.json
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\02. Treasure Hunt\bin\Debug\net5.0\02. Treasure Hunt.runtimeconfig.json
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\02. Treasure Hunt\bin\Debug\net5.0\02. Treasure Hunt.runtimeconfig.dev.json
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\02. Treasure Hunt\bin\Debug\net5.0\02. Treasure Hunt.dll
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\02. Treasure Hunt\bin\Debug\net5.0\ref\02. Treasure Hunt.dll
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\02. Treasure Hunt\bin\Debug\net5.0\02. Treasure Hunt.pdb
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\02. Treasure Hunt\obj\Debug\net5.0\02. Treasure Hunt.csproj.AssemblyReference.cache
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\02. Treasure Hunt\obj\Debug\net5.0\02. Treasure Hunt.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\02. Treasure Hunt\obj\Debug\net5.0\02. Treasure Hunt.AssemblyInfoInputs.cache
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\02. Treasure Hunt\obj\Debug\net5.0\02. Treasure Hunt.AssemblyInfo.cs
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\02. Treasure Hunt\obj\Debug\net5.0\02. Treasure Hunt.csproj.CoreCompileInputs.cache
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\02. Treasure Hunt\obj\Debug\net5.0\02. Treasure Hunt.dll
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\02. Treasure Hunt\obj\Debug\net5.0\ref\02. Treasure Hunt.dll
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\02. Treasure Hunt\obj\Debug\net5.0\02. Treasure Hunt.pdb
+D:\SoftUni Fundamentals\Mid Exam\Mid Exam - 12 August 2020\02. Treasure Hunt\obj\Debug\net5.0\02. Treasure Hunt.genruntimeconfig.cache
