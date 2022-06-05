@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Basic Stack Operations - Exercise\bin\Debug\net5.0\1. Basic Stack Operations - Exercise.exe
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Basic Stack Operations - Exercise\bin\Debug\net5.0\1. Basic Stack Operations - Exercise.deps.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Basic Stack Operations - Exercise\bin\Debug\net5.0\1. Basic Stack Operations - Exercise.runtimeconfig.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Basic Stack Operations - Exercise\bin\Debug\net5.0\1. Basic Stack Operations - Exercise.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Basic Stack Operations - Exercise\bin\Debug\net5.0\1. Basic Stack Operations - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Basic Stack Operations - Exercise\bin\Debug\net5.0\ref\1. Basic Stack Operations - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Basic Stack Operations - Exercise\bin\Debug\net5.0\1. Basic Stack Operations - Exercise.pdb
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Basic Stack Operations - Exercise\obj\Debug\net5.0\1. Basic Stack Operations - Exercise.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Basic Stack Operations - Exercise\obj\Debug\net5.0\1. Basic Stack Operations - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Basic Stack Operations - Exercise\obj\Debug\net5.0\1. Basic Stack Operations - Exercise.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Basic Stack Operations - Exercise\obj\Debug\net5.0\1. Basic Stack Operations - Exercise.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Basic Stack Operations - Exercise\obj\Debug\net5.0\1. Basic Stack Operations - Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Basic Stack Operations - Exercise\obj\Debug\net5.0\1. Basic Stack Operations - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Basic Stack Operations - Exercise\obj\Debug\net5.0\ref\1. Basic Stack Operations - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Basic Stack Operations - Exercise\obj\Debug\net5.0\1. Basic Stack Operations - Exercise.pdb
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Basic Stack Operations - Exercise\obj\Debug\net5.0\1. Basic Stack Operations - Exercise.genruntimeconfig.cache
