@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "5. Fashion Boutique - Exercise/1.0.0": {
+        "runtime": {
+          "5. Fashion Boutique - Exercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5. Fashion Boutique - Exercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

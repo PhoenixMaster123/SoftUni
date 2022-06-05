@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\5. Fashion Boutique - Exercise\bin\Debug\net5.0\5. Fashion Boutique - Exercise.exe
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\5. Fashion Boutique - Exercise\bin\Debug\net5.0\5. Fashion Boutique - Exercise.deps.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\5. Fashion Boutique - Exercise\bin\Debug\net5.0\5. Fashion Boutique - Exercise.runtimeconfig.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\5. Fashion Boutique - Exercise\bin\Debug\net5.0\5. Fashion Boutique - Exercise.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\5. Fashion Boutique - Exercise\bin\Debug\net5.0\5. Fashion Boutique - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\5. Fashion Boutique - Exercise\bin\Debug\net5.0\ref\5. Fashion Boutique - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\5. Fashion Boutique - Exercise\bin\Debug\net5.0\5. Fashion Boutique - Exercise.pdb
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\5. Fashion Boutique - Exercise\obj\Debug\net5.0\5. Fashion Boutique - Exercise.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\5. Fashion Boutique - Exercise\obj\Debug\net5.0\5. Fashion Boutique - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\5. Fashion Boutique - Exercise\obj\Debug\net5.0\5. Fashion Boutique - Exercise.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\5. Fashion Boutique - Exercise\obj\Debug\net5.0\5. Fashion Boutique - Exercise.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\5. Fashion Boutique - Exercise\obj\Debug\net5.0\5. Fashion Boutique - Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\5. Fashion Boutique - Exercise\obj\Debug\net5.0\5. Fashion Boutique - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\5. Fashion Boutique - Exercise\obj\Debug\net5.0\ref\5. Fashion Boutique - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\5. Fashion Boutique - Exercise\obj\Debug\net5.0\5. Fashion Boutique - Exercise.pdb
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\5. Fashion Boutique - Exercise\obj\Debug\net5.0\5. Fashion Boutique - Exercise.genruntimeconfig.cache
