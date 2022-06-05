@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\6. Songs Queue - Exercise\bin\Debug\net5.0\6. Songs Queue - Exercise.exe
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\6. Songs Queue - Exercise\bin\Debug\net5.0\6. Songs Queue - Exercise.deps.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\6. Songs Queue - Exercise\bin\Debug\net5.0\6. Songs Queue - Exercise.runtimeconfig.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\6. Songs Queue - Exercise\bin\Debug\net5.0\6. Songs Queue - Exercise.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\6. Songs Queue - Exercise\bin\Debug\net5.0\6. Songs Queue - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\6. Songs Queue - Exercise\bin\Debug\net5.0\ref\6. Songs Queue - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\6. Songs Queue - Exercise\bin\Debug\net5.0\6. Songs Queue - Exercise.pdb
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\6. Songs Queue - Exercise\obj\Debug\net5.0\6. Songs Queue - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\6. Songs Queue - Exercise\obj\Debug\net5.0\6. Songs Queue - Exercise.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\6. Songs Queue - Exercise\obj\Debug\net5.0\6. Songs Queue - Exercise.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\6. Songs Queue - Exercise\obj\Debug\net5.0\6. Songs Queue - Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\6. Songs Queue - Exercise\obj\Debug\net5.0\6. Songs Queue - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\6. Songs Queue - Exercise\obj\Debug\net5.0\ref\6. Songs Queue - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\6. Songs Queue - Exercise\obj\Debug\net5.0\6. Songs Queue - Exercise.pdb
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\6. Songs Queue - Exercise\obj\Debug\net5.0\6. Songs Queue - Exercise.genruntimeconfig.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\6. Songs Queue - Exercise\obj\Debug\net5.0\6. Songs Queue - Exercise.csproj.AssemblyReference.cache
