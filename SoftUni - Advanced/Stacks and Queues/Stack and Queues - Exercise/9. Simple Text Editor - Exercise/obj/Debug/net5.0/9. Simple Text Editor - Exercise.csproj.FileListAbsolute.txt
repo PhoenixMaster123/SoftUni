@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\9. Simple Text Editor - Exercise\bin\Debug\net5.0\9. Simple Text Editor - Exercise.exe
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\9. Simple Text Editor - Exercise\bin\Debug\net5.0\9. Simple Text Editor - Exercise.deps.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\9. Simple Text Editor - Exercise\bin\Debug\net5.0\9. Simple Text Editor - Exercise.runtimeconfig.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\9. Simple Text Editor - Exercise\bin\Debug\net5.0\9. Simple Text Editor - Exercise.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\9. Simple Text Editor - Exercise\bin\Debug\net5.0\9. Simple Text Editor - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\9. Simple Text Editor - Exercise\bin\Debug\net5.0\ref\9. Simple Text Editor - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\9. Simple Text Editor - Exercise\bin\Debug\net5.0\9. Simple Text Editor - Exercise.pdb
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\9. Simple Text Editor - Exercise\obj\Debug\net5.0\9. Simple Text Editor - Exercise.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\9. Simple Text Editor - Exercise\obj\Debug\net5.0\9. Simple Text Editor - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\9. Simple Text Editor - Exercise\obj\Debug\net5.0\9. Simple Text Editor - Exercise.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\9. Simple Text Editor - Exercise\obj\Debug\net5.0\9. Simple Text Editor - Exercise.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\9. Simple Text Editor - Exercise\obj\Debug\net5.0\9. Simple Text Editor - Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\9. Simple Text Editor - Exercise\obj\Debug\net5.0\9. Simple Text Editor - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\9. Simple Text Editor - Exercise\obj\Debug\net5.0\ref\9. Simple Text Editor - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\9. Simple Text Editor - Exercise\obj\Debug\net5.0\9. Simple Text Editor - Exercise.pdb
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\9. Simple Text Editor - Exercise\obj\Debug\net5.0\9. Simple Text Editor - Exercise.genruntimeconfig.cache
