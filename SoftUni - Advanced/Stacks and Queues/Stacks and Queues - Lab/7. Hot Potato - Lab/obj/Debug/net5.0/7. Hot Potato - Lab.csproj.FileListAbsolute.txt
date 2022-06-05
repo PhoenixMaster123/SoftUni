@@ -1,0 +1,15 @@
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\7. Hot Potato - Lab\bin\Debug\net5.0\7. Hot Potato - Lab.exe
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\7. Hot Potato - Lab\bin\Debug\net5.0\7. Hot Potato - Lab.deps.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\7. Hot Potato - Lab\bin\Debug\net5.0\7. Hot Potato - Lab.runtimeconfig.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\7. Hot Potato - Lab\bin\Debug\net5.0\7. Hot Potato - Lab.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\7. Hot Potato - Lab\bin\Debug\net5.0\7. Hot Potato - Lab.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\7. Hot Potato - Lab\bin\Debug\net5.0\ref\7. Hot Potato - Lab.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\7. Hot Potato - Lab\bin\Debug\net5.0\7. Hot Potato - Lab.pdb
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\7. Hot Potato - Lab\obj\Debug\net5.0\7. Hot Potato - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\7. Hot Potato - Lab\obj\Debug\net5.0\7. Hot Potato - Lab.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\7. Hot Potato - Lab\obj\Debug\net5.0\7. Hot Potato - Lab.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\7. Hot Potato - Lab\obj\Debug\net5.0\7. Hot Potato - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\7. Hot Potato - Lab\obj\Debug\net5.0\7. Hot Potato - Lab.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\7. Hot Potato - Lab\obj\Debug\net5.0\ref\7. Hot Potato - Lab.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\7. Hot Potato - Lab\obj\Debug\net5.0\7. Hot Potato - Lab.pdb
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\7. Hot Potato - Lab\obj\Debug\net5.0\7. Hot Potato - Lab.genruntimeconfig.cache
