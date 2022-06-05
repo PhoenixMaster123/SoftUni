@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Matching Brackets - Lab\bin\Debug\net5.0\4. Matching Brackets - Lab.exe
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Matching Brackets - Lab\bin\Debug\net5.0\4. Matching Brackets - Lab.deps.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Matching Brackets - Lab\bin\Debug\net5.0\4. Matching Brackets - Lab.runtimeconfig.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Matching Brackets - Lab\bin\Debug\net5.0\4. Matching Brackets - Lab.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Matching Brackets - Lab\bin\Debug\net5.0\4. Matching Brackets - Lab.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Matching Brackets - Lab\bin\Debug\net5.0\ref\4. Matching Brackets - Lab.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Matching Brackets - Lab\bin\Debug\net5.0\4. Matching Brackets - Lab.pdb
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Matching Brackets - Lab\obj\Debug\net5.0\4. Matching Brackets - Lab.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Matching Brackets - Lab\obj\Debug\net5.0\4. Matching Brackets - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Matching Brackets - Lab\obj\Debug\net5.0\4. Matching Brackets - Lab.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Matching Brackets - Lab\obj\Debug\net5.0\4. Matching Brackets - Lab.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Matching Brackets - Lab\obj\Debug\net5.0\4. Matching Brackets - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Matching Brackets - Lab\obj\Debug\net5.0\4. Matching Brackets - Lab.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Matching Brackets - Lab\obj\Debug\net5.0\ref\4. Matching Brackets - Lab.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Matching Brackets - Lab\obj\Debug\net5.0\4. Matching Brackets - Lab.pdb
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Matching Brackets - Lab\obj\Debug\net5.0\4. Matching Brackets - Lab.genruntimeconfig.cache
