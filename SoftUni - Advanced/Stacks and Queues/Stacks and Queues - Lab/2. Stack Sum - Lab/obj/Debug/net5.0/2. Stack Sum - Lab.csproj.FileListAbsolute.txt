@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Stack Sum - Lab\bin\Debug\net5.0\2. Stack Sum - Lab.exe
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Stack Sum - Lab\bin\Debug\net5.0\2. Stack Sum - Lab.deps.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Stack Sum - Lab\bin\Debug\net5.0\2. Stack Sum - Lab.runtimeconfig.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Stack Sum - Lab\bin\Debug\net5.0\2. Stack Sum - Lab.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Stack Sum - Lab\bin\Debug\net5.0\2. Stack Sum - Lab.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Stack Sum - Lab\bin\Debug\net5.0\ref\2. Stack Sum - Lab.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Stack Sum - Lab\bin\Debug\net5.0\2. Stack Sum - Lab.pdb
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Stack Sum - Lab\obj\Debug\net5.0\2. Stack Sum - Lab.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Stack Sum - Lab\obj\Debug\net5.0\2. Stack Sum - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Stack Sum - Lab\obj\Debug\net5.0\2. Stack Sum - Lab.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Stack Sum - Lab\obj\Debug\net5.0\2. Stack Sum - Lab.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Stack Sum - Lab\obj\Debug\net5.0\2. Stack Sum - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Stack Sum - Lab\obj\Debug\net5.0\2. Stack Sum - Lab.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Stack Sum - Lab\obj\Debug\net5.0\ref\2. Stack Sum - Lab.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Stack Sum - Lab\obj\Debug\net5.0\2. Stack Sum - Lab.pdb
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Stack Sum - Lab\obj\Debug\net5.0\2. Stack Sum - Lab.genruntimeconfig.cache
