@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Basic Queue Operations - Exercise\bin\Debug\net5.0\2. Basic Queue Operations - Exercise.exe
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Basic Queue Operations - Exercise\bin\Debug\net5.0\2. Basic Queue Operations - Exercise.deps.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Basic Queue Operations - Exercise\bin\Debug\net5.0\2. Basic Queue Operations - Exercise.runtimeconfig.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Basic Queue Operations - Exercise\bin\Debug\net5.0\2. Basic Queue Operations - Exercise.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Basic Queue Operations - Exercise\bin\Debug\net5.0\2. Basic Queue Operations - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Basic Queue Operations - Exercise\bin\Debug\net5.0\ref\2. Basic Queue Operations - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Basic Queue Operations - Exercise\bin\Debug\net5.0\2. Basic Queue Operations - Exercise.pdb
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Basic Queue Operations - Exercise\obj\Debug\net5.0\2. Basic Queue Operations - Exercise.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Basic Queue Operations - Exercise\obj\Debug\net5.0\2. Basic Queue Operations - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Basic Queue Operations - Exercise\obj\Debug\net5.0\2. Basic Queue Operations - Exercise.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Basic Queue Operations - Exercise\obj\Debug\net5.0\2. Basic Queue Operations - Exercise.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Basic Queue Operations - Exercise\obj\Debug\net5.0\2. Basic Queue Operations - Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Basic Queue Operations - Exercise\obj\Debug\net5.0\2. Basic Queue Operations - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Basic Queue Operations - Exercise\obj\Debug\net5.0\ref\2. Basic Queue Operations - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Basic Queue Operations - Exercise\obj\Debug\net5.0\2. Basic Queue Operations - Exercise.pdb
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\2. Basic Queue Operations - Exercise\obj\Debug\net5.0\2. Basic Queue Operations - Exercise.genruntimeconfig.cache
