@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Reverse Strings - Lab\bin\Debug\net5.0\1. Reverse Strings - Lab.exe
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Reverse Strings - Lab\bin\Debug\net5.0\1. Reverse Strings - Lab.deps.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Reverse Strings - Lab\bin\Debug\net5.0\1. Reverse Strings - Lab.runtimeconfig.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Reverse Strings - Lab\bin\Debug\net5.0\1. Reverse Strings - Lab.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Reverse Strings - Lab\bin\Debug\net5.0\1. Reverse Strings - Lab.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Reverse Strings - Lab\bin\Debug\net5.0\ref\1. Reverse Strings - Lab.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Reverse Strings - Lab\bin\Debug\net5.0\1. Reverse Strings - Lab.pdb
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Reverse Strings - Lab\obj\Debug\net5.0\1. Reverse Strings - Lab.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Reverse Strings - Lab\obj\Debug\net5.0\1. Reverse Strings - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Reverse Strings - Lab\obj\Debug\net5.0\1. Reverse Strings - Lab.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Reverse Strings - Lab\obj\Debug\net5.0\1. Reverse Strings - Lab.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Reverse Strings - Lab\obj\Debug\net5.0\1. Reverse Strings - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Reverse Strings - Lab\obj\Debug\net5.0\1. Reverse Strings - Lab.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Reverse Strings - Lab\obj\Debug\net5.0\ref\1. Reverse Strings - Lab.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Reverse Strings - Lab\obj\Debug\net5.0\1. Reverse Strings - Lab.pdb
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\1. Reverse Strings - Lab\obj\Debug\net5.0\1. Reverse Strings - Lab.genruntimeconfig.cache
