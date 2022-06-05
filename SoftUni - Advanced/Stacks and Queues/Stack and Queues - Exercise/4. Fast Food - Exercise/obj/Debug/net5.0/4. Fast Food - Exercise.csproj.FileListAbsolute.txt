@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Fast Food - Exercise\bin\Debug\net5.0\4. Fast Food - Exercise.exe
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Fast Food - Exercise\bin\Debug\net5.0\4. Fast Food - Exercise.deps.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Fast Food - Exercise\bin\Debug\net5.0\4. Fast Food - Exercise.runtimeconfig.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Fast Food - Exercise\bin\Debug\net5.0\4. Fast Food - Exercise.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Fast Food - Exercise\bin\Debug\net5.0\4. Fast Food - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Fast Food - Exercise\bin\Debug\net5.0\ref\4. Fast Food - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Fast Food - Exercise\bin\Debug\net5.0\4. Fast Food - Exercise.pdb
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Fast Food - Exercise\obj\Debug\net5.0\4. Fast Food - Exercise.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Fast Food - Exercise\obj\Debug\net5.0\4. Fast Food - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Fast Food - Exercise\obj\Debug\net5.0\4. Fast Food - Exercise.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Fast Food - Exercise\obj\Debug\net5.0\4. Fast Food - Exercise.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Fast Food - Exercise\obj\Debug\net5.0\4. Fast Food - Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Fast Food - Exercise\obj\Debug\net5.0\4. Fast Food - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Fast Food - Exercise\obj\Debug\net5.0\ref\4. Fast Food - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Fast Food - Exercise\obj\Debug\net5.0\4. Fast Food - Exercise.pdb
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\4. Fast Food - Exercise\obj\Debug\net5.0\4. Fast Food - Exercise.genruntimeconfig.cache
