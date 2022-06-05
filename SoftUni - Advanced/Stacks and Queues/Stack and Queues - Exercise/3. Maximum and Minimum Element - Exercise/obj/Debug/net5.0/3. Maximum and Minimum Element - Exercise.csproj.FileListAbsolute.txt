@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\3. Maximum and Minimum Element - Exercise\bin\Debug\net5.0\3. Maximum and Minimum Element - Exercise.exe
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\3. Maximum and Minimum Element - Exercise\bin\Debug\net5.0\3. Maximum and Minimum Element - Exercise.deps.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\3. Maximum and Minimum Element - Exercise\bin\Debug\net5.0\3. Maximum and Minimum Element - Exercise.runtimeconfig.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\3. Maximum and Minimum Element - Exercise\bin\Debug\net5.0\3. Maximum and Minimum Element - Exercise.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\3. Maximum and Minimum Element - Exercise\bin\Debug\net5.0\3. Maximum and Minimum Element - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\3. Maximum and Minimum Element - Exercise\bin\Debug\net5.0\ref\3. Maximum and Minimum Element - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\3. Maximum and Minimum Element - Exercise\bin\Debug\net5.0\3. Maximum and Minimum Element - Exercise.pdb
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\3. Maximum and Minimum Element - Exercise\obj\Debug\net5.0\3. Maximum and Minimum Element - Exercise.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\3. Maximum and Minimum Element - Exercise\obj\Debug\net5.0\3. Maximum and Minimum Element - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\3. Maximum and Minimum Element - Exercise\obj\Debug\net5.0\3. Maximum and Minimum Element - Exercise.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\3. Maximum and Minimum Element - Exercise\obj\Debug\net5.0\3. Maximum and Minimum Element - Exercise.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\3. Maximum and Minimum Element - Exercise\obj\Debug\net5.0\3. Maximum and Minimum Element - Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\3. Maximum and Minimum Element - Exercise\obj\Debug\net5.0\3. Maximum and Minimum Element - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\3. Maximum and Minimum Element - Exercise\obj\Debug\net5.0\ref\3. Maximum and Minimum Element - Exercise.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\3. Maximum and Minimum Element - Exercise\obj\Debug\net5.0\3. Maximum and Minimum Element - Exercise.pdb
+D:\SoftUni Advance + OOP\Stacks and Queues\Stacks and Queues\3. Maximum and Minimum Element - Exercise\obj\Debug\net5.0\3. Maximum and Minimum Element - Exercise.genruntimeconfig.cache
