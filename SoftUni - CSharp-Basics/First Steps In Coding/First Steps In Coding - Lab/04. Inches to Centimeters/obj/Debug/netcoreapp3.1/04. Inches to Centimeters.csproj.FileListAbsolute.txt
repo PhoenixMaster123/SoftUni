@@ -1,0 +1,14 @@
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.exe
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.deps.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.runtimeconfig.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.runtimeconfig.dev.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.dll
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.pdb
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.csproj.AssemblyReference.cache
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.AssemblyInfoInputs.cache
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.AssemblyInfo.cs
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.csproj.CoreCompileInputs.cache
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.dll
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.pdb
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.genruntimeconfig.cache
