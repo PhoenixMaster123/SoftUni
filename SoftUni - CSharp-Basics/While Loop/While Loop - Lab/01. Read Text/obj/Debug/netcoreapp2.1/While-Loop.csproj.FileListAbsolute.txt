@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\While-Loop\While-Loop\bin\Debug\netcoreapp2.1\While-Loop.deps.json
+C:\Users\Kris\source\repos\While-Loop\While-Loop\bin\Debug\netcoreapp2.1\While-Loop.runtimeconfig.json
+C:\Users\Kris\source\repos\While-Loop\While-Loop\bin\Debug\netcoreapp2.1\While-Loop.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\While-Loop\While-Loop\bin\Debug\netcoreapp2.1\While-Loop.dll
+C:\Users\Kris\source\repos\While-Loop\While-Loop\bin\Debug\netcoreapp2.1\While-Loop.pdb
+C:\Users\Kris\source\repos\While-Loop\While-Loop\obj\Debug\netcoreapp2.1\While-Loop.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\While-Loop\While-Loop\obj\Debug\netcoreapp2.1\While-Loop.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\While-Loop\While-Loop\obj\Debug\netcoreapp2.1\While-Loop.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\While-Loop\While-Loop\obj\Debug\netcoreapp2.1\While-Loop.AssemblyInfo.cs
+C:\Users\Kris\source\repos\While-Loop\While-Loop\obj\Debug\netcoreapp2.1\While-Loop.dll
+C:\Users\Kris\source\repos\While-Loop\While-Loop\obj\Debug\netcoreapp2.1\While-Loop.pdb
