@@ -1,0 +1,14 @@
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.exe
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.deps.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.runtimeconfig.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.runtimeconfig.dev.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.dll
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.pdb
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.csproj.AssemblyReference.cache
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.AssemblyInfoInputs.cache
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.AssemblyInfo.cs
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.csproj.CoreCompileInputs.cache
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.dll
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.pdb
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.genruntimeconfig.cache
