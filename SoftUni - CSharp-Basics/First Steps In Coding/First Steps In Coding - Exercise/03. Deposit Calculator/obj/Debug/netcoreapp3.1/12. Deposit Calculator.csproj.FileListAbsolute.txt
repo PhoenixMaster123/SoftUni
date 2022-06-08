@@ -1,0 +1,14 @@
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\12. Deposit Calculator\bin\Debug\netcoreapp3.1\12. Deposit Calculator.exe
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\12. Deposit Calculator\bin\Debug\netcoreapp3.1\12. Deposit Calculator.deps.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\12. Deposit Calculator\bin\Debug\netcoreapp3.1\12. Deposit Calculator.runtimeconfig.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\12. Deposit Calculator\bin\Debug\netcoreapp3.1\12. Deposit Calculator.runtimeconfig.dev.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\12. Deposit Calculator\bin\Debug\netcoreapp3.1\12. Deposit Calculator.dll
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\12. Deposit Calculator\bin\Debug\netcoreapp3.1\12. Deposit Calculator.pdb
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\12. Deposit Calculator\obj\Debug\netcoreapp3.1\12. Deposit Calculator.csproj.AssemblyReference.cache
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\12. Deposit Calculator\obj\Debug\netcoreapp3.1\12. Deposit Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\12. Deposit Calculator\obj\Debug\netcoreapp3.1\12. Deposit Calculator.AssemblyInfoInputs.cache
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\12. Deposit Calculator\obj\Debug\netcoreapp3.1\12. Deposit Calculator.AssemblyInfo.cs
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\12. Deposit Calculator\obj\Debug\netcoreapp3.1\12. Deposit Calculator.csproj.CoreCompileInputs.cache
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\12. Deposit Calculator\obj\Debug\netcoreapp3.1\12. Deposit Calculator.dll
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\12. Deposit Calculator\obj\Debug\netcoreapp3.1\12. Deposit Calculator.pdb
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\12. Deposit Calculator\obj\Debug\netcoreapp3.1\12. Deposit Calculator.genruntimeconfig.cache
