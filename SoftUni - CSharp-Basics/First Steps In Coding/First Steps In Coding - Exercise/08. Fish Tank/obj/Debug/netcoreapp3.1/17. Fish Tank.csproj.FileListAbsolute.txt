@@ -1,0 +1,13 @@
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\17. Fish Tank\bin\Debug\netcoreapp3.1\17. Fish Tank.exe
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\17. Fish Tank\bin\Debug\netcoreapp3.1\17. Fish Tank.deps.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\17. Fish Tank\bin\Debug\netcoreapp3.1\17. Fish Tank.runtimeconfig.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\17. Fish Tank\bin\Debug\netcoreapp3.1\17. Fish Tank.runtimeconfig.dev.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\17. Fish Tank\bin\Debug\netcoreapp3.1\17. Fish Tank.dll
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\17. Fish Tank\bin\Debug\netcoreapp3.1\17. Fish Tank.pdb
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\17. Fish Tank\obj\Debug\netcoreapp3.1\17. Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\17. Fish Tank\obj\Debug\netcoreapp3.1\17. Fish Tank.AssemblyInfoInputs.cache
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\17. Fish Tank\obj\Debug\netcoreapp3.1\17. Fish Tank.AssemblyInfo.cs
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\17. Fish Tank\obj\Debug\netcoreapp3.1\17. Fish Tank.csproj.CoreCompileInputs.cache
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\17. Fish Tank\obj\Debug\netcoreapp3.1\17. Fish Tank.dll
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\17. Fish Tank\obj\Debug\netcoreapp3.1\17. Fish Tank.pdb
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\17. Fish Tank\obj\Debug\netcoreapp3.1\17. Fish Tank.genruntimeconfig.cache
