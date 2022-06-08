@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\ConditionalStatements\Area of Figures\bin\Debug\netcoreapp2.1\Area of Figures.deps.json
+C:\Users\Kris\source\repos\ConditionalStatements\Area of Figures\bin\Debug\netcoreapp2.1\Area of Figures.runtimeconfig.json
+C:\Users\Kris\source\repos\ConditionalStatements\Area of Figures\bin\Debug\netcoreapp2.1\Area of Figures.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\ConditionalStatements\Area of Figures\bin\Debug\netcoreapp2.1\Area of Figures.dll
+C:\Users\Kris\source\repos\ConditionalStatements\Area of Figures\bin\Debug\netcoreapp2.1\Area of Figures.pdb
+C:\Users\Kris\source\repos\ConditionalStatements\Area of Figures\obj\Debug\netcoreapp2.1\Area of Figures.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\Area of Figures\obj\Debug\netcoreapp2.1\Area of Figures.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\Area of Figures\obj\Debug\netcoreapp2.1\Area of Figures.AssemblyInfo.cs
+C:\Users\Kris\source\repos\ConditionalStatements\Area of Figures\obj\Debug\netcoreapp2.1\Area of Figures.dll
+C:\Users\Kris\source\repos\ConditionalStatements\Area of Figures\obj\Debug\netcoreapp2.1\Area of Figures.pdb
+C:\Users\Kris\source\repos\ConditionalStatements\Area of Figures\obj\Debug\netcoreapp2.1\Area of Figures.csprojAssemblyReference.cache
