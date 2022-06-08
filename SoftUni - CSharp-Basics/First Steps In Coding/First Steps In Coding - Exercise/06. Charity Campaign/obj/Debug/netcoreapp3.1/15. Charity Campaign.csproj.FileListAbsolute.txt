@@ -1,0 +1,13 @@
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\15. Charity Campaign\bin\Debug\netcoreapp3.1\15. Charity Campaign.exe
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\15. Charity Campaign\bin\Debug\netcoreapp3.1\15. Charity Campaign.deps.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\15. Charity Campaign\bin\Debug\netcoreapp3.1\15. Charity Campaign.runtimeconfig.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\15. Charity Campaign\bin\Debug\netcoreapp3.1\15. Charity Campaign.runtimeconfig.dev.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\15. Charity Campaign\bin\Debug\netcoreapp3.1\15. Charity Campaign.dll
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\15. Charity Campaign\bin\Debug\netcoreapp3.1\15. Charity Campaign.pdb
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\15. Charity Campaign\obj\Debug\netcoreapp3.1\15. Charity Campaign.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\15. Charity Campaign\obj\Debug\netcoreapp3.1\15. Charity Campaign.AssemblyInfoInputs.cache
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\15. Charity Campaign\obj\Debug\netcoreapp3.1\15. Charity Campaign.AssemblyInfo.cs
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\15. Charity Campaign\obj\Debug\netcoreapp3.1\15. Charity Campaign.csproj.CoreCompileInputs.cache
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\15. Charity Campaign\obj\Debug\netcoreapp3.1\15. Charity Campaign.dll
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\15. Charity Campaign\obj\Debug\netcoreapp3.1\15. Charity Campaign.pdb
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\15. Charity Campaign\obj\Debug\netcoreapp3.1\15. Charity Campaign.genruntimeconfig.cache
