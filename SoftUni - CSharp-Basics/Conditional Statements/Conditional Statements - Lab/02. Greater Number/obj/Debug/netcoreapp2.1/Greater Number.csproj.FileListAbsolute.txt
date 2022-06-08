@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\ConditionalStatements\Greater Number\bin\Debug\netcoreapp2.1\Greater Number.deps.json
+C:\Users\Kris\source\repos\ConditionalStatements\Greater Number\bin\Debug\netcoreapp2.1\Greater Number.runtimeconfig.json
+C:\Users\Kris\source\repos\ConditionalStatements\Greater Number\bin\Debug\netcoreapp2.1\Greater Number.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\ConditionalStatements\Greater Number\bin\Debug\netcoreapp2.1\Greater Number.dll
+C:\Users\Kris\source\repos\ConditionalStatements\Greater Number\bin\Debug\netcoreapp2.1\Greater Number.pdb
+C:\Users\Kris\source\repos\ConditionalStatements\Greater Number\obj\Debug\netcoreapp2.1\Greater Number.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\ConditionalStatements\Greater Number\obj\Debug\netcoreapp2.1\Greater Number.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\Greater Number\obj\Debug\netcoreapp2.1\Greater Number.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\Greater Number\obj\Debug\netcoreapp2.1\Greater Number.AssemblyInfo.cs
+C:\Users\Kris\source\repos\ConditionalStatements\Greater Number\obj\Debug\netcoreapp2.1\Greater Number.dll
+C:\Users\Kris\source\repos\ConditionalStatements\Greater Number\obj\Debug\netcoreapp2.1\Greater Number.pdb
