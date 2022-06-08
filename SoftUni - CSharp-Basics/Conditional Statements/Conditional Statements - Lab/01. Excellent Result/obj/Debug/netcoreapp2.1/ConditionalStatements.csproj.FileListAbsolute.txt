@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\netcoreapp2.1\ConditionalStatements.deps.json
+C:\Users\Kris\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\netcoreapp2.1\ConditionalStatements.runtimeconfig.json
+C:\Users\Kris\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\netcoreapp2.1\ConditionalStatements.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\netcoreapp2.1\ConditionalStatements.dll
+C:\Users\Kris\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\netcoreapp2.1\ConditionalStatements.pdb
+C:\Users\Kris\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\netcoreapp2.1\ConditionalStatements.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\netcoreapp2.1\ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\netcoreapp2.1\ConditionalStatements.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\netcoreapp2.1\ConditionalStatements.AssemblyInfo.cs
+C:\Users\Kris\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\netcoreapp2.1\ConditionalStatements.dll
+C:\Users\Kris\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\netcoreapp2.1\ConditionalStatements.pdb
