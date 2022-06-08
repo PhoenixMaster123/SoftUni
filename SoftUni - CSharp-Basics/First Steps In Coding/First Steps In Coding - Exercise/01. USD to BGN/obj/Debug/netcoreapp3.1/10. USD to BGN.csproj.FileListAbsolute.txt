@@ -1,0 +1,14 @@
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\10. USD to BGN\bin\Debug\netcoreapp3.1\10. USD to BGN.exe
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\10. USD to BGN\bin\Debug\netcoreapp3.1\10. USD to BGN.deps.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\10. USD to BGN\bin\Debug\netcoreapp3.1\10. USD to BGN.runtimeconfig.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\10. USD to BGN\bin\Debug\netcoreapp3.1\10. USD to BGN.runtimeconfig.dev.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\10. USD to BGN\bin\Debug\netcoreapp3.1\10. USD to BGN.dll
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\10. USD to BGN\bin\Debug\netcoreapp3.1\10. USD to BGN.pdb
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\10. USD to BGN\obj\Debug\netcoreapp3.1\10. USD to BGN.csproj.AssemblyReference.cache
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\10. USD to BGN\obj\Debug\netcoreapp3.1\10. USD to BGN.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\10. USD to BGN\obj\Debug\netcoreapp3.1\10. USD to BGN.AssemblyInfoInputs.cache
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\10. USD to BGN\obj\Debug\netcoreapp3.1\10. USD to BGN.AssemblyInfo.cs
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\10. USD to BGN\obj\Debug\netcoreapp3.1\10. USD to BGN.csproj.CoreCompileInputs.cache
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\10. USD to BGN\obj\Debug\netcoreapp3.1\10. USD to BGN.dll
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\10. USD to BGN\obj\Debug\netcoreapp3.1\10. USD to BGN.pdb
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\10. USD to BGN\obj\Debug\netcoreapp3.1\10. USD to BGN.genruntimeconfig.cache
