@@ -1,0 +1,14 @@
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\13. Vacation Books List\bin\Debug\netcoreapp3.1\13. Vacation Books List.exe
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\13. Vacation Books List\bin\Debug\netcoreapp3.1\13. Vacation Books List.deps.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\13. Vacation Books List\bin\Debug\netcoreapp3.1\13. Vacation Books List.runtimeconfig.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\13. Vacation Books List\bin\Debug\netcoreapp3.1\13. Vacation Books List.runtimeconfig.dev.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\13. Vacation Books List\bin\Debug\netcoreapp3.1\13. Vacation Books List.dll
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\13. Vacation Books List\bin\Debug\netcoreapp3.1\13. Vacation Books List.pdb
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\13. Vacation Books List\obj\Debug\netcoreapp3.1\13. Vacation Books List.csproj.AssemblyReference.cache
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\13. Vacation Books List\obj\Debug\netcoreapp3.1\13. Vacation Books List.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\13. Vacation Books List\obj\Debug\netcoreapp3.1\13. Vacation Books List.AssemblyInfoInputs.cache
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\13. Vacation Books List\obj\Debug\netcoreapp3.1\13. Vacation Books List.AssemblyInfo.cs
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\13. Vacation Books List\obj\Debug\netcoreapp3.1\13. Vacation Books List.csproj.CoreCompileInputs.cache
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\13. Vacation Books List\obj\Debug\netcoreapp3.1\13. Vacation Books List.dll
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\13. Vacation Books List\obj\Debug\netcoreapp3.1\13. Vacation Books List.pdb
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\13. Vacation Books List\obj\Debug\netcoreapp3.1\13. Vacation Books List.genruntimeconfig.cache
