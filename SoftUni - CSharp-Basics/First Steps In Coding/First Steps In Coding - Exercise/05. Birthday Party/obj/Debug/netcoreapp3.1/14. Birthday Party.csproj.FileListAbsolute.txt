@@ -1,0 +1,13 @@
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\14. Birthday Party\bin\Debug\netcoreapp3.1\14. Birthday Party.exe
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\14. Birthday Party\bin\Debug\netcoreapp3.1\14. Birthday Party.deps.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\14. Birthday Party\bin\Debug\netcoreapp3.1\14. Birthday Party.runtimeconfig.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\14. Birthday Party\bin\Debug\netcoreapp3.1\14. Birthday Party.runtimeconfig.dev.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\14. Birthday Party\bin\Debug\netcoreapp3.1\14. Birthday Party.dll
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\14. Birthday Party\bin\Debug\netcoreapp3.1\14. Birthday Party.pdb
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\14. Birthday Party\obj\Debug\netcoreapp3.1\14. Birthday Party.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\14. Birthday Party\obj\Debug\netcoreapp3.1\14. Birthday Party.AssemblyInfoInputs.cache
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\14. Birthday Party\obj\Debug\netcoreapp3.1\14. Birthday Party.AssemblyInfo.cs
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\14. Birthday Party\obj\Debug\netcoreapp3.1\14. Birthday Party.csproj.CoreCompileInputs.cache
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\14. Birthday Party\obj\Debug\netcoreapp3.1\14. Birthday Party.dll
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\14. Birthday Party\obj\Debug\netcoreapp3.1\14. Birthday Party.pdb
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\14. Birthday Party\obj\Debug\netcoreapp3.1\14. Birthday Party.genruntimeconfig.cache
