@@ -1,0 +1,13 @@
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\11. Radians to Degrees\bin\Debug\netcoreapp3.1\11. Radians to Degrees.exe
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\11. Radians to Degrees\bin\Debug\netcoreapp3.1\11. Radians to Degrees.deps.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\11. Radians to Degrees\bin\Debug\netcoreapp3.1\11. Radians to Degrees.runtimeconfig.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\11. Radians to Degrees\bin\Debug\netcoreapp3.1\11. Radians to Degrees.runtimeconfig.dev.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\11. Radians to Degrees\bin\Debug\netcoreapp3.1\11. Radians to Degrees.dll
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\11. Radians to Degrees\bin\Debug\netcoreapp3.1\11. Radians to Degrees.pdb
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\11. Radians to Degrees\obj\Debug\netcoreapp3.1\11. Radians to Degrees.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\11. Radians to Degrees\obj\Debug\netcoreapp3.1\11. Radians to Degrees.AssemblyInfoInputs.cache
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\11. Radians to Degrees\obj\Debug\netcoreapp3.1\11. Radians to Degrees.AssemblyInfo.cs
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\11. Radians to Degrees\obj\Debug\netcoreapp3.1\11. Radians to Degrees.csproj.CoreCompileInputs.cache
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\11. Radians to Degrees\obj\Debug\netcoreapp3.1\11. Radians to Degrees.dll
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\11. Radians to Degrees\obj\Debug\netcoreapp3.1\11. Radians to Degrees.pdb
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\11. Radians to Degrees\obj\Debug\netcoreapp3.1\11. Radians to Degrees.genruntimeconfig.cache
