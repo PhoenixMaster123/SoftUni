@@ -1,0 +1,13 @@
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\16. Fruit Market\bin\Debug\netcoreapp3.1\16. Fruit Market.exe
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\16. Fruit Market\bin\Debug\netcoreapp3.1\16. Fruit Market.deps.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\16. Fruit Market\bin\Debug\netcoreapp3.1\16. Fruit Market.runtimeconfig.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\16. Fruit Market\bin\Debug\netcoreapp3.1\16. Fruit Market.runtimeconfig.dev.json
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\16. Fruit Market\bin\Debug\netcoreapp3.1\16. Fruit Market.dll
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\16. Fruit Market\bin\Debug\netcoreapp3.1\16. Fruit Market.pdb
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\16. Fruit Market\obj\Debug\netcoreapp3.1\16. Fruit Market.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\16. Fruit Market\obj\Debug\netcoreapp3.1\16. Fruit Market.AssemblyInfoInputs.cache
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\16. Fruit Market\obj\Debug\netcoreapp3.1\16. Fruit Market.AssemblyInfo.cs
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\16. Fruit Market\obj\Debug\netcoreapp3.1\16. Fruit Market.csproj.CoreCompileInputs.cache
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\16. Fruit Market\obj\Debug\netcoreapp3.1\16. Fruit Market.dll
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\16. Fruit Market\obj\Debug\netcoreapp3.1\16. Fruit Market.pdb
+D:\SoftUni - exercise\Module 1 - Object Oriented Programming\01-Intro to Programming\01-Intro to Programming\16. Fruit Market\obj\Debug\netcoreapp3.1\16. Fruit Market.genruntimeconfig.cache
