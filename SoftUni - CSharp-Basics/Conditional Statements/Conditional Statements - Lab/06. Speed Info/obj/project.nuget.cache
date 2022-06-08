@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "VE2RiFpgO6tryt0i0whit6To2v2YgUQpe3agOjvL7FoQzUoOGoq1pwlYEvTHhE8kRYnfUMpGLKoNKff45KEUGQ==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\ConditionalStatements\\Speed Info\\Speed Info.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PhoenixMaster\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\PhoenixMaster\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\PhoenixMaster\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\PhoenixMaster\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\PhoenixMaster\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\PhoenixMaster\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\PhoenixMaster\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

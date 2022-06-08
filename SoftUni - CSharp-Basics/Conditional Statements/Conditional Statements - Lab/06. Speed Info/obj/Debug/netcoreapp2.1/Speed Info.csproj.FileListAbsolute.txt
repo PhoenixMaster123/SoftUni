@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\ConditionalStatements\Speed Info\bin\Debug\netcoreapp2.1\Speed Info.deps.json
+C:\Users\Kris\source\repos\ConditionalStatements\Speed Info\bin\Debug\netcoreapp2.1\Speed Info.runtimeconfig.json
+C:\Users\Kris\source\repos\ConditionalStatements\Speed Info\bin\Debug\netcoreapp2.1\Speed Info.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\ConditionalStatements\Speed Info\bin\Debug\netcoreapp2.1\Speed Info.dll
+C:\Users\Kris\source\repos\ConditionalStatements\Speed Info\bin\Debug\netcoreapp2.1\Speed Info.pdb
+C:\Users\Kris\source\repos\ConditionalStatements\Speed Info\obj\Debug\netcoreapp2.1\Speed Info.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\Speed Info\obj\Debug\netcoreapp2.1\Speed Info.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\Speed Info\obj\Debug\netcoreapp2.1\Speed Info.AssemblyInfo.cs
+C:\Users\Kris\source\repos\ConditionalStatements\Speed Info\obj\Debug\netcoreapp2.1\Speed Info.dll
+C:\Users\Kris\source\repos\ConditionalStatements\Speed Info\obj\Debug\netcoreapp2.1\Speed Info.pdb
