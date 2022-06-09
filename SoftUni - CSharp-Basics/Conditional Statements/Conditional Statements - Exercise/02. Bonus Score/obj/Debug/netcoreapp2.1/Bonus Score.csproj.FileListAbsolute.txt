@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\ConditionalStatements\Bonus Score\bin\Debug\netcoreapp2.1\Bonus Score.deps.json
+C:\Users\Kris\source\repos\ConditionalStatements\Bonus Score\bin\Debug\netcoreapp2.1\Bonus Score.runtimeconfig.json
+C:\Users\Kris\source\repos\ConditionalStatements\Bonus Score\bin\Debug\netcoreapp2.1\Bonus Score.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\ConditionalStatements\Bonus Score\bin\Debug\netcoreapp2.1\Bonus Score.dll
+C:\Users\Kris\source\repos\ConditionalStatements\Bonus Score\bin\Debug\netcoreapp2.1\Bonus Score.pdb
+C:\Users\Kris\source\repos\ConditionalStatements\Bonus Score\obj\Debug\netcoreapp2.1\Bonus Score.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\ConditionalStatements\Bonus Score\obj\Debug\netcoreapp2.1\Bonus Score.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\Bonus Score\obj\Debug\netcoreapp2.1\Bonus Score.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\Bonus Score\obj\Debug\netcoreapp2.1\Bonus Score.AssemblyInfo.cs
+C:\Users\Kris\source\repos\ConditionalStatements\Bonus Score\obj\Debug\netcoreapp2.1\Bonus Score.dll
+C:\Users\Kris\source\repos\ConditionalStatements\Bonus Score\obj\Debug\netcoreapp2.1\Bonus Score.pdb
