@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Primary Diagonal - Lab\bin\Debug\net5.0\3. Primary Diagonal - Lab.exe
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Primary Diagonal - Lab\bin\Debug\net5.0\3. Primary Diagonal - Lab.deps.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Primary Diagonal - Lab\bin\Debug\net5.0\3. Primary Diagonal - Lab.runtimeconfig.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Primary Diagonal - Lab\bin\Debug\net5.0\3. Primary Diagonal - Lab.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Primary Diagonal - Lab\bin\Debug\net5.0\3. Primary Diagonal - Lab.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Primary Diagonal - Lab\bin\Debug\net5.0\ref\3. Primary Diagonal - Lab.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Primary Diagonal - Lab\bin\Debug\net5.0\3. Primary Diagonal - Lab.pdb
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Primary Diagonal - Lab\obj\Debug\net5.0\3. Primary Diagonal - Lab.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Primary Diagonal - Lab\obj\Debug\net5.0\3. Primary Diagonal - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Primary Diagonal - Lab\obj\Debug\net5.0\3. Primary Diagonal - Lab.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Primary Diagonal - Lab\obj\Debug\net5.0\3. Primary Diagonal - Lab.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Primary Diagonal - Lab\obj\Debug\net5.0\3. Primary Diagonal - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Primary Diagonal - Lab\obj\Debug\net5.0\3. Primary Diagonal - Lab.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Primary Diagonal - Lab\obj\Debug\net5.0\ref\3. Primary Diagonal - Lab.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Primary Diagonal - Lab\obj\Debug\net5.0\3. Primary Diagonal - Lab.pdb
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Primary Diagonal - Lab\obj\Debug\net5.0\3. Primary Diagonal - Lab.genruntimeconfig.cache
