@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\ConditionalStatements\World Swimming Record\bin\Debug\netcoreapp2.1\World Swimming Record.deps.json
+C:\Users\Kris\source\repos\ConditionalStatements\World Swimming Record\bin\Debug\netcoreapp2.1\World Swimming Record.runtimeconfig.json
+C:\Users\Kris\source\repos\ConditionalStatements\World Swimming Record\bin\Debug\netcoreapp2.1\World Swimming Record.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\ConditionalStatements\World Swimming Record\bin\Debug\netcoreapp2.1\World Swimming Record.dll
+C:\Users\Kris\source\repos\ConditionalStatements\World Swimming Record\bin\Debug\netcoreapp2.1\World Swimming Record.pdb
+C:\Users\Kris\source\repos\ConditionalStatements\World Swimming Record\obj\Debug\netcoreapp2.1\World Swimming Record.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\World Swimming Record\obj\Debug\netcoreapp2.1\World Swimming Record.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\World Swimming Record\obj\Debug\netcoreapp2.1\World Swimming Record.AssemblyInfo.cs
+C:\Users\Kris\source\repos\ConditionalStatements\World Swimming Record\obj\Debug\netcoreapp2.1\World Swimming Record.dll
+C:\Users\Kris\source\repos\ConditionalStatements\World Swimming Record\obj\Debug\netcoreapp2.1\World Swimming Record.pdb
