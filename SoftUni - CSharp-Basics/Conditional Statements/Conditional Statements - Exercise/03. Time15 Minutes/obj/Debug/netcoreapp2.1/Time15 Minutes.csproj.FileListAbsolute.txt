@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\ConditionalStatements\Time15 Minutes\obj\Debug\netcoreapp2.1\Time15 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\Time15 Minutes\obj\Debug\netcoreapp2.1\Time15 Minutes.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\Time15 Minutes\obj\Debug\netcoreapp2.1\Time15 Minutes.AssemblyInfo.cs
+C:\Users\Kris\source\repos\ConditionalStatements\Time15 Minutes\bin\Debug\netcoreapp2.1\Time15 Minutes.deps.json
+C:\Users\Kris\source\repos\ConditionalStatements\Time15 Minutes\bin\Debug\netcoreapp2.1\Time15 Minutes.runtimeconfig.json
+C:\Users\Kris\source\repos\ConditionalStatements\Time15 Minutes\bin\Debug\netcoreapp2.1\Time15 Minutes.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\ConditionalStatements\Time15 Minutes\bin\Debug\netcoreapp2.1\Time15 Minutes.dll
+C:\Users\Kris\source\repos\ConditionalStatements\Time15 Minutes\bin\Debug\netcoreapp2.1\Time15 Minutes.pdb
+C:\Users\Kris\source\repos\ConditionalStatements\Time15 Minutes\obj\Debug\netcoreapp2.1\Time15 Minutes.dll
+C:\Users\Kris\source\repos\ConditionalStatements\Time15 Minutes\obj\Debug\netcoreapp2.1\Time15 Minutes.pdb
