@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\ConditionalStatements\Lunch Break\bin\Debug\netcoreapp2.1\Lunch Break.deps.json
+C:\Users\Kris\source\repos\ConditionalStatements\Lunch Break\bin\Debug\netcoreapp2.1\Lunch Break.runtimeconfig.json
+C:\Users\Kris\source\repos\ConditionalStatements\Lunch Break\bin\Debug\netcoreapp2.1\Lunch Break.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\ConditionalStatements\Lunch Break\bin\Debug\netcoreapp2.1\Lunch Break.dll
+C:\Users\Kris\source\repos\ConditionalStatements\Lunch Break\bin\Debug\netcoreapp2.1\Lunch Break.pdb
+C:\Users\Kris\source\repos\ConditionalStatements\Lunch Break\obj\Debug\netcoreapp2.1\Lunch Break.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\Lunch Break\obj\Debug\netcoreapp2.1\Lunch Break.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\Lunch Break\obj\Debug\netcoreapp2.1\Lunch Break.AssemblyInfo.cs
+C:\Users\Kris\source\repos\ConditionalStatements\Lunch Break\obj\Debug\netcoreapp2.1\Lunch Break.dll
+C:\Users\Kris\source\repos\ConditionalStatements\Lunch Break\obj\Debug\netcoreapp2.1\Lunch Break.pdb
