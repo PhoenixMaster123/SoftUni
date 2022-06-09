@@ -1,0 +1,15 @@
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference - Exercise\bin\Debug\net5.0\1. Diagonal Difference - Exercise.exe
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference - Exercise\bin\Debug\net5.0\1. Diagonal Difference - Exercise.deps.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference - Exercise\bin\Debug\net5.0\1. Diagonal Difference - Exercise.runtimeconfig.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference - Exercise\bin\Debug\net5.0\1. Diagonal Difference - Exercise.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference - Exercise\bin\Debug\net5.0\1. Diagonal Difference - Exercise.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference - Exercise\bin\Debug\net5.0\ref\1. Diagonal Difference - Exercise.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference - Exercise\bin\Debug\net5.0\1. Diagonal Difference - Exercise.pdb
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference - Exercise\obj\Debug\net5.0\1. Diagonal Difference - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference - Exercise\obj\Debug\net5.0\1. Diagonal Difference - Exercise.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference - Exercise\obj\Debug\net5.0\1. Diagonal Difference - Exercise.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference - Exercise\obj\Debug\net5.0\1. Diagonal Difference - Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference - Exercise\obj\Debug\net5.0\1. Diagonal Difference - Exercise.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference - Exercise\obj\Debug\net5.0\ref\1. Diagonal Difference - Exercise.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference - Exercise\obj\Debug\net5.0\1. Diagonal Difference - Exercise.pdb
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference - Exercise\obj\Debug\net5.0\1. Diagonal Difference - Exercise.genruntimeconfig.cache
