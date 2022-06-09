@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns - Lab.exe
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns - Lab.deps.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns - Lab.runtimeconfig.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns - Lab.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns - Lab.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Sum Matrix Columns\bin\Debug\net5.0\ref\2. Sum Matrix Columns - Lab.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns - Lab.pdb
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns - Lab.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns - Lab.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns - Lab.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns - Lab.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Sum Matrix Columns\obj\Debug\net5.0\ref\2. Sum Matrix Columns - Lab.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns - Lab.pdb
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns - Lab.genruntimeconfig.cache
