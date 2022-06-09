@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\ConditionalStatements\Godzilla vs. Kong\bin\Debug\netcoreapp2.1\Godzilla vs. Kong.deps.json
+C:\Users\Kris\source\repos\ConditionalStatements\Godzilla vs. Kong\bin\Debug\netcoreapp2.1\Godzilla vs. Kong.runtimeconfig.json
+C:\Users\Kris\source\repos\ConditionalStatements\Godzilla vs. Kong\bin\Debug\netcoreapp2.1\Godzilla vs. Kong.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\ConditionalStatements\Godzilla vs. Kong\bin\Debug\netcoreapp2.1\Godzilla vs. Kong.dll
+C:\Users\Kris\source\repos\ConditionalStatements\Godzilla vs. Kong\bin\Debug\netcoreapp2.1\Godzilla vs. Kong.pdb
+C:\Users\Kris\source\repos\ConditionalStatements\Godzilla vs. Kong\obj\Debug\netcoreapp2.1\Godzilla vs. Kong.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\Godzilla vs. Kong\obj\Debug\netcoreapp2.1\Godzilla vs. Kong.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\Godzilla vs. Kong\obj\Debug\netcoreapp2.1\Godzilla vs. Kong.AssemblyInfo.cs
+C:\Users\Kris\source\repos\ConditionalStatements\Godzilla vs. Kong\obj\Debug\netcoreapp2.1\Godzilla vs. Kong.dll
+C:\Users\Kris\source\repos\ConditionalStatements\Godzilla vs. Kong\obj\Debug\netcoreapp2.1\Godzilla vs. Kong.pdb
