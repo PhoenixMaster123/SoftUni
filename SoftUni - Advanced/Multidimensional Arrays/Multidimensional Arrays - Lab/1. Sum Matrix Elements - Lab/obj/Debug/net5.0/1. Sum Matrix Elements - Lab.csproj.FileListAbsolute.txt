@@ -1,0 +1,32 @@
+D:\SoftUni Advance + OOP\Stacks and Queues\Multidimensional Arrays\1. Sum Matrix Elements - Lab\bin\Debug\net5.0\1. Sum Matrix Elements - Lab.exe
+D:\SoftUni Advance + OOP\Stacks and Queues\Multidimensional Arrays\1. Sum Matrix Elements - Lab\bin\Debug\net5.0\1. Sum Matrix Elements - Lab.deps.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Multidimensional Arrays\1. Sum Matrix Elements - Lab\bin\Debug\net5.0\1. Sum Matrix Elements - Lab.runtimeconfig.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Multidimensional Arrays\1. Sum Matrix Elements - Lab\bin\Debug\net5.0\1. Sum Matrix Elements - Lab.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Stacks and Queues\Multidimensional Arrays\1. Sum Matrix Elements - Lab\bin\Debug\net5.0\1. Sum Matrix Elements - Lab.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Multidimensional Arrays\1. Sum Matrix Elements - Lab\bin\Debug\net5.0\ref\1. Sum Matrix Elements - Lab.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Multidimensional Arrays\1. Sum Matrix Elements - Lab\bin\Debug\net5.0\1. Sum Matrix Elements - Lab.pdb
+D:\SoftUni Advance + OOP\Stacks and Queues\Multidimensional Arrays\1. Sum Matrix Elements - Lab\obj\Debug\net5.0\1. Sum Matrix Elements - Lab.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Multidimensional Arrays\1. Sum Matrix Elements - Lab\obj\Debug\net5.0\1. Sum Matrix Elements - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Stacks and Queues\Multidimensional Arrays\1. Sum Matrix Elements - Lab\obj\Debug\net5.0\1. Sum Matrix Elements - Lab.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Multidimensional Arrays\1. Sum Matrix Elements - Lab\obj\Debug\net5.0\1. Sum Matrix Elements - Lab.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Stacks and Queues\Multidimensional Arrays\1. Sum Matrix Elements - Lab\obj\Debug\net5.0\1. Sum Matrix Elements - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Stacks and Queues\Multidimensional Arrays\1. Sum Matrix Elements - Lab\obj\Debug\net5.0\1. Sum Matrix Elements - Lab.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Multidimensional Arrays\1. Sum Matrix Elements - Lab\obj\Debug\net5.0\ref\1. Sum Matrix Elements - Lab.dll
+D:\SoftUni Advance + OOP\Stacks and Queues\Multidimensional Arrays\1. Sum Matrix Elements - Lab\obj\Debug\net5.0\1. Sum Matrix Elements - Lab.pdb
+D:\SoftUni Advance + OOP\Stacks and Queues\Multidimensional Arrays\1. Sum Matrix Elements - Lab\obj\Debug\net5.0\1. Sum Matrix Elements - Lab.genruntimeconfig.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Sum Matrix Elements - Lab\bin\Debug\net5.0\1. Sum Matrix Elements - Lab.exe
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Sum Matrix Elements - Lab\bin\Debug\net5.0\1. Sum Matrix Elements - Lab.deps.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Sum Matrix Elements - Lab\bin\Debug\net5.0\1. Sum Matrix Elements - Lab.runtimeconfig.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Sum Matrix Elements - Lab\bin\Debug\net5.0\1. Sum Matrix Elements - Lab.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Sum Matrix Elements - Lab\bin\Debug\net5.0\1. Sum Matrix Elements - Lab.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Sum Matrix Elements - Lab\bin\Debug\net5.0\ref\1. Sum Matrix Elements - Lab.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Sum Matrix Elements - Lab\bin\Debug\net5.0\1. Sum Matrix Elements - Lab.pdb
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Sum Matrix Elements - Lab\obj\Debug\net5.0\1. Sum Matrix Elements - Lab.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Sum Matrix Elements - Lab\obj\Debug\net5.0\1. Sum Matrix Elements - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Sum Matrix Elements - Lab\obj\Debug\net5.0\1. Sum Matrix Elements - Lab.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Sum Matrix Elements - Lab\obj\Debug\net5.0\1. Sum Matrix Elements - Lab.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Sum Matrix Elements - Lab\obj\Debug\net5.0\1. Sum Matrix Elements - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Sum Matrix Elements - Lab\obj\Debug\net5.0\1. Sum Matrix Elements - Lab.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Sum Matrix Elements - Lab\obj\Debug\net5.0\ref\1. Sum Matrix Elements - Lab.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Sum Matrix Elements - Lab\obj\Debug\net5.0\1. Sum Matrix Elements - Lab.pdb
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\1. Sum Matrix Elements - Lab\obj\Debug\net5.0\1. Sum Matrix Elements - Lab.genruntimeconfig.cache
