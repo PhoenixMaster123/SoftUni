@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Symbol in Matrix - Lab\bin\Debug\net5.0\4. Symbol in Matrix - Lab.exe
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Symbol in Matrix - Lab\bin\Debug\net5.0\4. Symbol in Matrix - Lab.deps.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Symbol in Matrix - Lab\bin\Debug\net5.0\4. Symbol in Matrix - Lab.runtimeconfig.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Symbol in Matrix - Lab\bin\Debug\net5.0\4. Symbol in Matrix - Lab.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Symbol in Matrix - Lab\bin\Debug\net5.0\4. Symbol in Matrix - Lab.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Symbol in Matrix - Lab\bin\Debug\net5.0\ref\4. Symbol in Matrix - Lab.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Symbol in Matrix - Lab\bin\Debug\net5.0\4. Symbol in Matrix - Lab.pdb
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Symbol in Matrix - Lab\obj\Debug\net5.0\4. Symbol in Matrix - Lab.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Symbol in Matrix - Lab\obj\Debug\net5.0\4. Symbol in Matrix - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Symbol in Matrix - Lab\obj\Debug\net5.0\4. Symbol in Matrix - Lab.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Symbol in Matrix - Lab\obj\Debug\net5.0\4. Symbol in Matrix - Lab.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Symbol in Matrix - Lab\obj\Debug\net5.0\4. Symbol in Matrix - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Symbol in Matrix - Lab\obj\Debug\net5.0\4. Symbol in Matrix - Lab.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Symbol in Matrix - Lab\obj\Debug\net5.0\ref\4. Symbol in Matrix - Lab.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Symbol in Matrix - Lab\obj\Debug\net5.0\4. Symbol in Matrix - Lab.pdb
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Symbol in Matrix - Lab\obj\Debug\net5.0\4. Symbol in Matrix - Lab.genruntimeconfig.cache
