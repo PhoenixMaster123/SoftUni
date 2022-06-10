@@ -1,0 +1,7 @@
+C:\Users\Kris\source\repos\For Loop - Lab\Numbers 1N with Step 3\bin\Debug\Numbers 1N with Step 3.exe.config
+C:\Users\Kris\source\repos\For Loop - Lab\Numbers 1N with Step 3\bin\Debug\Numbers 1N with Step 3.exe
+C:\Users\Kris\source\repos\For Loop - Lab\Numbers 1N with Step 3\bin\Debug\Numbers 1N with Step 3.pdb
+C:\Users\Kris\source\repos\For Loop - Lab\Numbers 1N with Step 3\obj\Debug\Numbers 1N with Step 3.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Numbers 1N with Step 3\obj\Debug\Numbers 1N with Step 3.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Numbers 1N with Step 3\obj\Debug\Numbers 1N with Step 3.exe
+C:\Users\Kris\source\repos\For Loop - Lab\Numbers 1N with Step 3\obj\Debug\Numbers 1N with Step 3.pdb
