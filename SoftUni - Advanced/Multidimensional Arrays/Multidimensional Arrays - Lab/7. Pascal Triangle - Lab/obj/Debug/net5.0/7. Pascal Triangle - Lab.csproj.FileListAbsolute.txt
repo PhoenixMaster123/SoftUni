@@ -1,0 +1,15 @@
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\7. Pascal Triangle - Lab\bin\Debug\net5.0\7. Pascal Triangle - Lab.exe
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\7. Pascal Triangle - Lab\bin\Debug\net5.0\7. Pascal Triangle - Lab.deps.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\7. Pascal Triangle - Lab\bin\Debug\net5.0\7. Pascal Triangle - Lab.runtimeconfig.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\7. Pascal Triangle - Lab\bin\Debug\net5.0\7. Pascal Triangle - Lab.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\7. Pascal Triangle - Lab\bin\Debug\net5.0\7. Pascal Triangle - Lab.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\7. Pascal Triangle - Lab\bin\Debug\net5.0\ref\7. Pascal Triangle - Lab.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\7. Pascal Triangle - Lab\bin\Debug\net5.0\7. Pascal Triangle - Lab.pdb
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\7. Pascal Triangle - Lab\obj\Debug\net5.0\7. Pascal Triangle - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\7. Pascal Triangle - Lab\obj\Debug\net5.0\7. Pascal Triangle - Lab.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\7. Pascal Triangle - Lab\obj\Debug\net5.0\7. Pascal Triangle - Lab.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\7. Pascal Triangle - Lab\obj\Debug\net5.0\7. Pascal Triangle - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\7. Pascal Triangle - Lab\obj\Debug\net5.0\7. Pascal Triangle - Lab.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\7. Pascal Triangle - Lab\obj\Debug\net5.0\ref\7. Pascal Triangle - Lab.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\7. Pascal Triangle - Lab\obj\Debug\net5.0\7. Pascal Triangle - Lab.pdb
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\7. Pascal Triangle - Lab\obj\Debug\net5.0\7. Pascal Triangle - Lab.genruntimeconfig.cache
