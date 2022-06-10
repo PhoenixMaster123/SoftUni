@@ -1,0 +1,6 @@
+C:\Users\Kris\source\repos\For Loop - Lab\Number sequence\bin\Debug\Number sequence.exe.config
+C:\Users\Kris\source\repos\For Loop - Lab\Number sequence\bin\Debug\Number sequence.exe
+C:\Users\Kris\source\repos\For Loop - Lab\Number sequence\bin\Debug\Number sequence.pdb
+C:\Users\Kris\source\repos\For Loop - Lab\Number sequence\obj\Debug\Number sequence.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Number sequence\obj\Debug\Number sequence.exe
+C:\Users\Kris\source\repos\For Loop - Lab\Number sequence\obj\Debug\Number sequence.pdb
