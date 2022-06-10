@@ -1,0 +1,7 @@
+C:\Users\Kris\source\repos\For Loop - Lab\Sum Numbers\bin\Debug\Sum Numbers.exe.config
+C:\Users\Kris\source\repos\For Loop - Lab\Sum Numbers\bin\Debug\Sum Numbers.exe
+C:\Users\Kris\source\repos\For Loop - Lab\Sum Numbers\bin\Debug\Sum Numbers.pdb
+C:\Users\Kris\source\repos\For Loop - Lab\Sum Numbers\obj\Debug\Sum Numbers.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Sum Numbers\obj\Debug\Sum Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Sum Numbers\obj\Debug\Sum Numbers.exe
+C:\Users\Kris\source\repos\For Loop - Lab\Sum Numbers\obj\Debug\Sum Numbers.pdb
