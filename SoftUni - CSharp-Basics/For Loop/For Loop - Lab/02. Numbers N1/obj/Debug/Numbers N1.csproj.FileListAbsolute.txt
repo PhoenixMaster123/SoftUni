@@ -1,0 +1,6 @@
+C:\Users\Kris\source\repos\For Loop - Lab\Numbers N1\bin\Debug\Numbers N1.exe.config
+C:\Users\Kris\source\repos\For Loop - Lab\Numbers N1\bin\Debug\Numbers N1.exe
+C:\Users\Kris\source\repos\For Loop - Lab\Numbers N1\bin\Debug\Numbers N1.pdb
+C:\Users\Kris\source\repos\For Loop - Lab\Numbers N1\obj\Debug\Numbers N1.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Numbers N1\obj\Debug\Numbers N1.exe
+C:\Users\Kris\source\repos\For Loop - Lab\Numbers N1\obj\Debug\Numbers N1.pdb
