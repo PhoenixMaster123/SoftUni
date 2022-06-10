@@ -1,0 +1,6 @@
+C:\Users\Kris\source\repos\For Loop - Lab\Character Sequence\bin\Debug\Character Sequence.exe.config
+C:\Users\Kris\source\repos\For Loop - Lab\Character Sequence\bin\Debug\Character Sequence.exe
+C:\Users\Kris\source\repos\For Loop - Lab\Character Sequence\bin\Debug\Character Sequence.pdb
+C:\Users\Kris\source\repos\For Loop - Lab\Character Sequence\obj\Debug\Character Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Character Sequence\obj\Debug\Character Sequence.exe
+C:\Users\Kris\source\repos\For Loop - Lab\Character Sequence\obj\Debug\Character Sequence.pdb
