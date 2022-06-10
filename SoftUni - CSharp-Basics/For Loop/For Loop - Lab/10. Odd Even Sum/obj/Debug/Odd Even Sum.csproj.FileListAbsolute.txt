@@ -1,0 +1,7 @@
+C:\Users\Kris\source\repos\For Loop - Lab\Odd Even Sum\bin\Debug\Odd Even Sum.exe.config
+C:\Users\Kris\source\repos\For Loop - Lab\Odd Even Sum\bin\Debug\Odd Even Sum.exe
+C:\Users\Kris\source\repos\For Loop - Lab\Odd Even Sum\bin\Debug\Odd Even Sum.pdb
+C:\Users\Kris\source\repos\For Loop - Lab\Odd Even Sum\obj\Debug\Odd Even Sum.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Odd Even Sum\obj\Debug\Odd Even Sum.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Odd Even Sum\obj\Debug\Odd Even Sum.exe
+C:\Users\Kris\source\repos\For Loop - Lab\Odd Even Sum\obj\Debug\Odd Even Sum.pdb
