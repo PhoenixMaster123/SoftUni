@@ -1,0 +1,7 @@
+C:\Users\Kris\source\repos\For Loop - Lab\Left and Right Sum\bin\Debug\Left and Right Sum.exe.config
+C:\Users\Kris\source\repos\For Loop - Lab\Left and Right Sum\bin\Debug\Left and Right Sum.exe
+C:\Users\Kris\source\repos\For Loop - Lab\Left and Right Sum\bin\Debug\Left and Right Sum.pdb
+C:\Users\Kris\source\repos\For Loop - Lab\Left and Right Sum\obj\Debug\Left and Right Sum.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Left and Right Sum\obj\Debug\Left and Right Sum.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Left and Right Sum\obj\Debug\Left and Right Sum.exe
+C:\Users\Kris\source\repos\For Loop - Lab\Left and Right Sum\obj\Debug\Left and Right Sum.pdb
