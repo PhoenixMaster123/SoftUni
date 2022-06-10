@@ -1,0 +1,6 @@
+C:\Users\Kris\source\repos\For Loop - Lab\Even Powers of 2\bin\Debug\Even Powers of 2.exe.config
+C:\Users\Kris\source\repos\For Loop - Lab\Even Powers of 2\bin\Debug\Even Powers of 2.exe
+C:\Users\Kris\source\repos\For Loop - Lab\Even Powers of 2\bin\Debug\Even Powers of 2.pdb
+C:\Users\Kris\source\repos\For Loop - Lab\Even Powers of 2\obj\Debug\Even Powers of 2.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Even Powers of 2\obj\Debug\Even Powers of 2.exe
+C:\Users\Kris\source\repos\For Loop - Lab\Even Powers of 2\obj\Debug\Even Powers of 2.pdb
