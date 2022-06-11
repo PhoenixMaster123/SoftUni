@@ -1,0 +1,7 @@
+C:\Users\Kris\source\repos\For Loop - Lab\Clever Lily\bin\Debug\Clever Lily.exe.config
+C:\Users\Kris\source\repos\For Loop - Lab\Clever Lily\bin\Debug\Clever Lily.exe
+C:\Users\Kris\source\repos\For Loop - Lab\Clever Lily\bin\Debug\Clever Lily.pdb
+C:\Users\Kris\source\repos\For Loop - Lab\Clever Lily\obj\Debug\Clever Lily.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Clever Lily\obj\Debug\Clever Lily.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Clever Lily\obj\Debug\Clever Lily.exe
+C:\Users\Kris\source\repos\For Loop - Lab\Clever Lily\obj\Debug\Clever Lily.pdb
