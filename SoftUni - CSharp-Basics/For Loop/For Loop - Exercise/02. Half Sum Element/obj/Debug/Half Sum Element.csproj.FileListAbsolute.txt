@@ -1,0 +1,7 @@
+C:\Users\Kris\source\repos\For Loop - Lab\Half Sum Element\bin\Debug\Half Sum Element.exe.config
+C:\Users\Kris\source\repos\For Loop - Lab\Half Sum Element\bin\Debug\Half Sum Element.exe
+C:\Users\Kris\source\repos\For Loop - Lab\Half Sum Element\bin\Debug\Half Sum Element.pdb
+C:\Users\Kris\source\repos\For Loop - Lab\Half Sum Element\obj\Debug\Half Sum Element.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Half Sum Element\obj\Debug\Half Sum Element.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Half Sum Element\obj\Debug\Half Sum Element.exe
+C:\Users\Kris\source\repos\For Loop - Lab\Half Sum Element\obj\Debug\Half Sum Element.pdb
