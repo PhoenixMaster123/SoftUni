@@ -1,0 +1,15 @@
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Maximal Sum - Exercise\bin\Debug\net5.0\3. Maximal Sum - Exercise.exe
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Maximal Sum - Exercise\bin\Debug\net5.0\3. Maximal Sum - Exercise.deps.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Maximal Sum - Exercise\bin\Debug\net5.0\3. Maximal Sum - Exercise.runtimeconfig.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Maximal Sum - Exercise\bin\Debug\net5.0\3. Maximal Sum - Exercise.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Maximal Sum - Exercise\bin\Debug\net5.0\3. Maximal Sum - Exercise.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Maximal Sum - Exercise\bin\Debug\net5.0\ref\3. Maximal Sum - Exercise.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Maximal Sum - Exercise\bin\Debug\net5.0\3. Maximal Sum - Exercise.pdb
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Maximal Sum - Exercise\obj\Debug\net5.0\3. Maximal Sum - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Maximal Sum - Exercise\obj\Debug\net5.0\3. Maximal Sum - Exercise.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Maximal Sum - Exercise\obj\Debug\net5.0\3. Maximal Sum - Exercise.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Maximal Sum - Exercise\obj\Debug\net5.0\3. Maximal Sum - Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Maximal Sum - Exercise\obj\Debug\net5.0\3. Maximal Sum - Exercise.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Maximal Sum - Exercise\obj\Debug\net5.0\ref\3. Maximal Sum - Exercise.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Maximal Sum - Exercise\obj\Debug\net5.0\3. Maximal Sum - Exercise.pdb
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\3. Maximal Sum - Exercise\obj\Debug\net5.0\3. Maximal Sum - Exercise.genruntimeconfig.cache
