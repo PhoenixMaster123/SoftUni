@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\While-Loop\Min Number\obj\Debug\netcoreapp2.1\Min Number.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\While-Loop\Min Number\obj\Debug\netcoreapp2.1\Min Number.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\While-Loop\Min Number\obj\Debug\netcoreapp2.1\Min Number.AssemblyInfo.cs
+C:\Users\Kris\source\repos\While-Loop\Min Number\bin\Debug\netcoreapp2.1\Min Number.deps.json
+C:\Users\Kris\source\repos\While-Loop\Min Number\bin\Debug\netcoreapp2.1\Min Number.runtimeconfig.json
+C:\Users\Kris\source\repos\While-Loop\Min Number\bin\Debug\netcoreapp2.1\Min Number.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\While-Loop\Min Number\bin\Debug\netcoreapp2.1\Min Number.dll
+C:\Users\Kris\source\repos\While-Loop\Min Number\bin\Debug\netcoreapp2.1\Min Number.pdb
+C:\Users\Kris\source\repos\While-Loop\Min Number\obj\Debug\netcoreapp2.1\Min Number.dll
+C:\Users\Kris\source\repos\While-Loop\Min Number\obj\Debug\netcoreapp2.1\Min Number.pdb
