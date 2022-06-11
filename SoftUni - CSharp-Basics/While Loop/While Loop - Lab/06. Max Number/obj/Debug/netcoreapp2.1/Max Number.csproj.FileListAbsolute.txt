@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\While-Loop\Max Number\bin\Debug\netcoreapp2.1\Max Number.deps.json
+C:\Users\Kris\source\repos\While-Loop\Max Number\bin\Debug\netcoreapp2.1\Max Number.runtimeconfig.json
+C:\Users\Kris\source\repos\While-Loop\Max Number\bin\Debug\netcoreapp2.1\Max Number.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\While-Loop\Max Number\bin\Debug\netcoreapp2.1\Max Number.dll
+C:\Users\Kris\source\repos\While-Loop\Max Number\bin\Debug\netcoreapp2.1\Max Number.pdb
+C:\Users\Kris\source\repos\While-Loop\Max Number\obj\Debug\netcoreapp2.1\Max Number.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\While-Loop\Max Number\obj\Debug\netcoreapp2.1\Max Number.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\While-Loop\Max Number\obj\Debug\netcoreapp2.1\Max Number.AssemblyInfo.cs
+C:\Users\Kris\source\repos\While-Loop\Max Number\obj\Debug\netcoreapp2.1\Max Number.dll
+C:\Users\Kris\source\repos\While-Loop\Max Number\obj\Debug\netcoreapp2.1\Max Number.pdb
