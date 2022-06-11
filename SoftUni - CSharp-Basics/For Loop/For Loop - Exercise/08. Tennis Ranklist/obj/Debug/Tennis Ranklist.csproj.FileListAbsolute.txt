@@ -1,0 +1,7 @@
+C:\Users\Kris\source\repos\For Loop - Lab\Tennis Ranklist\bin\Debug\Tennis Ranklist.exe.config
+C:\Users\Kris\source\repos\For Loop - Lab\Tennis Ranklist\bin\Debug\Tennis Ranklist.exe
+C:\Users\Kris\source\repos\For Loop - Lab\Tennis Ranklist\bin\Debug\Tennis Ranklist.pdb
+C:\Users\Kris\source\repos\For Loop - Lab\Tennis Ranklist\obj\Debug\Tennis Ranklist.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Tennis Ranklist\obj\Debug\Tennis Ranklist.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Tennis Ranklist\obj\Debug\Tennis Ranklist.exe
+C:\Users\Kris\source\repos\For Loop - Lab\Tennis Ranklist\obj\Debug\Tennis Ranklist.pdb
