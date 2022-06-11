@@ -1,0 +1,15 @@
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Squares in Matrix - Exercise\bin\Debug\net5.0\2. Squares in Matrix - Exercise.exe
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Squares in Matrix - Exercise\bin\Debug\net5.0\2. Squares in Matrix - Exercise.deps.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Squares in Matrix - Exercise\bin\Debug\net5.0\2. Squares in Matrix - Exercise.runtimeconfig.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Squares in Matrix - Exercise\bin\Debug\net5.0\2. Squares in Matrix - Exercise.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Squares in Matrix - Exercise\bin\Debug\net5.0\2. Squares in Matrix - Exercise.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Squares in Matrix - Exercise\bin\Debug\net5.0\ref\2. Squares in Matrix - Exercise.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Squares in Matrix - Exercise\bin\Debug\net5.0\2. Squares in Matrix - Exercise.pdb
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Squares in Matrix - Exercise\obj\Debug\net5.0\2. Squares in Matrix - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Squares in Matrix - Exercise\obj\Debug\net5.0\2. Squares in Matrix - Exercise.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Squares in Matrix - Exercise\obj\Debug\net5.0\2. Squares in Matrix - Exercise.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Squares in Matrix - Exercise\obj\Debug\net5.0\2. Squares in Matrix - Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Squares in Matrix - Exercise\obj\Debug\net5.0\2. Squares in Matrix - Exercise.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Squares in Matrix - Exercise\obj\Debug\net5.0\ref\2. Squares in Matrix - Exercise.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Squares in Matrix - Exercise\obj\Debug\net5.0\2. Squares in Matrix - Exercise.pdb
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\2. Squares in Matrix - Exercise\obj\Debug\net5.0\2. Squares in Matrix - Exercise.genruntimeconfig.cache
