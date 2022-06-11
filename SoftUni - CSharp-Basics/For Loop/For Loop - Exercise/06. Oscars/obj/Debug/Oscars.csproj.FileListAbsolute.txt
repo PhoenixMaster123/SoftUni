@@ -1,0 +1,7 @@
+C:\Users\Kris\source\repos\For Loop - Lab\Oscars\bin\Debug\Oscars.exe.config
+C:\Users\Kris\source\repos\For Loop - Lab\Oscars\bin\Debug\Oscars.exe
+C:\Users\Kris\source\repos\For Loop - Lab\Oscars\bin\Debug\Oscars.pdb
+C:\Users\Kris\source\repos\For Loop - Lab\Oscars\obj\Debug\Oscars.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Oscars\obj\Debug\Oscars.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Oscars\obj\Debug\Oscars.exe
+C:\Users\Kris\source\repos\For Loop - Lab\Oscars\obj\Debug\Oscars.pdb
