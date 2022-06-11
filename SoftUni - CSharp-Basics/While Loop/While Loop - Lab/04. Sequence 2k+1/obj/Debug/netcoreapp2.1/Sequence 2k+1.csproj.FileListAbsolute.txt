@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\While-Loop\Sequence 2k+1\bin\Debug\netcoreapp2.1\Sequence 2k+1.deps.json
+C:\Users\Kris\source\repos\While-Loop\Sequence 2k+1\bin\Debug\netcoreapp2.1\Sequence 2k+1.runtimeconfig.json
+C:\Users\Kris\source\repos\While-Loop\Sequence 2k+1\bin\Debug\netcoreapp2.1\Sequence 2k+1.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\While-Loop\Sequence 2k+1\bin\Debug\netcoreapp2.1\Sequence 2k+1.dll
+C:\Users\Kris\source\repos\While-Loop\Sequence 2k+1\bin\Debug\netcoreapp2.1\Sequence 2k+1.pdb
+C:\Users\Kris\source\repos\While-Loop\Sequence 2k+1\obj\Debug\netcoreapp2.1\Sequence 2k+1.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\While-Loop\Sequence 2k+1\obj\Debug\netcoreapp2.1\Sequence 2k+1.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\While-Loop\Sequence 2k+1\obj\Debug\netcoreapp2.1\Sequence 2k+1.AssemblyInfo.cs
+C:\Users\Kris\source\repos\While-Loop\Sequence 2k+1\obj\Debug\netcoreapp2.1\Sequence 2k+1.dll
+C:\Users\Kris\source\repos\While-Loop\Sequence 2k+1\obj\Debug\netcoreapp2.1\Sequence 2k+1.pdb

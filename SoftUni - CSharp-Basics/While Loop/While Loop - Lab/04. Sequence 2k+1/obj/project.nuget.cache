@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "IoZwDawTP4E9n8wN6qm2Tp5FyBKOQOPmnOphm8owi+zpmmR1DK7BpckhxHi3BzkuoOnO8ND5tade3Ys642GL4Q==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\While-Loop\\Sequence 2k+1\\Sequence 2k+1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PhoenixMaster\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\PhoenixMaster\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\PhoenixMaster\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\PhoenixMaster\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\PhoenixMaster\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\PhoenixMaster\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\PhoenixMaster\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
