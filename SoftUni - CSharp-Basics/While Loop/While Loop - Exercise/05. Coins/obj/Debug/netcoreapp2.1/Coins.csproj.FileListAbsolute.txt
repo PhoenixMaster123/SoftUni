@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\While-Loop\Coins\bin\Debug\netcoreapp2.1\Coins.deps.json
+C:\Users\Kris\source\repos\While-Loop\Coins\bin\Debug\netcoreapp2.1\Coins.runtimeconfig.json
+C:\Users\Kris\source\repos\While-Loop\Coins\bin\Debug\netcoreapp2.1\Coins.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\While-Loop\Coins\bin\Debug\netcoreapp2.1\Coins.dll
+C:\Users\Kris\source\repos\While-Loop\Coins\bin\Debug\netcoreapp2.1\Coins.pdb
+C:\Users\Kris\source\repos\While-Loop\Coins\obj\Debug\netcoreapp2.1\Coins.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\While-Loop\Coins\obj\Debug\netcoreapp2.1\Coins.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\While-Loop\Coins\obj\Debug\netcoreapp2.1\Coins.AssemblyInfo.cs
+C:\Users\Kris\source\repos\While-Loop\Coins\obj\Debug\netcoreapp2.1\Coins.dll
+C:\Users\Kris\source\repos\While-Loop\Coins\obj\Debug\netcoreapp2.1\Coins.pdb
