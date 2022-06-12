@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\Nested Loops\Sum Prime Non Prime\bin\Debug\netcoreapp2.1\Sum Prime Non Prime.deps.json
+C:\Users\Kris\source\repos\Nested Loops\Sum Prime Non Prime\bin\Debug\netcoreapp2.1\Sum Prime Non Prime.runtimeconfig.json
+C:\Users\Kris\source\repos\Nested Loops\Sum Prime Non Prime\bin\Debug\netcoreapp2.1\Sum Prime Non Prime.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\Nested Loops\Sum Prime Non Prime\bin\Debug\netcoreapp2.1\Sum Prime Non Prime.dll
+C:\Users\Kris\source\repos\Nested Loops\Sum Prime Non Prime\bin\Debug\netcoreapp2.1\Sum Prime Non Prime.pdb
+C:\Users\Kris\source\repos\Nested Loops\Sum Prime Non Prime\obj\Debug\netcoreapp2.1\Sum Prime Non Prime.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Nested Loops\Sum Prime Non Prime\obj\Debug\netcoreapp2.1\Sum Prime Non Prime.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\Nested Loops\Sum Prime Non Prime\obj\Debug\netcoreapp2.1\Sum Prime Non Prime.AssemblyInfo.cs
+C:\Users\Kris\source\repos\Nested Loops\Sum Prime Non Prime\obj\Debug\netcoreapp2.1\Sum Prime Non Prime.dll
+C:\Users\Kris\source\repos\Nested Loops\Sum Prime Non Prime\obj\Debug\netcoreapp2.1\Sum Prime Non Prime.pdb
