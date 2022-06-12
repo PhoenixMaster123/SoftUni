@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\While-Loop\Moving\bin\Debug\netcoreapp2.1\Moving.deps.json
+C:\Users\Kris\source\repos\While-Loop\Moving\bin\Debug\netcoreapp2.1\Moving.runtimeconfig.json
+C:\Users\Kris\source\repos\While-Loop\Moving\bin\Debug\netcoreapp2.1\Moving.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\While-Loop\Moving\bin\Debug\netcoreapp2.1\Moving.dll
+C:\Users\Kris\source\repos\While-Loop\Moving\bin\Debug\netcoreapp2.1\Moving.pdb
+C:\Users\Kris\source\repos\While-Loop\Moving\obj\Debug\netcoreapp2.1\Moving.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\While-Loop\Moving\obj\Debug\netcoreapp2.1\Moving.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\While-Loop\Moving\obj\Debug\netcoreapp2.1\Moving.AssemblyInfo.cs
+C:\Users\Kris\source\repos\While-Loop\Moving\obj\Debug\netcoreapp2.1\Moving.dll
+C:\Users\Kris\source\repos\While-Loop\Moving\obj\Debug\netcoreapp2.1\Moving.pdb
