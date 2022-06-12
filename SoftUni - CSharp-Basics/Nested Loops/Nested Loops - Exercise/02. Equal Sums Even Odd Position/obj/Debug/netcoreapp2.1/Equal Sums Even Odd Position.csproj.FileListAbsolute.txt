@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\Nested Loops\Equal Sums Even Odd Position\bin\Debug\netcoreapp2.1\Equal Sums Even Odd Position.deps.json
+C:\Users\Kris\source\repos\Nested Loops\Equal Sums Even Odd Position\bin\Debug\netcoreapp2.1\Equal Sums Even Odd Position.runtimeconfig.json
+C:\Users\Kris\source\repos\Nested Loops\Equal Sums Even Odd Position\bin\Debug\netcoreapp2.1\Equal Sums Even Odd Position.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\Nested Loops\Equal Sums Even Odd Position\bin\Debug\netcoreapp2.1\Equal Sums Even Odd Position.dll
+C:\Users\Kris\source\repos\Nested Loops\Equal Sums Even Odd Position\bin\Debug\netcoreapp2.1\Equal Sums Even Odd Position.pdb
+C:\Users\Kris\source\repos\Nested Loops\Equal Sums Even Odd Position\obj\Debug\netcoreapp2.1\Equal Sums Even Odd Position.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Nested Loops\Equal Sums Even Odd Position\obj\Debug\netcoreapp2.1\Equal Sums Even Odd Position.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\Nested Loops\Equal Sums Even Odd Position\obj\Debug\netcoreapp2.1\Equal Sums Even Odd Position.AssemblyInfo.cs
+C:\Users\Kris\source\repos\Nested Loops\Equal Sums Even Odd Position\obj\Debug\netcoreapp2.1\Equal Sums Even Odd Position.dll
+C:\Users\Kris\source\repos\Nested Loops\Equal Sums Even Odd Position\obj\Debug\netcoreapp2.1\Equal Sums Even Odd Position.pdb
