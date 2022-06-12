@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\6. Jagged Array Manipulator - Exercise\bin\Debug\net5.0\6. Jagged Array Manipulator - Exercise.exe
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\6. Jagged Array Manipulator - Exercise\bin\Debug\net5.0\6. Jagged Array Manipulator - Exercise.deps.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\6. Jagged Array Manipulator - Exercise\bin\Debug\net5.0\6. Jagged Array Manipulator - Exercise.runtimeconfig.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\6. Jagged Array Manipulator - Exercise\bin\Debug\net5.0\6. Jagged Array Manipulator - Exercise.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\6. Jagged Array Manipulator - Exercise\bin\Debug\net5.0\6. Jagged Array Manipulator - Exercise.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\6. Jagged Array Manipulator - Exercise\bin\Debug\net5.0\ref\6. Jagged Array Manipulator - Exercise.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\6. Jagged Array Manipulator - Exercise\bin\Debug\net5.0\6. Jagged Array Manipulator - Exercise.pdb
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\6. Jagged Array Manipulator - Exercise\obj\Debug\net5.0\6. Jagged Array Manipulator - Exercise.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\6. Jagged Array Manipulator - Exercise\obj\Debug\net5.0\6. Jagged Array Manipulator - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\6. Jagged Array Manipulator - Exercise\obj\Debug\net5.0\6. Jagged Array Manipulator - Exercise.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\6. Jagged Array Manipulator - Exercise\obj\Debug\net5.0\6. Jagged Array Manipulator - Exercise.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\6. Jagged Array Manipulator - Exercise\obj\Debug\net5.0\6. Jagged Array Manipulator - Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\6. Jagged Array Manipulator - Exercise\obj\Debug\net5.0\6. Jagged Array Manipulator - Exercise.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\6. Jagged Array Manipulator - Exercise\obj\Debug\net5.0\ref\6. Jagged Array Manipulator - Exercise.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\6. Jagged Array Manipulator - Exercise\obj\Debug\net5.0\6. Jagged Array Manipulator - Exercise.pdb
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\6. Jagged Array Manipulator - Exercise\obj\Debug\net5.0\6. Jagged Array Manipulator - Exercise.genruntimeconfig.cache
