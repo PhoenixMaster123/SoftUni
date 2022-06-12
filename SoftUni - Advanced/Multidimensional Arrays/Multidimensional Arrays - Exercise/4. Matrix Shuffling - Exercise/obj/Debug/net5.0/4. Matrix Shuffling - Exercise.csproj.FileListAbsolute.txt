@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Matrix Shuffling - Exercise\obj\Debug\net5.0\4. Matrix Shuffling - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Matrix Shuffling - Exercise\obj\Debug\net5.0\4. Matrix Shuffling - Exercise.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Matrix Shuffling - Exercise\obj\Debug\net5.0\4. Matrix Shuffling - Exercise.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Matrix Shuffling - Exercise\obj\Debug\net5.0\4. Matrix Shuffling - Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Matrix Shuffling - Exercise\bin\Debug\net5.0\4. Matrix Shuffling - Exercise.exe
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Matrix Shuffling - Exercise\bin\Debug\net5.0\4. Matrix Shuffling - Exercise.deps.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Matrix Shuffling - Exercise\bin\Debug\net5.0\4. Matrix Shuffling - Exercise.runtimeconfig.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Matrix Shuffling - Exercise\bin\Debug\net5.0\4. Matrix Shuffling - Exercise.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Matrix Shuffling - Exercise\bin\Debug\net5.0\4. Matrix Shuffling - Exercise.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Matrix Shuffling - Exercise\bin\Debug\net5.0\ref\4. Matrix Shuffling - Exercise.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Matrix Shuffling - Exercise\bin\Debug\net5.0\4. Matrix Shuffling - Exercise.pdb
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Matrix Shuffling - Exercise\obj\Debug\net5.0\4. Matrix Shuffling - Exercise.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Matrix Shuffling - Exercise\obj\Debug\net5.0\4. Matrix Shuffling - Exercise.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Matrix Shuffling - Exercise\obj\Debug\net5.0\ref\4. Matrix Shuffling - Exercise.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Matrix Shuffling - Exercise\obj\Debug\net5.0\4. Matrix Shuffling - Exercise.pdb
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\4. Matrix Shuffling - Exercise\obj\Debug\net5.0\4. Matrix Shuffling - Exercise.genruntimeconfig.cache
