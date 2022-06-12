@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\Nested Loops\Combinations\bin\Debug\netcoreapp2.1\Combinations.deps.json
+C:\Users\Kris\source\repos\Nested Loops\Combinations\bin\Debug\netcoreapp2.1\Combinations.runtimeconfig.json
+C:\Users\Kris\source\repos\Nested Loops\Combinations\bin\Debug\netcoreapp2.1\Combinations.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\Nested Loops\Combinations\bin\Debug\netcoreapp2.1\Combinations.dll
+C:\Users\Kris\source\repos\Nested Loops\Combinations\bin\Debug\netcoreapp2.1\Combinations.pdb
+C:\Users\Kris\source\repos\Nested Loops\Combinations\obj\Debug\netcoreapp2.1\Combinations.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\Nested Loops\Combinations\obj\Debug\netcoreapp2.1\Combinations.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Nested Loops\Combinations\obj\Debug\netcoreapp2.1\Combinations.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\Nested Loops\Combinations\obj\Debug\netcoreapp2.1\Combinations.AssemblyInfo.cs
+C:\Users\Kris\source\repos\Nested Loops\Combinations\obj\Debug\netcoreapp2.1\Combinations.dll
+C:\Users\Kris\source\repos\Nested Loops\Combinations\obj\Debug\netcoreapp2.1\Combinations.pdb
