@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\5. Snake Moves - Exercise\bin\Debug\net5.0\5. Snake Moves - Exercise.exe
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\5. Snake Moves - Exercise\bin\Debug\net5.0\5. Snake Moves - Exercise.deps.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\5. Snake Moves - Exercise\bin\Debug\net5.0\5. Snake Moves - Exercise.runtimeconfig.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\5. Snake Moves - Exercise\bin\Debug\net5.0\5. Snake Moves - Exercise.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\5. Snake Moves - Exercise\bin\Debug\net5.0\5. Snake Moves - Exercise.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\5. Snake Moves - Exercise\bin\Debug\net5.0\ref\5. Snake Moves - Exercise.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\5. Snake Moves - Exercise\bin\Debug\net5.0\5. Snake Moves - Exercise.pdb
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\5. Snake Moves - Exercise\obj\Debug\net5.0\5. Snake Moves - Exercise.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\5. Snake Moves - Exercise\obj\Debug\net5.0\5. Snake Moves - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\5. Snake Moves - Exercise\obj\Debug\net5.0\5. Snake Moves - Exercise.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\5. Snake Moves - Exercise\obj\Debug\net5.0\5. Snake Moves - Exercise.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\5. Snake Moves - Exercise\obj\Debug\net5.0\5. Snake Moves - Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\5. Snake Moves - Exercise\obj\Debug\net5.0\5. Snake Moves - Exercise.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\5. Snake Moves - Exercise\obj\Debug\net5.0\ref\5. Snake Moves - Exercise.dll
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\5. Snake Moves - Exercise\obj\Debug\net5.0\5. Snake Moves - Exercise.pdb
+D:\SoftUni Advance + OOP\Multidimensional Arrays\Multidimensional Arrays\5. Snake Moves - Exercise\obj\Debug\net5.0\5. Snake Moves - Exercise.genruntimeconfig.cache
