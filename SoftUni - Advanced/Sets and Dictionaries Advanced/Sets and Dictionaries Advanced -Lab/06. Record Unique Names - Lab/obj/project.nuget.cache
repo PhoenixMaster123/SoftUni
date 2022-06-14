@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jhDHexKeEGC/0GBzG6Zc1nn9s5WPZAvyi5Lbm90sUpa/zd/RPOQgXcvrDIzLDZOQ4bSZGxmWm/b+KJrCYg1qeA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni Advance + OOP\\Sets and Dictionaries Advanced\\Sets and Dictionaries Advanced\\06. Record Unique Names - Lab\\06. Record Unique Names - Lab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
