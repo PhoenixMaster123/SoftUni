@@ -22,7 +22,16 @@ namespace _04._Even_Times___Exercise
                     dictionaryEvenNumbers[num]++;
                 }
             }
-            Console.WriteLine(dictionaryEvenNumbers.First(entry => entry.Value % 2 == 0).Key); 
+            ///////////////////////////////////////////////////// First Variant ////////////////////////////////
+            Console.WriteLine(dictionaryEvenNumbers.First(entry => entry.Value % 2 == 0).Key);
+            ///////////////////////////////////////////////////// Second Variant ////////////////////////////////
+            //foreach(var num in dictionaryEvenNumbers)
+            //{
+            //    if (num.Value % 2 == 0)
+            //    {
+            //        Console.WriteLine(num.Key);
+            //    }
+            //}
         }
     }
 }
