@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\02. Sets of Elements - Exercise\bin\Debug\net5.0\02. Sets of Elements - Exercise.exe
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\02. Sets of Elements - Exercise\bin\Debug\net5.0\02. Sets of Elements - Exercise.deps.json
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\02. Sets of Elements - Exercise\bin\Debug\net5.0\02. Sets of Elements - Exercise.runtimeconfig.json
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\02. Sets of Elements - Exercise\bin\Debug\net5.0\02. Sets of Elements - Exercise.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\02. Sets of Elements - Exercise\bin\Debug\net5.0\02. Sets of Elements - Exercise.dll
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\02. Sets of Elements - Exercise\bin\Debug\net5.0\ref\02. Sets of Elements - Exercise.dll
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\02. Sets of Elements - Exercise\bin\Debug\net5.0\02. Sets of Elements - Exercise.pdb
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\02. Sets of Elements - Exercise\obj\Debug\net5.0\02. Sets of Elements - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\02. Sets of Elements - Exercise\obj\Debug\net5.0\02. Sets of Elements - Exercise.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\02. Sets of Elements - Exercise\obj\Debug\net5.0\02. Sets of Elements - Exercise.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\02. Sets of Elements - Exercise\obj\Debug\net5.0\02. Sets of Elements - Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\02. Sets of Elements - Exercise\obj\Debug\net5.0\02. Sets of Elements - Exercise.dll
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\02. Sets of Elements - Exercise\obj\Debug\net5.0\ref\02. Sets of Elements - Exercise.dll
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\02. Sets of Elements - Exercise\obj\Debug\net5.0\02. Sets of Elements - Exercise.pdb
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\02. Sets of Elements - Exercise\obj\Debug\net5.0\02. Sets of Elements - Exercise.genruntimeconfig.cache
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\02. Sets of Elements - Exercise\obj\Debug\net5.0\02. Sets of Elements - Exercise.csproj.AssemblyReference.cache
