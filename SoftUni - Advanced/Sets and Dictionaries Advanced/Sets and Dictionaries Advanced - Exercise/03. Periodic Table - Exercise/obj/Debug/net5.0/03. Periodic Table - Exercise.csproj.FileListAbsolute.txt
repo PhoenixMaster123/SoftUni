@@ -1,0 +1,15 @@
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\03. Periodic Table - Exercise\bin\Debug\net5.0\03. Periodic Table - Exercise.exe
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\03. Periodic Table - Exercise\bin\Debug\net5.0\03. Periodic Table - Exercise.deps.json
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\03. Periodic Table - Exercise\bin\Debug\net5.0\03. Periodic Table - Exercise.runtimeconfig.json
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\03. Periodic Table - Exercise\bin\Debug\net5.0\03. Periodic Table - Exercise.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\03. Periodic Table - Exercise\bin\Debug\net5.0\03. Periodic Table - Exercise.dll
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\03. Periodic Table - Exercise\bin\Debug\net5.0\ref\03. Periodic Table - Exercise.dll
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\03. Periodic Table - Exercise\bin\Debug\net5.0\03. Periodic Table - Exercise.pdb
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\03. Periodic Table - Exercise\obj\Debug\net5.0\03. Periodic Table - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\03. Periodic Table - Exercise\obj\Debug\net5.0\03. Periodic Table - Exercise.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\03. Periodic Table - Exercise\obj\Debug\net5.0\03. Periodic Table - Exercise.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\03. Periodic Table - Exercise\obj\Debug\net5.0\03. Periodic Table - Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\03. Periodic Table - Exercise\obj\Debug\net5.0\03. Periodic Table - Exercise.dll
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\03. Periodic Table - Exercise\obj\Debug\net5.0\ref\03. Periodic Table - Exercise.dll
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\03. Periodic Table - Exercise\obj\Debug\net5.0\03. Periodic Table - Exercise.pdb
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\03. Periodic Table - Exercise\obj\Debug\net5.0\03. Periodic Table - Exercise.genruntimeconfig.cache
