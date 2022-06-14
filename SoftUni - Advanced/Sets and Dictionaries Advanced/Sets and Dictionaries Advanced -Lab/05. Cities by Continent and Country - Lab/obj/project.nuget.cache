@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hPpK/LvecqCumXWD8Ul+0UXM3QXguAlSF/rR8mphMN1hDUw+iGaN8xweeUtT58yFnGHuYkevxh9m2+TdjUyQEg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni Advance + OOP\\Sets and Dictionaries Advanced\\Sets and Dictionaries Advanced\\05. Cities by Continent and Country - Lab\\05. Cities by Continent and Country - Lab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
