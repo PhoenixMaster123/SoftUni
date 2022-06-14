@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\05. Count Symbols - Exercise\bin\Debug\net5.0\05. Count Symbols - Exercise.exe
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\05. Count Symbols - Exercise\bin\Debug\net5.0\05. Count Symbols - Exercise.deps.json
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\05. Count Symbols - Exercise\bin\Debug\net5.0\05. Count Symbols - Exercise.runtimeconfig.json
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\05. Count Symbols - Exercise\bin\Debug\net5.0\05. Count Symbols - Exercise.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\05. Count Symbols - Exercise\bin\Debug\net5.0\05. Count Symbols - Exercise.dll
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\05. Count Symbols - Exercise\bin\Debug\net5.0\ref\05. Count Symbols - Exercise.dll
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\05. Count Symbols - Exercise\bin\Debug\net5.0\05. Count Symbols - Exercise.pdb
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\05. Count Symbols - Exercise\obj\Debug\net5.0\05. Count Symbols - Exercise.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\05. Count Symbols - Exercise\obj\Debug\net5.0\05. Count Symbols - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\05. Count Symbols - Exercise\obj\Debug\net5.0\05. Count Symbols - Exercise.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\05. Count Symbols - Exercise\obj\Debug\net5.0\05. Count Symbols - Exercise.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\05. Count Symbols - Exercise\obj\Debug\net5.0\05. Count Symbols - Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\05. Count Symbols - Exercise\obj\Debug\net5.0\05. Count Symbols - Exercise.dll
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\05. Count Symbols - Exercise\obj\Debug\net5.0\ref\05. Count Symbols - Exercise.dll
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\05. Count Symbols - Exercise\obj\Debug\net5.0\05. Count Symbols - Exercise.pdb
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\05. Count Symbols - Exercise\obj\Debug\net5.0\05. Count Symbols - Exercise.genruntimeconfig.cache
