@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\04. Product Shop - Lab\obj\Debug\net5.0\04. Product Shop - Lab.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\04. Product Shop - Lab\obj\Debug\net5.0\04. Product Shop - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\04. Product Shop - Lab\obj\Debug\net5.0\04. Product Shop - Lab.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\04. Product Shop - Lab\obj\Debug\net5.0\04. Product Shop - Lab.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\04. Product Shop - Lab\obj\Debug\net5.0\04. Product Shop - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\04. Product Shop - Lab\bin\Debug\net5.0\04. Product Shop - Lab.exe
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\04. Product Shop - Lab\bin\Debug\net5.0\04. Product Shop - Lab.deps.json
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\04. Product Shop - Lab\bin\Debug\net5.0\04. Product Shop - Lab.runtimeconfig.json
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\04. Product Shop - Lab\bin\Debug\net5.0\04. Product Shop - Lab.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\04. Product Shop - Lab\bin\Debug\net5.0\04. Product Shop - Lab.dll
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\04. Product Shop - Lab\bin\Debug\net5.0\ref\04. Product Shop - Lab.dll
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\04. Product Shop - Lab\bin\Debug\net5.0\04. Product Shop - Lab.pdb
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\04. Product Shop - Lab\obj\Debug\net5.0\04. Product Shop - Lab.dll
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\04. Product Shop - Lab\obj\Debug\net5.0\ref\04. Product Shop - Lab.dll
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\04. Product Shop - Lab\obj\Debug\net5.0\04. Product Shop - Lab.pdb
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\04. Product Shop - Lab\obj\Debug\net5.0\04. Product Shop - Lab.genruntimeconfig.cache
