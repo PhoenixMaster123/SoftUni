@@ -1,0 +1,15 @@
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\08. SoftUni Party - Lab\obj\Debug\net5.0\08. SoftUni Party - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\08. SoftUni Party - Lab\obj\Debug\net5.0\08. SoftUni Party - Lab.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\08. SoftUni Party - Lab\obj\Debug\net5.0\08. SoftUni Party - Lab.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\08. SoftUni Party - Lab\obj\Debug\net5.0\08. SoftUni Party - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\08. SoftUni Party - Lab\bin\Debug\net5.0\08. SoftUni Party - Lab.exe
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\08. SoftUni Party - Lab\bin\Debug\net5.0\08. SoftUni Party - Lab.deps.json
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\08. SoftUni Party - Lab\bin\Debug\net5.0\08. SoftUni Party - Lab.runtimeconfig.json
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\08. SoftUni Party - Lab\bin\Debug\net5.0\08. SoftUni Party - Lab.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\08. SoftUni Party - Lab\bin\Debug\net5.0\08. SoftUni Party - Lab.dll
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\08. SoftUni Party - Lab\bin\Debug\net5.0\ref\08. SoftUni Party - Lab.dll
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\08. SoftUni Party - Lab\bin\Debug\net5.0\08. SoftUni Party - Lab.pdb
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\08. SoftUni Party - Lab\obj\Debug\net5.0\08. SoftUni Party - Lab.dll
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\08. SoftUni Party - Lab\obj\Debug\net5.0\ref\08. SoftUni Party - Lab.dll
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\08. SoftUni Party - Lab\obj\Debug\net5.0\08. SoftUni Party - Lab.pdb
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\08. SoftUni Party - Lab\obj\Debug\net5.0\08. SoftUni Party - Lab.genruntimeconfig.cache
