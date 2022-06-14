@@ -1,0 +1,15 @@
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\07. Parking Lot - Lab\bin\Debug\net5.0\07. Parking Lot - Lab.exe
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\07. Parking Lot - Lab\bin\Debug\net5.0\07. Parking Lot - Lab.deps.json
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\07. Parking Lot - Lab\bin\Debug\net5.0\07. Parking Lot - Lab.runtimeconfig.json
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\07. Parking Lot - Lab\bin\Debug\net5.0\07. Parking Lot - Lab.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\07. Parking Lot - Lab\bin\Debug\net5.0\07. Parking Lot - Lab.dll
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\07. Parking Lot - Lab\bin\Debug\net5.0\ref\07. Parking Lot - Lab.dll
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\07. Parking Lot - Lab\bin\Debug\net5.0\07. Parking Lot - Lab.pdb
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\07. Parking Lot - Lab\obj\Debug\net5.0\07. Parking Lot - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\07. Parking Lot - Lab\obj\Debug\net5.0\07. Parking Lot - Lab.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\07. Parking Lot - Lab\obj\Debug\net5.0\07. Parking Lot - Lab.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\07. Parking Lot - Lab\obj\Debug\net5.0\07. Parking Lot - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\07. Parking Lot - Lab\obj\Debug\net5.0\07. Parking Lot - Lab.dll
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\07. Parking Lot - Lab\obj\Debug\net5.0\ref\07. Parking Lot - Lab.dll
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\07. Parking Lot - Lab\obj\Debug\net5.0\07. Parking Lot - Lab.pdb
+D:\SoftUni Advance + OOP\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\07. Parking Lot - Lab\obj\Debug\net5.0\07. Parking Lot - Lab.genruntimeconfig.cache
