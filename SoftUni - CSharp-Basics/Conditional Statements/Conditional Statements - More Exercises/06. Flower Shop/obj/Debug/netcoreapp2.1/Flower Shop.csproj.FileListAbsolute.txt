@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\ConditionalStatements\Flower Shop\bin\Debug\netcoreapp2.1\Flower Shop.deps.json
+C:\Users\Kris\source\repos\ConditionalStatements\Flower Shop\bin\Debug\netcoreapp2.1\Flower Shop.runtimeconfig.json
+C:\Users\Kris\source\repos\ConditionalStatements\Flower Shop\bin\Debug\netcoreapp2.1\Flower Shop.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\ConditionalStatements\Flower Shop\bin\Debug\netcoreapp2.1\Flower Shop.dll
+C:\Users\Kris\source\repos\ConditionalStatements\Flower Shop\bin\Debug\netcoreapp2.1\Flower Shop.pdb
+C:\Users\Kris\source\repos\ConditionalStatements\Flower Shop\obj\Debug\netcoreapp2.1\Flower Shop.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\Flower Shop\obj\Debug\netcoreapp2.1\Flower Shop.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\Flower Shop\obj\Debug\netcoreapp2.1\Flower Shop.AssemblyInfo.cs
+C:\Users\Kris\source\repos\ConditionalStatements\Flower Shop\obj\Debug\netcoreapp2.1\Flower Shop.dll
+C:\Users\Kris\source\repos\ConditionalStatements\Flower Shop\obj\Debug\netcoreapp2.1\Flower Shop.pdb
+C:\Users\Kris\source\repos\ConditionalStatements\Flower Shop\obj\Debug\netcoreapp2.1\Flower Shop.csprojAssemblyReference.cache
