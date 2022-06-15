@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ev3WKmzisI2hAgqDBIqNdCoUIKq4qArXH6l60to+k65sRhn+nC4jWFmV8yQnQ2Li+P0nPiepvHQ8/L5ZCSRLzQ==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\ConditionalStatements\\Pets\\Pets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PhoenixMaster\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\PhoenixMaster\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\PhoenixMaster\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\PhoenixMaster\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\PhoenixMaster\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\PhoenixMaster\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\PhoenixMaster\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
