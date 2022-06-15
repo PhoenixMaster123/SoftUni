@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\ConditionalStatements\Pipes In Pool\obj\Debug\netcoreapp2.1\Pipes In Pool.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\Pipes In Pool\obj\Debug\netcoreapp2.1\Pipes In Pool.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\Pipes In Pool\obj\Debug\netcoreapp2.1\Pipes In Pool.AssemblyInfo.cs
+C:\Users\Kris\source\repos\ConditionalStatements\Pipes In Pool\bin\Debug\netcoreapp2.1\Pipes In Pool.deps.json
+C:\Users\Kris\source\repos\ConditionalStatements\Pipes In Pool\bin\Debug\netcoreapp2.1\Pipes In Pool.runtimeconfig.json
+C:\Users\Kris\source\repos\ConditionalStatements\Pipes In Pool\bin\Debug\netcoreapp2.1\Pipes In Pool.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\ConditionalStatements\Pipes In Pool\bin\Debug\netcoreapp2.1\Pipes In Pool.dll
+C:\Users\Kris\source\repos\ConditionalStatements\Pipes In Pool\bin\Debug\netcoreapp2.1\Pipes In Pool.pdb
+C:\Users\Kris\source\repos\ConditionalStatements\Pipes In Pool\obj\Debug\netcoreapp2.1\Pipes In Pool.dll
+C:\Users\Kris\source\repos\ConditionalStatements\Pipes In Pool\obj\Debug\netcoreapp2.1\Pipes In Pool.pdb
+C:\Users\Kris\source\repos\ConditionalStatements\Pipes In Pool\obj\Debug\netcoreapp2.1\Pipes In Pool.csprojAssemblyReference.cache
