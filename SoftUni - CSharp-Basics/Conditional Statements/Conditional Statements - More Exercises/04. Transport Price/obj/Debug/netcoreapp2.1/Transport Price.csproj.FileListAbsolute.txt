@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\ConditionalStatements\Transport Price\bin\Debug\netcoreapp2.1\Transport Price.deps.json
+C:\Users\Kris\source\repos\ConditionalStatements\Transport Price\bin\Debug\netcoreapp2.1\Transport Price.runtimeconfig.json
+C:\Users\Kris\source\repos\ConditionalStatements\Transport Price\bin\Debug\netcoreapp2.1\Transport Price.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\ConditionalStatements\Transport Price\bin\Debug\netcoreapp2.1\Transport Price.dll
+C:\Users\Kris\source\repos\ConditionalStatements\Transport Price\bin\Debug\netcoreapp2.1\Transport Price.pdb
+C:\Users\Kris\source\repos\ConditionalStatements\Transport Price\obj\Debug\netcoreapp2.1\Transport Price.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\Transport Price\obj\Debug\netcoreapp2.1\Transport Price.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\Transport Price\obj\Debug\netcoreapp2.1\Transport Price.AssemblyInfo.cs
+C:\Users\Kris\source\repos\ConditionalStatements\Transport Price\obj\Debug\netcoreapp2.1\Transport Price.dll
+C:\Users\Kris\source\repos\ConditionalStatements\Transport Price\obj\Debug\netcoreapp2.1\Transport Price.pdb
