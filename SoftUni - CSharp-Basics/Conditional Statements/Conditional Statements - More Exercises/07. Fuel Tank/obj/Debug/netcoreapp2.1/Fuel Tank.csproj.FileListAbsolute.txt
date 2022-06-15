@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\ConditionalStatements\Fuel Tank\bin\Debug\netcoreapp2.1\Fuel Tank.deps.json
+C:\Users\Kris\source\repos\ConditionalStatements\Fuel Tank\bin\Debug\netcoreapp2.1\Fuel Tank.runtimeconfig.json
+C:\Users\Kris\source\repos\ConditionalStatements\Fuel Tank\bin\Debug\netcoreapp2.1\Fuel Tank.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\ConditionalStatements\Fuel Tank\bin\Debug\netcoreapp2.1\Fuel Tank.dll
+C:\Users\Kris\source\repos\ConditionalStatements\Fuel Tank\bin\Debug\netcoreapp2.1\Fuel Tank.pdb
+C:\Users\Kris\source\repos\ConditionalStatements\Fuel Tank\obj\Debug\netcoreapp2.1\Fuel Tank.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\Fuel Tank\obj\Debug\netcoreapp2.1\Fuel Tank.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\ConditionalStatements\Fuel Tank\obj\Debug\netcoreapp2.1\Fuel Tank.AssemblyInfo.cs
+C:\Users\Kris\source\repos\ConditionalStatements\Fuel Tank\obj\Debug\netcoreapp2.1\Fuel Tank.dll
+C:\Users\Kris\source\repos\ConditionalStatements\Fuel Tank\obj\Debug\netcoreapp2.1\Fuel Tank.pdb
