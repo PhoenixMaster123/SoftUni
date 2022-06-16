@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\For Loop - Lab\Back To The Past\bin\Debug\netcoreapp2.1\Back To The Past.deps.json
+C:\Users\Kris\source\repos\For Loop - Lab\Back To The Past\bin\Debug\netcoreapp2.1\Back To The Past.runtimeconfig.json
+C:\Users\Kris\source\repos\For Loop - Lab\Back To The Past\bin\Debug\netcoreapp2.1\Back To The Past.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\For Loop - Lab\Back To The Past\bin\Debug\netcoreapp2.1\Back To The Past.dll
+C:\Users\Kris\source\repos\For Loop - Lab\Back To The Past\bin\Debug\netcoreapp2.1\Back To The Past.pdb
+C:\Users\Kris\source\repos\For Loop - Lab\Back To The Past\obj\Debug\netcoreapp2.1\Back To The Past.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Back To The Past\obj\Debug\netcoreapp2.1\Back To The Past.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Back To The Past\obj\Debug\netcoreapp2.1\Back To The Past.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Back To The Past\obj\Debug\netcoreapp2.1\Back To The Past.AssemblyInfo.cs
+C:\Users\Kris\source\repos\For Loop - Lab\Back To The Past\obj\Debug\netcoreapp2.1\Back To The Past.dll
+C:\Users\Kris\source\repos\For Loop - Lab\Back To The Past\obj\Debug\netcoreapp2.1\Back To The Past.pdb
