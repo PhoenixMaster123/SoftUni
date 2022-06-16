@@ -1,0 +1,14 @@
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\02. Line Numbers\bin\Debug\netcoreapp3.1\02. Line Numbers.exe
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\02. Line Numbers\bin\Debug\netcoreapp3.1\02. Line Numbers.deps.json
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\02. Line Numbers\bin\Debug\netcoreapp3.1\02. Line Numbers.runtimeconfig.json
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\02. Line Numbers\bin\Debug\netcoreapp3.1\02. Line Numbers.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\02. Line Numbers\bin\Debug\netcoreapp3.1\02. Line Numbers.dll
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\02. Line Numbers\bin\Debug\netcoreapp3.1\02. Line Numbers.pdb
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\02. Line Numbers\obj\Debug\netcoreapp3.1\02. Line Numbers.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\02. Line Numbers\obj\Debug\netcoreapp3.1\02. Line Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\02. Line Numbers\obj\Debug\netcoreapp3.1\02. Line Numbers.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\02. Line Numbers\obj\Debug\netcoreapp3.1\02. Line Numbers.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\02. Line Numbers\obj\Debug\netcoreapp3.1\02. Line Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\02. Line Numbers\obj\Debug\netcoreapp3.1\02. Line Numbers.dll
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\02. Line Numbers\obj\Debug\netcoreapp3.1\02. Line Numbers.pdb
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\02. Line Numbers\obj\Debug\netcoreapp3.1\02. Line Numbers.genruntimeconfig.cache
