@@ -1,9 +1,5 @@
-﻿using System;
+using System;
 using System.IO;
-
-
-
-
 namespace OddLines
 {
     public class OddLines
