@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\For Loop - Lab\Game Of Intervals\bin\Debug\netcoreapp2.1\Game Of Intervals.deps.json
+C:\Users\Kris\source\repos\For Loop - Lab\Game Of Intervals\bin\Debug\netcoreapp2.1\Game Of Intervals.runtimeconfig.json
+C:\Users\Kris\source\repos\For Loop - Lab\Game Of Intervals\bin\Debug\netcoreapp2.1\Game Of Intervals.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\For Loop - Lab\Game Of Intervals\bin\Debug\netcoreapp2.1\Game Of Intervals.dll
+C:\Users\Kris\source\repos\For Loop - Lab\Game Of Intervals\bin\Debug\netcoreapp2.1\Game Of Intervals.pdb
+C:\Users\Kris\source\repos\For Loop - Lab\Game Of Intervals\obj\Debug\netcoreapp2.1\Game Of Intervals.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Game Of Intervals\obj\Debug\netcoreapp2.1\Game Of Intervals.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Game Of Intervals\obj\Debug\netcoreapp2.1\Game Of Intervals.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Game Of Intervals\obj\Debug\netcoreapp2.1\Game Of Intervals.AssemblyInfo.cs
+C:\Users\Kris\source\repos\For Loop - Lab\Game Of Intervals\obj\Debug\netcoreapp2.1\Game Of Intervals.dll
+C:\Users\Kris\source\repos\For Loop - Lab\Game Of Intervals\obj\Debug\netcoreapp2.1\Game Of Intervals.pdb
