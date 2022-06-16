@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\For Loop - Lab\Equal Pairs\bin\Debug\netcoreapp2.1\Equal Pairs.deps.json
+C:\Users\Kris\source\repos\For Loop - Lab\Equal Pairs\bin\Debug\netcoreapp2.1\Equal Pairs.runtimeconfig.json
+C:\Users\Kris\source\repos\For Loop - Lab\Equal Pairs\bin\Debug\netcoreapp2.1\Equal Pairs.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\For Loop - Lab\Equal Pairs\bin\Debug\netcoreapp2.1\Equal Pairs.dll
+C:\Users\Kris\source\repos\For Loop - Lab\Equal Pairs\bin\Debug\netcoreapp2.1\Equal Pairs.pdb
+C:\Users\Kris\source\repos\For Loop - Lab\Equal Pairs\obj\Debug\netcoreapp2.1\Equal Pairs.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Equal Pairs\obj\Debug\netcoreapp2.1\Equal Pairs.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Equal Pairs\obj\Debug\netcoreapp2.1\Equal Pairs.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Equal Pairs\obj\Debug\netcoreapp2.1\Equal Pairs.AssemblyInfo.cs
+C:\Users\Kris\source\repos\For Loop - Lab\Equal Pairs\obj\Debug\netcoreapp2.1\Equal Pairs.dll
+C:\Users\Kris\source\repos\For Loop - Lab\Equal Pairs\obj\Debug\netcoreapp2.1\Equal Pairs.pdb
