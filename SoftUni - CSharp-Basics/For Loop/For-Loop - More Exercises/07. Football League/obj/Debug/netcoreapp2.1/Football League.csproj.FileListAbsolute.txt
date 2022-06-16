@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\For Loop - Lab\Football League\bin\Debug\netcoreapp2.1\Football League.deps.json
+C:\Users\Kris\source\repos\For Loop - Lab\Football League\bin\Debug\netcoreapp2.1\Football League.runtimeconfig.json
+C:\Users\Kris\source\repos\For Loop - Lab\Football League\bin\Debug\netcoreapp2.1\Football League.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\For Loop - Lab\Football League\bin\Debug\netcoreapp2.1\Football League.dll
+C:\Users\Kris\source\repos\For Loop - Lab\Football League\bin\Debug\netcoreapp2.1\Football League.pdb
+C:\Users\Kris\source\repos\For Loop - Lab\Football League\obj\Debug\netcoreapp2.1\Football League.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Football League\obj\Debug\netcoreapp2.1\Football League.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Football League\obj\Debug\netcoreapp2.1\Football League.AssemblyInfo.cs
+C:\Users\Kris\source\repos\For Loop - Lab\Football League\obj\Debug\netcoreapp2.1\Football League.dll
+C:\Users\Kris\source\repos\For Loop - Lab\Football League\obj\Debug\netcoreapp2.1\Football League.pdb
+C:\Users\Kris\source\repos\For Loop - Lab\Football League\obj\Debug\netcoreapp2.1\Football League.csprojAssemblyReference.cache
