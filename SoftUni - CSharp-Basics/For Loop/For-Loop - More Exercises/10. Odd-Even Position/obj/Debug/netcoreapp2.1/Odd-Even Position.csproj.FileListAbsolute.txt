@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\For Loop - Lab\Odd-Even Position\bin\Debug\netcoreapp2.1\Odd-Even Position.deps.json
+C:\Users\Kris\source\repos\For Loop - Lab\Odd-Even Position\bin\Debug\netcoreapp2.1\Odd-Even Position.runtimeconfig.json
+C:\Users\Kris\source\repos\For Loop - Lab\Odd-Even Position\bin\Debug\netcoreapp2.1\Odd-Even Position.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\For Loop - Lab\Odd-Even Position\bin\Debug\netcoreapp2.1\Odd-Even Position.dll
+C:\Users\Kris\source\repos\For Loop - Lab\Odd-Even Position\bin\Debug\netcoreapp2.1\Odd-Even Position.pdb
+C:\Users\Kris\source\repos\For Loop - Lab\Odd-Even Position\obj\Debug\netcoreapp2.1\Odd-Even Position.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Odd-Even Position\obj\Debug\netcoreapp2.1\Odd-Even Position.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Odd-Even Position\obj\Debug\netcoreapp2.1\Odd-Even Position.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\For Loop - Lab\Odd-Even Position\obj\Debug\netcoreapp2.1\Odd-Even Position.AssemblyInfo.cs
+C:\Users\Kris\source\repos\For Loop - Lab\Odd-Even Position\obj\Debug\netcoreapp2.1\Odd-Even Position.dll
+C:\Users\Kris\source\repos\For Loop - Lab\Odd-Even Position\obj\Debug\netcoreapp2.1\Odd-Even Position.pdb
