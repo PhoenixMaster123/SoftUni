@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\net5.0\01. Odd Lines.exe
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\net5.0\01. Odd Lines.deps.json
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\net5.0\01. Odd Lines.runtimeconfig.json
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\net5.0\01. Odd Lines.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\net5.0\01. Odd Lines.dll
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\net5.0\ref\01. Odd Lines.dll
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\net5.0\01. Odd Lines.pdb
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net5.0\01. Odd Lines.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net5.0\01. Odd Lines.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net5.0\01. Odd Lines.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net5.0\01. Odd Lines.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net5.0\01. Odd Lines.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net5.0\01. Odd Lines.dll
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net5.0\ref\01. Odd Lines.dll
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net5.0\01. Odd Lines.pdb
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\net5.0\01. Odd Lines.genruntimeconfig.cache
