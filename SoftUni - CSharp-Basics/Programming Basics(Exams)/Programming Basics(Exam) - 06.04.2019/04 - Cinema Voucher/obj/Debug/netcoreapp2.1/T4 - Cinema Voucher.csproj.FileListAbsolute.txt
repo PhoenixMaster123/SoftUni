@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\ExamExercises\T4 - Cinema Voucher\bin\Debug\netcoreapp2.1\T4 - Cinema Voucher.deps.json
+C:\Users\Kris\source\repos\ExamExercises\T4 - Cinema Voucher\bin\Debug\netcoreapp2.1\T4 - Cinema Voucher.runtimeconfig.json
+C:\Users\Kris\source\repos\ExamExercises\T4 - Cinema Voucher\bin\Debug\netcoreapp2.1\T4 - Cinema Voucher.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\ExamExercises\T4 - Cinema Voucher\bin\Debug\netcoreapp2.1\T4 - Cinema Voucher.dll
+C:\Users\Kris\source\repos\ExamExercises\T4 - Cinema Voucher\bin\Debug\netcoreapp2.1\T4 - Cinema Voucher.pdb
+C:\Users\Kris\source\repos\ExamExercises\T4 - Cinema Voucher\obj\Debug\netcoreapp2.1\T4 - Cinema Voucher.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\ExamExercises\T4 - Cinema Voucher\obj\Debug\netcoreapp2.1\T4 - Cinema Voucher.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\ExamExercises\T4 - Cinema Voucher\obj\Debug\netcoreapp2.1\T4 - Cinema Voucher.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\ExamExercises\T4 - Cinema Voucher\obj\Debug\netcoreapp2.1\T4 - Cinema Voucher.AssemblyInfo.cs
+C:\Users\Kris\source\repos\ExamExercises\T4 - Cinema Voucher\obj\Debug\netcoreapp2.1\T4 - Cinema Voucher.dll
+C:\Users\Kris\source\repos\ExamExercises\T4 - Cinema Voucher\obj\Debug\netcoreapp2.1\T4 - Cinema Voucher.pdb
