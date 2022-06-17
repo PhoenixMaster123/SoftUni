@@ -1,0 +1,14 @@
+D:\SoftUni Advance + OOP\Defining Classes\Defining Classes\02. Car Extension - Lab\bin\Debug\netcoreapp3.1\02. Car Extension - Lab.exe
+D:\SoftUni Advance + OOP\Defining Classes\Defining Classes\02. Car Extension - Lab\bin\Debug\netcoreapp3.1\02. Car Extension - Lab.deps.json
+D:\SoftUni Advance + OOP\Defining Classes\Defining Classes\02. Car Extension - Lab\bin\Debug\netcoreapp3.1\02. Car Extension - Lab.runtimeconfig.json
+D:\SoftUni Advance + OOP\Defining Classes\Defining Classes\02. Car Extension - Lab\bin\Debug\netcoreapp3.1\02. Car Extension - Lab.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Defining Classes\Defining Classes\02. Car Extension - Lab\bin\Debug\netcoreapp3.1\02. Car Extension - Lab.dll
+D:\SoftUni Advance + OOP\Defining Classes\Defining Classes\02. Car Extension - Lab\bin\Debug\netcoreapp3.1\02. Car Extension - Lab.pdb
+D:\SoftUni Advance + OOP\Defining Classes\Defining Classes\02. Car Extension - Lab\obj\Debug\netcoreapp3.1\02. Car Extension - Lab.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Defining Classes\Defining Classes\02. Car Extension - Lab\obj\Debug\netcoreapp3.1\02. Car Extension - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Defining Classes\Defining Classes\02. Car Extension - Lab\obj\Debug\netcoreapp3.1\02. Car Extension - Lab.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Defining Classes\Defining Classes\02. Car Extension - Lab\obj\Debug\netcoreapp3.1\02. Car Extension - Lab.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Defining Classes\Defining Classes\02. Car Extension - Lab\obj\Debug\netcoreapp3.1\02. Car Extension - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Defining Classes\Defining Classes\02. Car Extension - Lab\obj\Debug\netcoreapp3.1\02. Car Extension - Lab.dll
+D:\SoftUni Advance + OOP\Defining Classes\Defining Classes\02. Car Extension - Lab\obj\Debug\netcoreapp3.1\02. Car Extension - Lab.pdb
+D:\SoftUni Advance + OOP\Defining Classes\Defining Classes\02. Car Extension - Lab\obj\Debug\netcoreapp3.1\02. Car Extension - Lab.genruntimeconfig.cache
