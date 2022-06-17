@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\While-Loop\Report System\bin\Debug\netcoreapp2.1\Report System.deps.json
+C:\Users\Kris\source\repos\While-Loop\Report System\bin\Debug\netcoreapp2.1\Report System.runtimeconfig.json
+C:\Users\Kris\source\repos\While-Loop\Report System\bin\Debug\netcoreapp2.1\Report System.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\While-Loop\Report System\bin\Debug\netcoreapp2.1\Report System.dll
+C:\Users\Kris\source\repos\While-Loop\Report System\bin\Debug\netcoreapp2.1\Report System.pdb
+C:\Users\Kris\source\repos\While-Loop\Report System\obj\Debug\netcoreapp2.1\Report System.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\While-Loop\Report System\obj\Debug\netcoreapp2.1\Report System.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\While-Loop\Report System\obj\Debug\netcoreapp2.1\Report System.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\While-Loop\Report System\obj\Debug\netcoreapp2.1\Report System.AssemblyInfo.cs
+C:\Users\Kris\source\repos\While-Loop\Report System\obj\Debug\netcoreapp2.1\Report System.dll
+C:\Users\Kris\source\repos\While-Loop\Report System\obj\Debug\netcoreapp2.1\Report System.pdb
