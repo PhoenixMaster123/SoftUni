@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\ExamExercises\T5 - Tourist Shop\bin\Debug\netcoreapp2.1\T5 - Tourist Shop.deps.json
+C:\Users\Kris\source\repos\ExamExercises\T5 - Tourist Shop\bin\Debug\netcoreapp2.1\T5 - Tourist Shop.runtimeconfig.json
+C:\Users\Kris\source\repos\ExamExercises\T5 - Tourist Shop\bin\Debug\netcoreapp2.1\T5 - Tourist Shop.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\ExamExercises\T5 - Tourist Shop\bin\Debug\netcoreapp2.1\T5 - Tourist Shop.dll
+C:\Users\Kris\source\repos\ExamExercises\T5 - Tourist Shop\bin\Debug\netcoreapp2.1\T5 - Tourist Shop.pdb
+C:\Users\Kris\source\repos\ExamExercises\T5 - Tourist Shop\obj\Debug\netcoreapp2.1\T5 - Tourist Shop.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\ExamExercises\T5 - Tourist Shop\obj\Debug\netcoreapp2.1\T5 - Tourist Shop.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\ExamExercises\T5 - Tourist Shop\obj\Debug\netcoreapp2.1\T5 - Tourist Shop.AssemblyInfo.cs
+C:\Users\Kris\source\repos\ExamExercises\T5 - Tourist Shop\obj\Debug\netcoreapp2.1\T5 - Tourist Shop.dll
+C:\Users\Kris\source\repos\ExamExercises\T5 - Tourist Shop\obj\Debug\netcoreapp2.1\T5 - Tourist Shop.pdb
