@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\ExamExercises\T3 - Oscars week in cinema\bin\Debug\netcoreapp2.1\T3 - Oscars week in cinema.deps.json
+C:\Users\Kris\source\repos\ExamExercises\T3 - Oscars week in cinema\bin\Debug\netcoreapp2.1\T3 - Oscars week in cinema.runtimeconfig.json
+C:\Users\Kris\source\repos\ExamExercises\T3 - Oscars week in cinema\bin\Debug\netcoreapp2.1\T3 - Oscars week in cinema.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\ExamExercises\T3 - Oscars week in cinema\bin\Debug\netcoreapp2.1\T3 - Oscars week in cinema.dll
+C:\Users\Kris\source\repos\ExamExercises\T3 - Oscars week in cinema\bin\Debug\netcoreapp2.1\T3 - Oscars week in cinema.pdb
+C:\Users\Kris\source\repos\ExamExercises\T3 - Oscars week in cinema\obj\Debug\netcoreapp2.1\T3 - Oscars week in cinema.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\ExamExercises\T3 - Oscars week in cinema\obj\Debug\netcoreapp2.1\T3 - Oscars week in cinema.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\ExamExercises\T3 - Oscars week in cinema\obj\Debug\netcoreapp2.1\T3 - Oscars week in cinema.AssemblyInfo.cs
+C:\Users\Kris\source\repos\ExamExercises\T3 - Oscars week in cinema\obj\Debug\netcoreapp2.1\T3 - Oscars week in cinema.dll
+C:\Users\Kris\source\repos\ExamExercises\T3 - Oscars week in cinema\obj\Debug\netcoreapp2.1\T3 - Oscars week in cinema.pdb
