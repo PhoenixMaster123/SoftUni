@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\ExamExercises\T1 - Oscars ceremony\bin\Debug\netcoreapp2.1\T1 - Oscars ceremony.deps.json
+C:\Users\Kris\source\repos\ExamExercises\T1 - Oscars ceremony\bin\Debug\netcoreapp2.1\T1 - Oscars ceremony.runtimeconfig.json
+C:\Users\Kris\source\repos\ExamExercises\T1 - Oscars ceremony\bin\Debug\netcoreapp2.1\T1 - Oscars ceremony.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\ExamExercises\T1 - Oscars ceremony\bin\Debug\netcoreapp2.1\T1 - Oscars ceremony.dll
+C:\Users\Kris\source\repos\ExamExercises\T1 - Oscars ceremony\bin\Debug\netcoreapp2.1\T1 - Oscars ceremony.pdb
+C:\Users\Kris\source\repos\ExamExercises\T1 - Oscars ceremony\obj\Debug\netcoreapp2.1\T1 - Oscars ceremony.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\ExamExercises\T1 - Oscars ceremony\obj\Debug\netcoreapp2.1\T1 - Oscars ceremony.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\ExamExercises\T1 - Oscars ceremony\obj\Debug\netcoreapp2.1\T1 - Oscars ceremony.AssemblyInfo.cs
+C:\Users\Kris\source\repos\ExamExercises\T1 - Oscars ceremony\obj\Debug\netcoreapp2.1\T1 - Oscars ceremony.dll
+C:\Users\Kris\source\repos\ExamExercises\T1 - Oscars ceremony\obj\Debug\netcoreapp2.1\T1 - Oscars ceremony.pdb
