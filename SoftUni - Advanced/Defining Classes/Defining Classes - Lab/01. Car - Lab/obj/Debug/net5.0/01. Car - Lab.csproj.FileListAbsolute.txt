@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Defining Classes\01. Car - Lab\bin\Debug\net5.0\01. Car - Lab.exe
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Defining Classes\01. Car - Lab\bin\Debug\net5.0\01. Car - Lab.deps.json
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Defining Classes\01. Car - Lab\bin\Debug\net5.0\01. Car - Lab.runtimeconfig.json
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Defining Classes\01. Car - Lab\bin\Debug\net5.0\01. Car - Lab.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Defining Classes\01. Car - Lab\bin\Debug\net5.0\01. Car - Lab.dll
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Defining Classes\01. Car - Lab\bin\Debug\net5.0\ref\01. Car - Lab.dll
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Defining Classes\01. Car - Lab\bin\Debug\net5.0\01. Car - Lab.pdb
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Defining Classes\01. Car - Lab\obj\Debug\net5.0\01. Car - Lab.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Defining Classes\01. Car - Lab\obj\Debug\net5.0\01. Car - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Defining Classes\01. Car - Lab\obj\Debug\net5.0\01. Car - Lab.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Defining Classes\01. Car - Lab\obj\Debug\net5.0\01. Car - Lab.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Defining Classes\01. Car - Lab\obj\Debug\net5.0\01. Car - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Defining Classes\01. Car - Lab\obj\Debug\net5.0\01. Car - Lab.dll
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Defining Classes\01. Car - Lab\obj\Debug\net5.0\ref\01. Car - Lab.dll
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Defining Classes\01. Car - Lab\obj\Debug\net5.0\01. Car - Lab.pdb
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Defining Classes\01. Car - Lab\obj\Debug\net5.0\01. Car - Lab.genruntimeconfig.cache
