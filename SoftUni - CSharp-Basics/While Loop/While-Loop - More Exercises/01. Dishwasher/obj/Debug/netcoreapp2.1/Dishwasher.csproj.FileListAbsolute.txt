@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\While-Loop\Dishwasher\bin\Debug\netcoreapp2.1\Dishwasher.deps.json
+C:\Users\Kris\source\repos\While-Loop\Dishwasher\bin\Debug\netcoreapp2.1\Dishwasher.runtimeconfig.json
+C:\Users\Kris\source\repos\While-Loop\Dishwasher\bin\Debug\netcoreapp2.1\Dishwasher.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\While-Loop\Dishwasher\bin\Debug\netcoreapp2.1\Dishwasher.dll
+C:\Users\Kris\source\repos\While-Loop\Dishwasher\bin\Debug\netcoreapp2.1\Dishwasher.pdb
+C:\Users\Kris\source\repos\While-Loop\Dishwasher\obj\Debug\netcoreapp2.1\Dishwasher.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\While-Loop\Dishwasher\obj\Debug\netcoreapp2.1\Dishwasher.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\While-Loop\Dishwasher\obj\Debug\netcoreapp2.1\Dishwasher.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\While-Loop\Dishwasher\obj\Debug\netcoreapp2.1\Dishwasher.AssemblyInfo.cs
+C:\Users\Kris\source\repos\While-Loop\Dishwasher\obj\Debug\netcoreapp2.1\Dishwasher.dll
+C:\Users\Kris\source\repos\While-Loop\Dishwasher\obj\Debug\netcoreapp2.1\Dishwasher.pdb
