@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\ExamExercises\T6 - Vet Parking\bin\Debug\netcoreapp2.1\T6 - Vet Parking.deps.json
+C:\Users\Kris\source\repos\ExamExercises\T6 - Vet Parking\bin\Debug\netcoreapp2.1\T6 - Vet Parking.runtimeconfig.json
+C:\Users\Kris\source\repos\ExamExercises\T6 - Vet Parking\bin\Debug\netcoreapp2.1\T6 - Vet Parking.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\ExamExercises\T6 - Vet Parking\bin\Debug\netcoreapp2.1\T6 - Vet Parking.dll
+C:\Users\Kris\source\repos\ExamExercises\T6 - Vet Parking\bin\Debug\netcoreapp2.1\T6 - Vet Parking.pdb
+C:\Users\Kris\source\repos\ExamExercises\T6 - Vet Parking\obj\Debug\netcoreapp2.1\T6 - Vet Parking.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\ExamExercises\T6 - Vet Parking\obj\Debug\netcoreapp2.1\T6 - Vet Parking.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\ExamExercises\T6 - Vet Parking\obj\Debug\netcoreapp2.1\T6 - Vet Parking.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\ExamExercises\T6 - Vet Parking\obj\Debug\netcoreapp2.1\T6 - Vet Parking.AssemblyInfo.cs
+C:\Users\Kris\source\repos\ExamExercises\T6 - Vet Parking\obj\Debug\netcoreapp2.1\T6 - Vet Parking.dll
+C:\Users\Kris\source\repos\ExamExercises\T6 - Vet Parking\obj\Debug\netcoreapp2.1\T6 - Vet Parking.pdb
