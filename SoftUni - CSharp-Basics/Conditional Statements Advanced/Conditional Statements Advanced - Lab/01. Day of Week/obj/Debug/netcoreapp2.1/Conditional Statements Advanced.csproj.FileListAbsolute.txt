@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Conditional Statements Advanced\bin\Debug\netcoreapp2.1\Conditional Statements Advanced.deps.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Conditional Statements Advanced\bin\Debug\netcoreapp2.1\Conditional Statements Advanced.runtimeconfig.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Conditional Statements Advanced\bin\Debug\netcoreapp2.1\Conditional Statements Advanced.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Conditional Statements Advanced\bin\Debug\netcoreapp2.1\Conditional Statements Advanced.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Conditional Statements Advanced\bin\Debug\netcoreapp2.1\Conditional Statements Advanced.pdb
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Conditional Statements Advanced\obj\Debug\netcoreapp2.1\Conditional Statements Advanced.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Conditional Statements Advanced\obj\Debug\netcoreapp2.1\Conditional Statements Advanced.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Conditional Statements Advanced\obj\Debug\netcoreapp2.1\Conditional Statements Advanced.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Conditional Statements Advanced\obj\Debug\netcoreapp2.1\Conditional Statements Advanced.AssemblyInfo.cs
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Conditional Statements Advanced\obj\Debug\netcoreapp2.1\Conditional Statements Advanced.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Conditional Statements Advanced\obj\Debug\netcoreapp2.1\Conditional Statements Advanced.pdb
