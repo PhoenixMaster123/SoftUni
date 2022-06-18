@@ -7,6 +7,8 @@ namespace Drones
     {
         static void Main(string[] args)
         {
+            // It gives 86 Points
+            
             // Initialize the repository (Airfield)
             Airfield airfield = new Airfield("Heathrow", 10, 10.5);
 
