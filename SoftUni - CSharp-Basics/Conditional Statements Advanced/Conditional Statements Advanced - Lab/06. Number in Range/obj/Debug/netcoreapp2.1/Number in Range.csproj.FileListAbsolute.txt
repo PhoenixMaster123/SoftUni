@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Number in Range\bin\Debug\netcoreapp2.1\Number in Range.deps.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Number in Range\bin\Debug\netcoreapp2.1\Number in Range.runtimeconfig.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Number in Range\bin\Debug\netcoreapp2.1\Number in Range.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Number in Range\bin\Debug\netcoreapp2.1\Number in Range.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Number in Range\bin\Debug\netcoreapp2.1\Number in Range.pdb
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Number in Range\obj\Debug\netcoreapp2.1\Number in Range.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Number in Range\obj\Debug\netcoreapp2.1\Number in Range.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Number in Range\obj\Debug\netcoreapp2.1\Number in Range.AssemblyInfo.cs
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Number in Range\obj\Debug\netcoreapp2.1\Number in Range.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Number in Range\obj\Debug\netcoreapp2.1\Number in Range.pdb
