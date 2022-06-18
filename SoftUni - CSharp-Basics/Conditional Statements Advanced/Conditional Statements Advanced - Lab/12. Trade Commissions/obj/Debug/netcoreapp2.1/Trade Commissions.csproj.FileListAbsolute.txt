@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Trade Commissions\bin\Debug\netcoreapp2.1\Trade Commissions.deps.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Trade Commissions\bin\Debug\netcoreapp2.1\Trade Commissions.runtimeconfig.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Trade Commissions\bin\Debug\netcoreapp2.1\Trade Commissions.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Trade Commissions\bin\Debug\netcoreapp2.1\Trade Commissions.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Trade Commissions\bin\Debug\netcoreapp2.1\Trade Commissions.pdb
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Trade Commissions\obj\Debug\netcoreapp2.1\Trade Commissions.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Trade Commissions\obj\Debug\netcoreapp2.1\Trade Commissions.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Trade Commissions\obj\Debug\netcoreapp2.1\Trade Commissions.AssemblyInfo.cs
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Trade Commissions\obj\Debug\netcoreapp2.1\Trade Commissions.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Trade Commissions\obj\Debug\netcoreapp2.1\Trade Commissions.pdb
