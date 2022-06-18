@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Weekend or Working Day\bin\Debug\netcoreapp2.1\Weekend or Working Day.deps.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Weekend or Working Day\bin\Debug\netcoreapp2.1\Weekend or Working Day.runtimeconfig.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Weekend or Working Day\bin\Debug\netcoreapp2.1\Weekend or Working Day.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Weekend or Working Day\bin\Debug\netcoreapp2.1\Weekend or Working Day.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Weekend or Working Day\bin\Debug\netcoreapp2.1\Weekend or Working Day.pdb
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Weekend or Working Day\obj\Debug\netcoreapp2.1\Weekend or Working Day.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Weekend or Working Day\obj\Debug\netcoreapp2.1\Weekend or Working Day.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Weekend or Working Day\obj\Debug\netcoreapp2.1\Weekend or Working Day.AssemblyInfo.cs
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Weekend or Working Day\obj\Debug\netcoreapp2.1\Weekend or Working Day.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Weekend or Working Day\obj\Debug\netcoreapp2.1\Weekend or Working Day.pdb
