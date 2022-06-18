@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Cinema Ticket\bin\Debug\netcoreapp2.1\Cinema Ticket.deps.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Cinema Ticket\bin\Debug\netcoreapp2.1\Cinema Ticket.runtimeconfig.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Cinema Ticket\bin\Debug\netcoreapp2.1\Cinema Ticket.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Cinema Ticket\bin\Debug\netcoreapp2.1\Cinema Ticket.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Cinema Ticket\bin\Debug\netcoreapp2.1\Cinema Ticket.pdb
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Cinema Ticket\obj\Debug\netcoreapp2.1\Cinema Ticket.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Cinema Ticket\obj\Debug\netcoreapp2.1\Cinema Ticket.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Cinema Ticket\obj\Debug\netcoreapp2.1\Cinema Ticket.AssemblyInfo.cs
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Cinema Ticket\obj\Debug\netcoreapp2.1\Cinema Ticket.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Cinema Ticket\obj\Debug\netcoreapp2.1\Cinema Ticket.pdb
