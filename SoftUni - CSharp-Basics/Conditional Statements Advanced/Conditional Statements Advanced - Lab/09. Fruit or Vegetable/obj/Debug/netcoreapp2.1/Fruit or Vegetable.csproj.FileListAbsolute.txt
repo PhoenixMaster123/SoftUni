@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Fruit or Vegetable\bin\Debug\netcoreapp2.1\Fruit or Vegetable.deps.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Fruit or Vegetable\bin\Debug\netcoreapp2.1\Fruit or Vegetable.runtimeconfig.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Fruit or Vegetable\bin\Debug\netcoreapp2.1\Fruit or Vegetable.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Fruit or Vegetable\bin\Debug\netcoreapp2.1\Fruit or Vegetable.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Fruit or Vegetable\bin\Debug\netcoreapp2.1\Fruit or Vegetable.pdb
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Fruit or Vegetable\obj\Debug\netcoreapp2.1\Fruit or Vegetable.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Fruit or Vegetable\obj\Debug\netcoreapp2.1\Fruit or Vegetable.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Fruit or Vegetable\obj\Debug\netcoreapp2.1\Fruit or Vegetable.AssemblyInfo.cs
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Fruit or Vegetable\obj\Debug\netcoreapp2.1\Fruit or Vegetable.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Fruit or Vegetable\obj\Debug\netcoreapp2.1\Fruit or Vegetable.pdb
