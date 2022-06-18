@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Invalid Number\bin\Debug\netcoreapp2.1\Invalid Number.deps.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Invalid Number\bin\Debug\netcoreapp2.1\Invalid Number.runtimeconfig.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Invalid Number\bin\Debug\netcoreapp2.1\Invalid Number.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Invalid Number\bin\Debug\netcoreapp2.1\Invalid Number.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Invalid Number\bin\Debug\netcoreapp2.1\Invalid Number.pdb
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Invalid Number\obj\Debug\netcoreapp2.1\Invalid Number.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Invalid Number\obj\Debug\netcoreapp2.1\Invalid Number.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Invalid Number\obj\Debug\netcoreapp2.1\Invalid Number.AssemblyInfo.cs
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Invalid Number\obj\Debug\netcoreapp2.1\Invalid Number.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Invalid Number\obj\Debug\netcoreapp2.1\Invalid Number.pdb
