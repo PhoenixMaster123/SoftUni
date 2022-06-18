@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Personal Titles\bin\Debug\netcoreapp2.1\Personal Titles.deps.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Personal Titles\bin\Debug\netcoreapp2.1\Personal Titles.runtimeconfig.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Personal Titles\bin\Debug\netcoreapp2.1\Personal Titles.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Personal Titles\bin\Debug\netcoreapp2.1\Personal Titles.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Personal Titles\bin\Debug\netcoreapp2.1\Personal Titles.pdb
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Personal Titles\obj\Debug\netcoreapp2.1\Personal Titles.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Personal Titles\obj\Debug\netcoreapp2.1\Personal Titles.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Personal Titles\obj\Debug\netcoreapp2.1\Personal Titles.AssemblyInfo.cs
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Personal Titles\obj\Debug\netcoreapp2.1\Personal Titles.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Personal Titles\obj\Debug\netcoreapp2.1\Personal Titles.pdb
