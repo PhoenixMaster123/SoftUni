@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Working Hours\bin\Debug\netcoreapp2.1\Working Hours.deps.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Working Hours\bin\Debug\netcoreapp2.1\Working Hours.runtimeconfig.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Working Hours\bin\Debug\netcoreapp2.1\Working Hours.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Working Hours\bin\Debug\netcoreapp2.1\Working Hours.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Working Hours\bin\Debug\netcoreapp2.1\Working Hours.pdb
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Working Hours\obj\Debug\netcoreapp2.1\Working Hours.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Working Hours\obj\Debug\netcoreapp2.1\Working Hours.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Working Hours\obj\Debug\netcoreapp2.1\Working Hours.AssemblyInfo.cs
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Working Hours\obj\Debug\netcoreapp2.1\Working Hours.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Working Hours\obj\Debug\netcoreapp2.1\Working Hours.pdb
