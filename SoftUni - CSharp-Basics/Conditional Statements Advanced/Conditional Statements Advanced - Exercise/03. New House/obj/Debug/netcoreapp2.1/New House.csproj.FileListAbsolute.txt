@@ -1,0 +1,3 @@
+C:\Users\Kris\source\repos\Conditional Statements Advanced\New House\obj\Debug\netcoreapp2.1\New House.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\New House\obj\Debug\netcoreapp2.1\New House.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\New House\obj\Debug\netcoreapp2.1\New House.AssemblyInfo.cs
