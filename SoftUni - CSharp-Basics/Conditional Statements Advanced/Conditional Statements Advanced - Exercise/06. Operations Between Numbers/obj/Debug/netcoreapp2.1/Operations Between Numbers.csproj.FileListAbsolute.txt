@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Operations Between Numbers\obj\Debug\netcoreapp2.1\Operations Between Numbers.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Operations Between Numbers\obj\Debug\netcoreapp2.1\Operations Between Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Operations Between Numbers\obj\Debug\netcoreapp2.1\Operations Between Numbers.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Operations Between Numbers\obj\Debug\netcoreapp2.1\Operations Between Numbers.AssemblyInfo.cs
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Operations Between Numbers\bin\Debug\netcoreapp2.1\Operations Between Numbers.deps.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Operations Between Numbers\bin\Debug\netcoreapp2.1\Operations Between Numbers.runtimeconfig.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Operations Between Numbers\bin\Debug\netcoreapp2.1\Operations Between Numbers.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Operations Between Numbers\bin\Debug\netcoreapp2.1\Operations Between Numbers.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Operations Between Numbers\bin\Debug\netcoreapp2.1\Operations Between Numbers.pdb
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Operations Between Numbers\obj\Debug\netcoreapp2.1\Operations Between Numbers.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Operations Between Numbers\obj\Debug\netcoreapp2.1\Operations Between Numbers.pdb
