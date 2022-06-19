@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Hotel Room\bin\Debug\netcoreapp2.1\Hotel Room.deps.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Hotel Room\bin\Debug\netcoreapp2.1\Hotel Room.runtimeconfig.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Hotel Room\bin\Debug\netcoreapp2.1\Hotel Room.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Hotel Room\bin\Debug\netcoreapp2.1\Hotel Room.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Hotel Room\bin\Debug\netcoreapp2.1\Hotel Room.pdb
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Hotel Room\obj\Debug\netcoreapp2.1\Hotel Room.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Hotel Room\obj\Debug\netcoreapp2.1\Hotel Room.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Hotel Room\obj\Debug\netcoreapp2.1\Hotel Room.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Hotel Room\obj\Debug\netcoreapp2.1\Hotel Room.AssemblyInfo.cs
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Hotel Room\obj\Debug\netcoreapp2.1\Hotel Room.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Hotel Room\obj\Debug\netcoreapp2.1\Hotel Room.pdb
