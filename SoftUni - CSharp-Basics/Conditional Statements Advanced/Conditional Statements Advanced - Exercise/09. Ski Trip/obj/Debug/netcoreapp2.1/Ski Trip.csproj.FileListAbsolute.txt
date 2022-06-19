@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Ski Trip\bin\Debug\netcoreapp2.1\Ski Trip.deps.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Ski Trip\bin\Debug\netcoreapp2.1\Ski Trip.runtimeconfig.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Ski Trip\bin\Debug\netcoreapp2.1\Ski Trip.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Ski Trip\bin\Debug\netcoreapp2.1\Ski Trip.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Ski Trip\bin\Debug\netcoreapp2.1\Ski Trip.pdb
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Ski Trip\obj\Debug\netcoreapp2.1\Ski Trip.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Ski Trip\obj\Debug\netcoreapp2.1\Ski Trip.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Ski Trip\obj\Debug\netcoreapp2.1\Ski Trip.AssemblyInfo.cs
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Ski Trip\obj\Debug\netcoreapp2.1\Ski Trip.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Ski Trip\obj\Debug\netcoreapp2.1\Ski Trip.pdb
