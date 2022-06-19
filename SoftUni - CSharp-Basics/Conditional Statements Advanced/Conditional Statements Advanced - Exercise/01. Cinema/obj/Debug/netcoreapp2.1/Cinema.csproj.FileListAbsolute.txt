@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Cinema\obj\Debug\netcoreapp2.1\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb
