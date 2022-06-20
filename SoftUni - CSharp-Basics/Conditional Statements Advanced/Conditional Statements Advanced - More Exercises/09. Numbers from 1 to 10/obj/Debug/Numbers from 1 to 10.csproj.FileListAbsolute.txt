@@ -1,0 +1,7 @@
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Numbers from 1 to 10\obj\Debug\Numbers from 1 to 10.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Numbers from 1 to 10\obj\Debug\Numbers from 1 to 10.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Numbers from 1 to 10\bin\Debug\Numbers from 1 to 10.exe.config
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Numbers from 1 to 10\bin\Debug\Numbers from 1 to 10.exe
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Numbers from 1 to 10\bin\Debug\Numbers from 1 to 10.pdb
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Numbers from 1 to 10\obj\Debug\Numbers from 1 to 10.exe
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Numbers from 1 to 10\obj\Debug\Numbers from 1 to 10.pdb
