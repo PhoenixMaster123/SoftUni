@@ -1,0 +1,7 @@
+C:\Users\Kris\source\repos\Conditional Statements Advanced\School Camp\bin\Debug\School Camp.exe.config
+C:\Users\Kris\source\repos\Conditional Statements Advanced\School Camp\bin\Debug\School Camp.exe
+C:\Users\Kris\source\repos\Conditional Statements Advanced\School Camp\bin\Debug\School Camp.pdb
+C:\Users\Kris\source\repos\Conditional Statements Advanced\School Camp\obj\Debug\School Camp.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\School Camp\obj\Debug\School Camp.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\School Camp\obj\Debug\School Camp.exe
+C:\Users\Kris\source\repos\Conditional Statements Advanced\School Camp\obj\Debug\School Camp.pdb
