@@ -1,0 +1,7 @@
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Point on Rectangle Border\bin\Debug\Point on Rectangle Border.exe.config
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Point on Rectangle Border\bin\Debug\Point on Rectangle Border.exe
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Point on Rectangle Border\bin\Debug\Point on Rectangle Border.pdb
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Point on Rectangle Border\obj\Debug\Point on Rectangle Border.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Point on Rectangle Border\obj\Debug\Point on Rectangle Border.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Point on Rectangle Border\obj\Debug\Point on Rectangle Border.exe
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Point on Rectangle Border\obj\Debug\Point on Rectangle Border.pdb
