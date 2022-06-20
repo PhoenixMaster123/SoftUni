@@ -1,0 +1,7 @@
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Truck\bin\Debug\Truck.exe.config
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Truck\bin\Debug\Truck.exe
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Truck\bin\Debug\Truck.pdb
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Truck\obj\Debug\Truck.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Truck\obj\Debug\Truck.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Truck\obj\Debug\Truck.exe
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Truck\obj\Debug\Truck.pdb
