@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Match Tickets\bin\Debug\netcoreapp2.1\Match Tickets.deps.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Match Tickets\bin\Debug\netcoreapp2.1\Match Tickets.runtimeconfig.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Match Tickets\bin\Debug\netcoreapp2.1\Match Tickets.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Match Tickets\bin\Debug\netcoreapp2.1\Match Tickets.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Match Tickets\bin\Debug\netcoreapp2.1\Match Tickets.pdb
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Match Tickets\obj\Debug\netcoreapp2.1\Match Tickets.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Match Tickets\obj\Debug\netcoreapp2.1\Match Tickets.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Match Tickets\obj\Debug\netcoreapp2.1\Match Tickets.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Match Tickets\obj\Debug\netcoreapp2.1\Match Tickets.AssemblyInfo.cs
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Match Tickets\obj\Debug\netcoreapp2.1\Match Tickets.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Match Tickets\obj\Debug\netcoreapp2.1\Match Tickets.pdb
