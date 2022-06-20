@@ -5,7 +5,7 @@ namespace Zoo
 {
     public class Zoo
     {
-        public List<Animal> Animals { get; private set; }
+        public List<Animal> Animals { get; private set; } // could not be modified
         public string Name { get; set; }
         public int Capacity { get; set; }
 
