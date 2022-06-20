@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Bike Race\bin\Debug\netcoreapp2.1\Bike Race.deps.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Bike Race\bin\Debug\netcoreapp2.1\Bike Race.runtimeconfig.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Bike Race\bin\Debug\netcoreapp2.1\Bike Race.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Bike Race\bin\Debug\netcoreapp2.1\Bike Race.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Bike Race\bin\Debug\netcoreapp2.1\Bike Race.pdb
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Bike Race\obj\Debug\netcoreapp2.1\Bike Race.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Bike Race\obj\Debug\netcoreapp2.1\Bike Race.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Bike Race\obj\Debug\netcoreapp2.1\Bike Race.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Bike Race\obj\Debug\netcoreapp2.1\Bike Race.AssemblyInfo.cs
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Bike Race\obj\Debug\netcoreapp2.1\Bike Race.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Bike Race\obj\Debug\netcoreapp2.1\Bike Race.pdb
