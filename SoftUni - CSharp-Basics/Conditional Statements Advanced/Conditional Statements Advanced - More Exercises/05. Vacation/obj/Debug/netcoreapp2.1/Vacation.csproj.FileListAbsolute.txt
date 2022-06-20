@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Vacation\bin\Debug\netcoreapp2.1\Vacation.deps.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Vacation\bin\Debug\netcoreapp2.1\Vacation.runtimeconfig.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Vacation\bin\Debug\netcoreapp2.1\Vacation.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Vacation\bin\Debug\netcoreapp2.1\Vacation.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Vacation\bin\Debug\netcoreapp2.1\Vacation.pdb
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Vacation\obj\Debug\netcoreapp2.1\Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Vacation\obj\Debug\netcoreapp2.1\Vacation.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Vacation\obj\Debug\netcoreapp2.1\Vacation.AssemblyInfo.cs
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Vacation\obj\Debug\netcoreapp2.1\Vacation.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Vacation\obj\Debug\netcoreapp2.1\Vacation.pdb
