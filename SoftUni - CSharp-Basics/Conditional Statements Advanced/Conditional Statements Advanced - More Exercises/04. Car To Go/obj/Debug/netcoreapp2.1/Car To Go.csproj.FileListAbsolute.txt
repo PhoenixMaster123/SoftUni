@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Car To Go\bin\Debug\netcoreapp2.1\Car To Go.deps.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Car To Go\bin\Debug\netcoreapp2.1\Car To Go.runtimeconfig.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Car To Go\bin\Debug\netcoreapp2.1\Car To Go.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Car To Go\bin\Debug\netcoreapp2.1\Car To Go.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Car To Go\bin\Debug\netcoreapp2.1\Car To Go.pdb
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Car To Go\obj\Debug\netcoreapp2.1\Car To Go.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Car To Go\obj\Debug\netcoreapp2.1\Car To Go.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Car To Go\obj\Debug\netcoreapp2.1\Car To Go.AssemblyInfo.cs
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Car To Go\obj\Debug\netcoreapp2.1\Car To Go.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Car To Go\obj\Debug\netcoreapp2.1\Car To Go.pdb
