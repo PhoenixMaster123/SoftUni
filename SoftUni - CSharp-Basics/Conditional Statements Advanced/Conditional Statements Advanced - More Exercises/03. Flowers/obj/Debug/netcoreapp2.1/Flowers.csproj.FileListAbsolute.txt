@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Flowers\obj\Debug\netcoreapp2.1\Flowers.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Flowers\obj\Debug\netcoreapp2.1\Flowers.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Flowers\obj\Debug\netcoreapp2.1\Flowers.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Flowers\obj\Debug\netcoreapp2.1\Flowers.AssemblyInfo.cs
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Flowers\bin\Debug\netcoreapp2.1\Flowers.deps.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Flowers\bin\Debug\netcoreapp2.1\Flowers.runtimeconfig.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Flowers\bin\Debug\netcoreapp2.1\Flowers.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Flowers\bin\Debug\netcoreapp2.1\Flowers.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Flowers\bin\Debug\netcoreapp2.1\Flowers.pdb
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Flowers\obj\Debug\netcoreapp2.1\Flowers.dll
+C:\Users\Kris\source\repos\Conditional Statements Advanced\Flowers\obj\Debug\netcoreapp2.1\Flowers.pdb
