@@ -1,0 +1,16 @@
+D:\C# Projects\Conditional Statements Advanced\10. Multiply by 2\bin\Debug\net5.0\10. Multiply by 2.exe
+D:\C# Projects\Conditional Statements Advanced\10. Multiply by 2\bin\Debug\net5.0\10. Multiply by 2.deps.json
+D:\C# Projects\Conditional Statements Advanced\10. Multiply by 2\bin\Debug\net5.0\10. Multiply by 2.runtimeconfig.json
+D:\C# Projects\Conditional Statements Advanced\10. Multiply by 2\bin\Debug\net5.0\10. Multiply by 2.runtimeconfig.dev.json
+D:\C# Projects\Conditional Statements Advanced\10. Multiply by 2\bin\Debug\net5.0\10. Multiply by 2.dll
+D:\C# Projects\Conditional Statements Advanced\10. Multiply by 2\bin\Debug\net5.0\ref\10. Multiply by 2.dll
+D:\C# Projects\Conditional Statements Advanced\10. Multiply by 2\bin\Debug\net5.0\10. Multiply by 2.pdb
+D:\C# Projects\Conditional Statements Advanced\10. Multiply by 2\obj\Debug\net5.0\10. Multiply by 2.csproj.AssemblyReference.cache
+D:\C# Projects\Conditional Statements Advanced\10. Multiply by 2\obj\Debug\net5.0\10. Multiply by 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Conditional Statements Advanced\10. Multiply by 2\obj\Debug\net5.0\10. Multiply by 2.AssemblyInfoInputs.cache
+D:\C# Projects\Conditional Statements Advanced\10. Multiply by 2\obj\Debug\net5.0\10. Multiply by 2.AssemblyInfo.cs
+D:\C# Projects\Conditional Statements Advanced\10. Multiply by 2\obj\Debug\net5.0\10. Multiply by 2.csproj.CoreCompileInputs.cache
+D:\C# Projects\Conditional Statements Advanced\10. Multiply by 2\obj\Debug\net5.0\10. Multiply by 2.dll
+D:\C# Projects\Conditional Statements Advanced\10. Multiply by 2\obj\Debug\net5.0\ref\10. Multiply by 2.dll
+D:\C# Projects\Conditional Statements Advanced\10. Multiply by 2\obj\Debug\net5.0\10. Multiply by 2.pdb
+D:\C# Projects\Conditional Statements Advanced\10. Multiply by 2\obj\Debug\net5.0\10. Multiply by 2.genruntimeconfig.cache
