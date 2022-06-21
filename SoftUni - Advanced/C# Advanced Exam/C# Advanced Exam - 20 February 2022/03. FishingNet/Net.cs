@@ -6,7 +6,7 @@ namespace FishingNet
 {
     public class Net
     {
-        public List<Fish> Fish { get; private set; }
+        public List<Fish> Fish { get; private set; } // can't be modified
         public string Material { get; set; }
         public int Capacity { get; set; }
         public Net(string Material, int capacity)
