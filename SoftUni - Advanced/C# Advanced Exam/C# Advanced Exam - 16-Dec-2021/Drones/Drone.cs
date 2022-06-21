@@ -19,7 +19,7 @@ namespace Drones
         public override string ToString()
         {
             return
-                   $"Drone: {this.Name}" + Environment.NewLine +
+                   $"Drone: {this.Name}" + Environment.NewLine +              // do not use \r\n
                    $"Manufactured by: {this.Brand}" + Environment.NewLine +
                    $"Range: {this.Range} kilometers";
         }
