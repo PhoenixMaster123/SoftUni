@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Functional Programming\Functional Programming\01. Sort Even Numbers - Lab\bin\Debug\net5.0\01. Sort Even Numbers - Lab.exe
+D:\SoftUni Advance + OOP\Functional Programming\Functional Programming\01. Sort Even Numbers - Lab\bin\Debug\net5.0\01. Sort Even Numbers - Lab.deps.json
+D:\SoftUni Advance + OOP\Functional Programming\Functional Programming\01. Sort Even Numbers - Lab\bin\Debug\net5.0\01. Sort Even Numbers - Lab.runtimeconfig.json
+D:\SoftUni Advance + OOP\Functional Programming\Functional Programming\01. Sort Even Numbers - Lab\bin\Debug\net5.0\01. Sort Even Numbers - Lab.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Functional Programming\Functional Programming\01. Sort Even Numbers - Lab\bin\Debug\net5.0\01. Sort Even Numbers - Lab.dll
+D:\SoftUni Advance + OOP\Functional Programming\Functional Programming\01. Sort Even Numbers - Lab\bin\Debug\net5.0\ref\01. Sort Even Numbers - Lab.dll
+D:\SoftUni Advance + OOP\Functional Programming\Functional Programming\01. Sort Even Numbers - Lab\bin\Debug\net5.0\01. Sort Even Numbers - Lab.pdb
+D:\SoftUni Advance + OOP\Functional Programming\Functional Programming\01. Sort Even Numbers - Lab\obj\Debug\net5.0\01. Sort Even Numbers - Lab.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Functional Programming\Functional Programming\01. Sort Even Numbers - Lab\obj\Debug\net5.0\01. Sort Even Numbers - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Functional Programming\Functional Programming\01. Sort Even Numbers - Lab\obj\Debug\net5.0\01. Sort Even Numbers - Lab.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Functional Programming\Functional Programming\01. Sort Even Numbers - Lab\obj\Debug\net5.0\01. Sort Even Numbers - Lab.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Functional Programming\Functional Programming\01. Sort Even Numbers - Lab\obj\Debug\net5.0\01. Sort Even Numbers - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Functional Programming\Functional Programming\01. Sort Even Numbers - Lab\obj\Debug\net5.0\01. Sort Even Numbers - Lab.dll
+D:\SoftUni Advance + OOP\Functional Programming\Functional Programming\01. Sort Even Numbers - Lab\obj\Debug\net5.0\ref\01. Sort Even Numbers - Lab.dll
+D:\SoftUni Advance + OOP\Functional Programming\Functional Programming\01. Sort Even Numbers - Lab\obj\Debug\net5.0\01. Sort Even Numbers - Lab.pdb
+D:\SoftUni Advance + OOP\Functional Programming\Functional Programming\01. Sort Even Numbers - Lab\obj\Debug\net5.0\01. Sort Even Numbers - Lab.genruntimeconfig.cache
