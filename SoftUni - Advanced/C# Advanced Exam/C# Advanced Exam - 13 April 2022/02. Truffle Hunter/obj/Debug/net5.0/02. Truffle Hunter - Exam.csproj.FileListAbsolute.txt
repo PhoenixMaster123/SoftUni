@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Truffle Hunter - Exam\obj\Debug\net5.0\02. Truffle Hunter - Exam.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Truffle Hunter - Exam\obj\Debug\net5.0\02. Truffle Hunter - Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Truffle Hunter - Exam\obj\Debug\net5.0\02. Truffle Hunter - Exam.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Truffle Hunter - Exam\obj\Debug\net5.0\02. Truffle Hunter - Exam.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Truffle Hunter - Exam\obj\Debug\net5.0\02. Truffle Hunter - Exam.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Truffle Hunter - Exam\bin\Debug\net5.0\02. Truffle Hunter - Exam.exe
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Truffle Hunter - Exam\bin\Debug\net5.0\02. Truffle Hunter - Exam.deps.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Truffle Hunter - Exam\bin\Debug\net5.0\02. Truffle Hunter - Exam.runtimeconfig.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Truffle Hunter - Exam\bin\Debug\net5.0\02. Truffle Hunter - Exam.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Truffle Hunter - Exam\bin\Debug\net5.0\02. Truffle Hunter - Exam.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Truffle Hunter - Exam\bin\Debug\net5.0\ref\02. Truffle Hunter - Exam.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Truffle Hunter - Exam\bin\Debug\net5.0\02. Truffle Hunter - Exam.pdb
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Truffle Hunter - Exam\obj\Debug\net5.0\02. Truffle Hunter - Exam.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Truffle Hunter - Exam\obj\Debug\net5.0\ref\02. Truffle Hunter - Exam.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Truffle Hunter - Exam\obj\Debug\net5.0\02. Truffle Hunter - Exam.pdb
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Truffle Hunter - Exam\obj\Debug\net5.0\02. Truffle Hunter - Exam.genruntimeconfig.cache
