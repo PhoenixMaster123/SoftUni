@@ -1,0 +1,14 @@
+D:\C# Projects\Algorithms Fundamentals - SoftUni\Recursive Array Sum\bin\Debug\netcoreapp3.1\Recursive Array Sum.exe
+D:\C# Projects\Algorithms Fundamentals - SoftUni\Recursive Array Sum\bin\Debug\netcoreapp3.1\Recursive Array Sum.deps.json
+D:\C# Projects\Algorithms Fundamentals - SoftUni\Recursive Array Sum\bin\Debug\netcoreapp3.1\Recursive Array Sum.runtimeconfig.json
+D:\C# Projects\Algorithms Fundamentals - SoftUni\Recursive Array Sum\bin\Debug\netcoreapp3.1\Recursive Array Sum.runtimeconfig.dev.json
+D:\C# Projects\Algorithms Fundamentals - SoftUni\Recursive Array Sum\bin\Debug\netcoreapp3.1\Recursive Array Sum.dll
+D:\C# Projects\Algorithms Fundamentals - SoftUni\Recursive Array Sum\bin\Debug\netcoreapp3.1\Recursive Array Sum.pdb
+D:\C# Projects\Algorithms Fundamentals - SoftUni\Recursive Array Sum\obj\Debug\netcoreapp3.1\Recursive Array Sum.csproj.AssemblyReference.cache
+D:\C# Projects\Algorithms Fundamentals - SoftUni\Recursive Array Sum\obj\Debug\netcoreapp3.1\Recursive Array Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Algorithms Fundamentals - SoftUni\Recursive Array Sum\obj\Debug\netcoreapp3.1\Recursive Array Sum.AssemblyInfoInputs.cache
+D:\C# Projects\Algorithms Fundamentals - SoftUni\Recursive Array Sum\obj\Debug\netcoreapp3.1\Recursive Array Sum.AssemblyInfo.cs
+D:\C# Projects\Algorithms Fundamentals - SoftUni\Recursive Array Sum\obj\Debug\netcoreapp3.1\Recursive Array Sum.csproj.CoreCompileInputs.cache
+D:\C# Projects\Algorithms Fundamentals - SoftUni\Recursive Array Sum\obj\Debug\netcoreapp3.1\Recursive Array Sum.dll
+D:\C# Projects\Algorithms Fundamentals - SoftUni\Recursive Array Sum\obj\Debug\netcoreapp3.1\Recursive Array Sum.pdb
+D:\C# Projects\Algorithms Fundamentals - SoftUni\Recursive Array Sum\obj\Debug\netcoreapp3.1\Recursive Array Sum.genruntimeconfig.cache
