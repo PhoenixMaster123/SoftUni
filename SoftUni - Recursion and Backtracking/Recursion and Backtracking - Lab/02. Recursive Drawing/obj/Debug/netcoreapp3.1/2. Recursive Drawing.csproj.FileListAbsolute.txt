@@ -1,0 +1,14 @@
+D:\C# Projects\Algorithms Fundamentals - SoftUni\2. Recursive Drawing\bin\Debug\netcoreapp3.1\2. Recursive Drawing.exe
+D:\C# Projects\Algorithms Fundamentals - SoftUni\2. Recursive Drawing\bin\Debug\netcoreapp3.1\2. Recursive Drawing.deps.json
+D:\C# Projects\Algorithms Fundamentals - SoftUni\2. Recursive Drawing\bin\Debug\netcoreapp3.1\2. Recursive Drawing.runtimeconfig.json
+D:\C# Projects\Algorithms Fundamentals - SoftUni\2. Recursive Drawing\bin\Debug\netcoreapp3.1\2. Recursive Drawing.runtimeconfig.dev.json
+D:\C# Projects\Algorithms Fundamentals - SoftUni\2. Recursive Drawing\bin\Debug\netcoreapp3.1\2. Recursive Drawing.dll
+D:\C# Projects\Algorithms Fundamentals - SoftUni\2. Recursive Drawing\bin\Debug\netcoreapp3.1\2. Recursive Drawing.pdb
+D:\C# Projects\Algorithms Fundamentals - SoftUni\2. Recursive Drawing\obj\Debug\netcoreapp3.1\2. Recursive Drawing.csproj.AssemblyReference.cache
+D:\C# Projects\Algorithms Fundamentals - SoftUni\2. Recursive Drawing\obj\Debug\netcoreapp3.1\2. Recursive Drawing.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Algorithms Fundamentals - SoftUni\2. Recursive Drawing\obj\Debug\netcoreapp3.1\2. Recursive Drawing.AssemblyInfoInputs.cache
+D:\C# Projects\Algorithms Fundamentals - SoftUni\2. Recursive Drawing\obj\Debug\netcoreapp3.1\2. Recursive Drawing.AssemblyInfo.cs
+D:\C# Projects\Algorithms Fundamentals - SoftUni\2. Recursive Drawing\obj\Debug\netcoreapp3.1\2. Recursive Drawing.csproj.CoreCompileInputs.cache
+D:\C# Projects\Algorithms Fundamentals - SoftUni\2. Recursive Drawing\obj\Debug\netcoreapp3.1\2. Recursive Drawing.dll
+D:\C# Projects\Algorithms Fundamentals - SoftUni\2. Recursive Drawing\obj\Debug\netcoreapp3.1\2. Recursive Drawing.pdb
+D:\C# Projects\Algorithms Fundamentals - SoftUni\2. Recursive Drawing\obj\Debug\netcoreapp3.1\2. Recursive Drawing.genruntimeconfig.cache
