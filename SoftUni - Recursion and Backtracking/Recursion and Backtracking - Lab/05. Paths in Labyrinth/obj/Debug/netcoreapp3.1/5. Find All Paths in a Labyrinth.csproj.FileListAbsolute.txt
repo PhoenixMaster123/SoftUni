@@ -1,0 +1,14 @@
+D:\C# Projects\Algorithms Fundamentals - SoftUni\5. Find All Paths in a Labyrinth\bin\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.exe
+D:\C# Projects\Algorithms Fundamentals - SoftUni\5. Find All Paths in a Labyrinth\bin\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.deps.json
+D:\C# Projects\Algorithms Fundamentals - SoftUni\5. Find All Paths in a Labyrinth\bin\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.runtimeconfig.json
+D:\C# Projects\Algorithms Fundamentals - SoftUni\5. Find All Paths in a Labyrinth\bin\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.runtimeconfig.dev.json
+D:\C# Projects\Algorithms Fundamentals - SoftUni\5. Find All Paths in a Labyrinth\bin\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.dll
+D:\C# Projects\Algorithms Fundamentals - SoftUni\5. Find All Paths in a Labyrinth\bin\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.pdb
+D:\C# Projects\Algorithms Fundamentals - SoftUni\5. Find All Paths in a Labyrinth\obj\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.csproj.AssemblyReference.cache
+D:\C# Projects\Algorithms Fundamentals - SoftUni\5. Find All Paths in a Labyrinth\obj\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Algorithms Fundamentals - SoftUni\5. Find All Paths in a Labyrinth\obj\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.AssemblyInfoInputs.cache
+D:\C# Projects\Algorithms Fundamentals - SoftUni\5. Find All Paths in a Labyrinth\obj\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.AssemblyInfo.cs
+D:\C# Projects\Algorithms Fundamentals - SoftUni\5. Find All Paths in a Labyrinth\obj\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.csproj.CoreCompileInputs.cache
+D:\C# Projects\Algorithms Fundamentals - SoftUni\5. Find All Paths in a Labyrinth\obj\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.dll
+D:\C# Projects\Algorithms Fundamentals - SoftUni\5. Find All Paths in a Labyrinth\obj\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.pdb
+D:\C# Projects\Algorithms Fundamentals - SoftUni\5. Find All Paths in a Labyrinth\obj\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.genruntimeconfig.cache
