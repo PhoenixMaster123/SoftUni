@@ -1,0 +1,14 @@
+D:\C# Projects\Algorithms Fundamentals - SoftUni\04. Recursive Factorial\bin\Debug\netcoreapp3.1\04. Recursive Factorial.exe
+D:\C# Projects\Algorithms Fundamentals - SoftUni\04. Recursive Factorial\bin\Debug\netcoreapp3.1\04. Recursive Factorial.deps.json
+D:\C# Projects\Algorithms Fundamentals - SoftUni\04. Recursive Factorial\bin\Debug\netcoreapp3.1\04. Recursive Factorial.runtimeconfig.json
+D:\C# Projects\Algorithms Fundamentals - SoftUni\04. Recursive Factorial\bin\Debug\netcoreapp3.1\04. Recursive Factorial.runtimeconfig.dev.json
+D:\C# Projects\Algorithms Fundamentals - SoftUni\04. Recursive Factorial\bin\Debug\netcoreapp3.1\04. Recursive Factorial.dll
+D:\C# Projects\Algorithms Fundamentals - SoftUni\04. Recursive Factorial\bin\Debug\netcoreapp3.1\04. Recursive Factorial.pdb
+D:\C# Projects\Algorithms Fundamentals - SoftUni\04. Recursive Factorial\obj\Debug\netcoreapp3.1\04. Recursive Factorial.csproj.AssemblyReference.cache
+D:\C# Projects\Algorithms Fundamentals - SoftUni\04. Recursive Factorial\obj\Debug\netcoreapp3.1\04. Recursive Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Algorithms Fundamentals - SoftUni\04. Recursive Factorial\obj\Debug\netcoreapp3.1\04. Recursive Factorial.AssemblyInfoInputs.cache
+D:\C# Projects\Algorithms Fundamentals - SoftUni\04. Recursive Factorial\obj\Debug\netcoreapp3.1\04. Recursive Factorial.AssemblyInfo.cs
+D:\C# Projects\Algorithms Fundamentals - SoftUni\04. Recursive Factorial\obj\Debug\netcoreapp3.1\04. Recursive Factorial.csproj.CoreCompileInputs.cache
+D:\C# Projects\Algorithms Fundamentals - SoftUni\04. Recursive Factorial\obj\Debug\netcoreapp3.1\04. Recursive Factorial.dll
+D:\C# Projects\Algorithms Fundamentals - SoftUni\04. Recursive Factorial\obj\Debug\netcoreapp3.1\04. Recursive Factorial.pdb
+D:\C# Projects\Algorithms Fundamentals - SoftUni\04. Recursive Factorial\obj\Debug\netcoreapp3.1\04. Recursive Factorial.genruntimeconfig.cache
