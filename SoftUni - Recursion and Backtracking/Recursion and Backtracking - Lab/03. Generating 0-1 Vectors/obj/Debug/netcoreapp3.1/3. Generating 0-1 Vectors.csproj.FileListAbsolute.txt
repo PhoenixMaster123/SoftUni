@@ -1,0 +1,13 @@
+D:\C# Projects\Algorithms Fundamentals - SoftUni\3. Generating 0-1 Vectors\bin\Debug\netcoreapp3.1\3. Generating 0-1 Vectors.exe
+D:\C# Projects\Algorithms Fundamentals - SoftUni\3. Generating 0-1 Vectors\bin\Debug\netcoreapp3.1\3. Generating 0-1 Vectors.deps.json
+D:\C# Projects\Algorithms Fundamentals - SoftUni\3. Generating 0-1 Vectors\bin\Debug\netcoreapp3.1\3. Generating 0-1 Vectors.runtimeconfig.json
+D:\C# Projects\Algorithms Fundamentals - SoftUni\3. Generating 0-1 Vectors\bin\Debug\netcoreapp3.1\3. Generating 0-1 Vectors.runtimeconfig.dev.json
+D:\C# Projects\Algorithms Fundamentals - SoftUni\3. Generating 0-1 Vectors\bin\Debug\netcoreapp3.1\3. Generating 0-1 Vectors.dll
+D:\C# Projects\Algorithms Fundamentals - SoftUni\3. Generating 0-1 Vectors\bin\Debug\netcoreapp3.1\3. Generating 0-1 Vectors.pdb
+D:\C# Projects\Algorithms Fundamentals - SoftUni\3. Generating 0-1 Vectors\obj\Debug\netcoreapp3.1\3. Generating 0-1 Vectors.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Algorithms Fundamentals - SoftUni\3. Generating 0-1 Vectors\obj\Debug\netcoreapp3.1\3. Generating 0-1 Vectors.AssemblyInfoInputs.cache
+D:\C# Projects\Algorithms Fundamentals - SoftUni\3. Generating 0-1 Vectors\obj\Debug\netcoreapp3.1\3. Generating 0-1 Vectors.AssemblyInfo.cs
+D:\C# Projects\Algorithms Fundamentals - SoftUni\3. Generating 0-1 Vectors\obj\Debug\netcoreapp3.1\3. Generating 0-1 Vectors.csproj.CoreCompileInputs.cache
+D:\C# Projects\Algorithms Fundamentals - SoftUni\3. Generating 0-1 Vectors\obj\Debug\netcoreapp3.1\3. Generating 0-1 Vectors.dll
+D:\C# Projects\Algorithms Fundamentals - SoftUni\3. Generating 0-1 Vectors\obj\Debug\netcoreapp3.1\3. Generating 0-1 Vectors.pdb
+D:\C# Projects\Algorithms Fundamentals - SoftUni\3. Generating 0-1 Vectors\obj\Debug\netcoreapp3.1\3. Generating 0-1 Vectors.genruntimeconfig.cache
