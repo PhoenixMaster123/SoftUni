@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\01. Recursive Array Sum\bin\Debug\net5.0\01. Recursive Array Sum.exe
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\01. Recursive Array Sum\bin\Debug\net5.0\01. Recursive Array Sum.deps.json
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\01. Recursive Array Sum\bin\Debug\net5.0\01. Recursive Array Sum.runtimeconfig.json
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\01. Recursive Array Sum\bin\Debug\net5.0\01. Recursive Array Sum.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\01. Recursive Array Sum\bin\Debug\net5.0\01. Recursive Array Sum.dll
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\01. Recursive Array Sum\bin\Debug\net5.0\ref\01. Recursive Array Sum.dll
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\01. Recursive Array Sum\bin\Debug\net5.0\01. Recursive Array Sum.pdb
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\01. Recursive Array Sum\obj\Debug\net5.0\01. Recursive Array Sum.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\01. Recursive Array Sum\obj\Debug\net5.0\01. Recursive Array Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\01. Recursive Array Sum\obj\Debug\net5.0\01. Recursive Array Sum.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\01. Recursive Array Sum\obj\Debug\net5.0\01. Recursive Array Sum.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\01. Recursive Array Sum\obj\Debug\net5.0\01. Recursive Array Sum.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\01. Recursive Array Sum\obj\Debug\net5.0\01. Recursive Array Sum.dll
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\01. Recursive Array Sum\obj\Debug\net5.0\ref\01. Recursive Array Sum.dll
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\01. Recursive Array Sum\obj\Debug\net5.0\01. Recursive Array Sum.pdb
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\01. Recursive Array Sum\obj\Debug\net5.0\01. Recursive Array Sum.genruntimeconfig.cache
