@@ -1,0 +1,14 @@
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\SumOfCoins\bin\Debug\netcoreapp3.1\SumOfCoins.exe
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\SumOfCoins\bin\Debug\netcoreapp3.1\SumOfCoins.deps.json
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\SumOfCoins\bin\Debug\netcoreapp3.1\SumOfCoins.runtimeconfig.json
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\SumOfCoins\bin\Debug\netcoreapp3.1\SumOfCoins.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\SumOfCoins\bin\Debug\netcoreapp3.1\SumOfCoins.dll
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\SumOfCoins\bin\Debug\netcoreapp3.1\SumOfCoins.pdb
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.dll
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.pdb
+D:\SoftUni Advance + OOP\Algorithms Introduction\Basic Algorithms - Exercise\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.genruntimeconfig.cache
