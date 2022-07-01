@@ -1,0 +1,15 @@
+D:\C# Projects\Drawing Figures with Loops\04. Triangle of Dollars\bin\Debug\net5.0\04. Triangle of Dollars.exe
+D:\C# Projects\Drawing Figures with Loops\04. Triangle of Dollars\bin\Debug\net5.0\04. Triangle of Dollars.deps.json
+D:\C# Projects\Drawing Figures with Loops\04. Triangle of Dollars\bin\Debug\net5.0\04. Triangle of Dollars.runtimeconfig.json
+D:\C# Projects\Drawing Figures with Loops\04. Triangle of Dollars\bin\Debug\net5.0\04. Triangle of Dollars.runtimeconfig.dev.json
+D:\C# Projects\Drawing Figures with Loops\04. Triangle of Dollars\bin\Debug\net5.0\04. Triangle of Dollars.dll
+D:\C# Projects\Drawing Figures with Loops\04. Triangle of Dollars\bin\Debug\net5.0\ref\04. Triangle of Dollars.dll
+D:\C# Projects\Drawing Figures with Loops\04. Triangle of Dollars\bin\Debug\net5.0\04. Triangle of Dollars.pdb
+D:\C# Projects\Drawing Figures with Loops\04. Triangle of Dollars\obj\Debug\net5.0\04. Triangle of Dollars.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Drawing Figures with Loops\04. Triangle of Dollars\obj\Debug\net5.0\04. Triangle of Dollars.AssemblyInfoInputs.cache
+D:\C# Projects\Drawing Figures with Loops\04. Triangle of Dollars\obj\Debug\net5.0\04. Triangle of Dollars.AssemblyInfo.cs
+D:\C# Projects\Drawing Figures with Loops\04. Triangle of Dollars\obj\Debug\net5.0\04. Triangle of Dollars.csproj.CoreCompileInputs.cache
+D:\C# Projects\Drawing Figures with Loops\04. Triangle of Dollars\obj\Debug\net5.0\04. Triangle of Dollars.dll
+D:\C# Projects\Drawing Figures with Loops\04. Triangle of Dollars\obj\Debug\net5.0\ref\04. Triangle of Dollars.dll
+D:\C# Projects\Drawing Figures with Loops\04. Triangle of Dollars\obj\Debug\net5.0\04. Triangle of Dollars.pdb
+D:\C# Projects\Drawing Figures with Loops\04. Triangle of Dollars\obj\Debug\net5.0\04. Triangle of Dollars.genruntimeconfig.cache
