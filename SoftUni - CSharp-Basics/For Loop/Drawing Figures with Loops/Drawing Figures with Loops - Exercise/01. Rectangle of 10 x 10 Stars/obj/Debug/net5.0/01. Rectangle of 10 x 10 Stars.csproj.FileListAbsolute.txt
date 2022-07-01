@@ -1,0 +1,16 @@
+D:\C# Projects\Drawing Figures with Loops\01. Rectangle of 10 x 10 Stars\bin\Debug\net5.0\01. Rectangle of 10 x 10 Stars.exe
+D:\C# Projects\Drawing Figures with Loops\01. Rectangle of 10 x 10 Stars\bin\Debug\net5.0\01. Rectangle of 10 x 10 Stars.deps.json
+D:\C# Projects\Drawing Figures with Loops\01. Rectangle of 10 x 10 Stars\bin\Debug\net5.0\01. Rectangle of 10 x 10 Stars.runtimeconfig.json
+D:\C# Projects\Drawing Figures with Loops\01. Rectangle of 10 x 10 Stars\bin\Debug\net5.0\01. Rectangle of 10 x 10 Stars.runtimeconfig.dev.json
+D:\C# Projects\Drawing Figures with Loops\01. Rectangle of 10 x 10 Stars\bin\Debug\net5.0\01. Rectangle of 10 x 10 Stars.dll
+D:\C# Projects\Drawing Figures with Loops\01. Rectangle of 10 x 10 Stars\bin\Debug\net5.0\ref\01. Rectangle of 10 x 10 Stars.dll
+D:\C# Projects\Drawing Figures with Loops\01. Rectangle of 10 x 10 Stars\bin\Debug\net5.0\01. Rectangle of 10 x 10 Stars.pdb
+D:\C# Projects\Drawing Figures with Loops\01. Rectangle of 10 x 10 Stars\obj\Debug\net5.0\01. Rectangle of 10 x 10 Stars.csproj.AssemblyReference.cache
+D:\C# Projects\Drawing Figures with Loops\01. Rectangle of 10 x 10 Stars\obj\Debug\net5.0\01. Rectangle of 10 x 10 Stars.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Drawing Figures with Loops\01. Rectangle of 10 x 10 Stars\obj\Debug\net5.0\01. Rectangle of 10 x 10 Stars.AssemblyInfoInputs.cache
+D:\C# Projects\Drawing Figures with Loops\01. Rectangle of 10 x 10 Stars\obj\Debug\net5.0\01. Rectangle of 10 x 10 Stars.AssemblyInfo.cs
+D:\C# Projects\Drawing Figures with Loops\01. Rectangle of 10 x 10 Stars\obj\Debug\net5.0\01. Rectangle of 10 x 10 Stars.csproj.CoreCompileInputs.cache
+D:\C# Projects\Drawing Figures with Loops\01. Rectangle of 10 x 10 Stars\obj\Debug\net5.0\01. Rectangle of 10 x 10 Stars.dll
+D:\C# Projects\Drawing Figures with Loops\01. Rectangle of 10 x 10 Stars\obj\Debug\net5.0\ref\01. Rectangle of 10 x 10 Stars.dll
+D:\C# Projects\Drawing Figures with Loops\01. Rectangle of 10 x 10 Stars\obj\Debug\net5.0\01. Rectangle of 10 x 10 Stars.pdb
+D:\C# Projects\Drawing Figures with Loops\01. Rectangle of 10 x 10 Stars\obj\Debug\net5.0\01. Rectangle of 10 x 10 Stars.genruntimeconfig.cache
