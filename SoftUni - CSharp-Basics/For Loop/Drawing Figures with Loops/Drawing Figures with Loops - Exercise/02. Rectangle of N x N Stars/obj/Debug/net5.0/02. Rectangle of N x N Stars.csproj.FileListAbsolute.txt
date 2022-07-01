@@ -1,0 +1,16 @@
+D:\C# Projects\Drawing Figures with Loops\02. Rectangle of N x N Stars\bin\Debug\net5.0\02. Rectangle of N x N Stars.exe
+D:\C# Projects\Drawing Figures with Loops\02. Rectangle of N x N Stars\bin\Debug\net5.0\02. Rectangle of N x N Stars.deps.json
+D:\C# Projects\Drawing Figures with Loops\02. Rectangle of N x N Stars\bin\Debug\net5.0\02. Rectangle of N x N Stars.runtimeconfig.json
+D:\C# Projects\Drawing Figures with Loops\02. Rectangle of N x N Stars\bin\Debug\net5.0\02. Rectangle of N x N Stars.runtimeconfig.dev.json
+D:\C# Projects\Drawing Figures with Loops\02. Rectangle of N x N Stars\bin\Debug\net5.0\02. Rectangle of N x N Stars.dll
+D:\C# Projects\Drawing Figures with Loops\02. Rectangle of N x N Stars\bin\Debug\net5.0\ref\02. Rectangle of N x N Stars.dll
+D:\C# Projects\Drawing Figures with Loops\02. Rectangle of N x N Stars\bin\Debug\net5.0\02. Rectangle of N x N Stars.pdb
+D:\C# Projects\Drawing Figures with Loops\02. Rectangle of N x N Stars\obj\Debug\net5.0\02. Rectangle of N x N Stars.csproj.AssemblyReference.cache
+D:\C# Projects\Drawing Figures with Loops\02. Rectangle of N x N Stars\obj\Debug\net5.0\02. Rectangle of N x N Stars.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Drawing Figures with Loops\02. Rectangle of N x N Stars\obj\Debug\net5.0\02. Rectangle of N x N Stars.AssemblyInfoInputs.cache
+D:\C# Projects\Drawing Figures with Loops\02. Rectangle of N x N Stars\obj\Debug\net5.0\02. Rectangle of N x N Stars.AssemblyInfo.cs
+D:\C# Projects\Drawing Figures with Loops\02. Rectangle of N x N Stars\obj\Debug\net5.0\02. Rectangle of N x N Stars.csproj.CoreCompileInputs.cache
+D:\C# Projects\Drawing Figures with Loops\02. Rectangle of N x N Stars\obj\Debug\net5.0\02. Rectangle of N x N Stars.dll
+D:\C# Projects\Drawing Figures with Loops\02. Rectangle of N x N Stars\obj\Debug\net5.0\ref\02. Rectangle of N x N Stars.dll
+D:\C# Projects\Drawing Figures with Loops\02. Rectangle of N x N Stars\obj\Debug\net5.0\02. Rectangle of N x N Stars.pdb
+D:\C# Projects\Drawing Figures with Loops\02. Rectangle of N x N Stars\obj\Debug\net5.0\02. Rectangle of N x N Stars.genruntimeconfig.cache
