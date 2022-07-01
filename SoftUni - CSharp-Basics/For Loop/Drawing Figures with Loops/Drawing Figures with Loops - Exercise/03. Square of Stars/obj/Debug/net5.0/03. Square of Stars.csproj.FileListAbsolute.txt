@@ -1,0 +1,16 @@
+D:\C# Projects\Drawing Figures with Loops\03. Square of Stars\bin\Debug\net5.0\03. Square of Stars.exe
+D:\C# Projects\Drawing Figures with Loops\03. Square of Stars\bin\Debug\net5.0\03. Square of Stars.deps.json
+D:\C# Projects\Drawing Figures with Loops\03. Square of Stars\bin\Debug\net5.0\03. Square of Stars.runtimeconfig.json
+D:\C# Projects\Drawing Figures with Loops\03. Square of Stars\bin\Debug\net5.0\03. Square of Stars.runtimeconfig.dev.json
+D:\C# Projects\Drawing Figures with Loops\03. Square of Stars\bin\Debug\net5.0\03. Square of Stars.dll
+D:\C# Projects\Drawing Figures with Loops\03. Square of Stars\bin\Debug\net5.0\ref\03. Square of Stars.dll
+D:\C# Projects\Drawing Figures with Loops\03. Square of Stars\bin\Debug\net5.0\03. Square of Stars.pdb
+D:\C# Projects\Drawing Figures with Loops\03. Square of Stars\obj\Debug\net5.0\03. Square of Stars.csproj.AssemblyReference.cache
+D:\C# Projects\Drawing Figures with Loops\03. Square of Stars\obj\Debug\net5.0\03. Square of Stars.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Drawing Figures with Loops\03. Square of Stars\obj\Debug\net5.0\03. Square of Stars.AssemblyInfoInputs.cache
+D:\C# Projects\Drawing Figures with Loops\03. Square of Stars\obj\Debug\net5.0\03. Square of Stars.AssemblyInfo.cs
+D:\C# Projects\Drawing Figures with Loops\03. Square of Stars\obj\Debug\net5.0\03. Square of Stars.csproj.CoreCompileInputs.cache
+D:\C# Projects\Drawing Figures with Loops\03. Square of Stars\obj\Debug\net5.0\03. Square of Stars.dll
+D:\C# Projects\Drawing Figures with Loops\03. Square of Stars\obj\Debug\net5.0\ref\03. Square of Stars.dll
+D:\C# Projects\Drawing Figures with Loops\03. Square of Stars\obj\Debug\net5.0\03. Square of Stars.pdb
+D:\C# Projects\Drawing Figures with Loops\03. Square of Stars\obj\Debug\net5.0\03. Square of Stars.genruntimeconfig.cache
