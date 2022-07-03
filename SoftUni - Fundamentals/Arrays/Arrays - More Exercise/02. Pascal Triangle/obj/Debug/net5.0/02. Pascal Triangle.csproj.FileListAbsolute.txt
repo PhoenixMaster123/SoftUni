@@ -1,0 +1,15 @@
+D:\SoftUni Fundamentals\Array\Array\02. Pascal Triangle\bin\Debug\net5.0\02. Pascal Triangle.exe
+D:\SoftUni Fundamentals\Array\Array\02. Pascal Triangle\bin\Debug\net5.0\02. Pascal Triangle.deps.json
+D:\SoftUni Fundamentals\Array\Array\02. Pascal Triangle\bin\Debug\net5.0\02. Pascal Triangle.runtimeconfig.json
+D:\SoftUni Fundamentals\Array\Array\02. Pascal Triangle\bin\Debug\net5.0\02. Pascal Triangle.runtimeconfig.dev.json
+D:\SoftUni Fundamentals\Array\Array\02. Pascal Triangle\bin\Debug\net5.0\02. Pascal Triangle.dll
+D:\SoftUni Fundamentals\Array\Array\02. Pascal Triangle\bin\Debug\net5.0\ref\02. Pascal Triangle.dll
+D:\SoftUni Fundamentals\Array\Array\02. Pascal Triangle\bin\Debug\net5.0\02. Pascal Triangle.pdb
+D:\SoftUni Fundamentals\Array\Array\02. Pascal Triangle\obj\Debug\net5.0\02. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Fundamentals\Array\Array\02. Pascal Triangle\obj\Debug\net5.0\02. Pascal Triangle.AssemblyInfoInputs.cache
+D:\SoftUni Fundamentals\Array\Array\02. Pascal Triangle\obj\Debug\net5.0\02. Pascal Triangle.AssemblyInfo.cs
+D:\SoftUni Fundamentals\Array\Array\02. Pascal Triangle\obj\Debug\net5.0\02. Pascal Triangle.csproj.CoreCompileInputs.cache
+D:\SoftUni Fundamentals\Array\Array\02. Pascal Triangle\obj\Debug\net5.0\02. Pascal Triangle.dll
+D:\SoftUni Fundamentals\Array\Array\02. Pascal Triangle\obj\Debug\net5.0\ref\02. Pascal Triangle.dll
+D:\SoftUni Fundamentals\Array\Array\02. Pascal Triangle\obj\Debug\net5.0\02. Pascal Triangle.pdb
+D:\SoftUni Fundamentals\Array\Array\02. Pascal Triangle\obj\Debug\net5.0\02. Pascal Triangle.genruntimeconfig.cache
