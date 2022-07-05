@@ -1,0 +1,14 @@
+D:\SoftUni Advance + OOP\01. Inheritance - OOP\Person\bin\Debug\netcoreapp3.1\Person.exe
+D:\SoftUni Advance + OOP\01. Inheritance - OOP\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+D:\SoftUni Advance + OOP\01. Inheritance - OOP\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+D:\SoftUni Advance + OOP\01. Inheritance - OOP\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\01. Inheritance - OOP\Person\bin\Debug\netcoreapp3.1\Person.dll
+D:\SoftUni Advance + OOP\01. Inheritance - OOP\Person\bin\Debug\netcoreapp3.1\Person.pdb
+D:\SoftUni Advance + OOP\01. Inheritance - OOP\Person\obj\Debug\netcoreapp3.1\Person.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\01. Inheritance - OOP\Person\obj\Debug\netcoreapp3.1\Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\01. Inheritance - OOP\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\01. Inheritance - OOP\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\01. Inheritance - OOP\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\01. Inheritance - OOP\Person\obj\Debug\netcoreapp3.1\Person.dll
+D:\SoftUni Advance + OOP\01. Inheritance - OOP\Person\obj\Debug\netcoreapp3.1\Person.pdb
+D:\SoftUni Advance + OOP\01. Inheritance - OOP\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache
