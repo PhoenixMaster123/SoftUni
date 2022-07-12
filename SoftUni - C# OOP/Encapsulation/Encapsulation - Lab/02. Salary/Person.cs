@@ -5,14 +5,7 @@ using System.Text;
 namespace PersonsInfo
 {
     public class Person
-    {
-      
-       
-        
-        private string firstName;
-        private string lastName;
-        private int age;
-        private decimal salaly;
+    {         
         public string FirstName 
         {   
             get
@@ -20,11 +13,7 @@ namespace PersonsInfo
                 return this.firstName;
             }
             private set
-            {
-                //if(value.Length < 3)
-                //{
-                //    throw new ArgumentException("First name cannot contain fewer than 3 symbols!");
-                //}
+            {           
                 this.firstName = value;
             } 
         }
@@ -35,11 +24,7 @@ namespace PersonsInfo
                 return this.lastName;
             }
             private set
-            {
-                //if (value.Length < 3)
-                //{
-                //    throw new ArgumentException("Last name cannot contain fewer than 3 symbols!");
-                //}
+            {             
                 this.lastName = value;
             }
         }
@@ -51,10 +36,6 @@ namespace PersonsInfo
             }
             private set
             {
-                //if(value <= 0)
-                //{
-                //    throw new ArgumentException("Age cannot be zero or a negative integer!");
-                //}
                 this.age = value;
             }
         }
@@ -66,10 +47,6 @@ namespace PersonsInfo
             }
             private set
             {
-                //if(value < 650)
-                //{
-                //    throw new ArgumentException("Salary cannot be less than 650 leva!");
-                //}
                 this.salaly = value;
             }
         }
