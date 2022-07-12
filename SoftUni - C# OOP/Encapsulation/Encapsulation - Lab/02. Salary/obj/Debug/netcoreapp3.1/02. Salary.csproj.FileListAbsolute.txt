@@ -1,0 +1,14 @@
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\02. Salary\bin\Debug\netcoreapp3.1\02. Salary.exe
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\02. Salary\bin\Debug\netcoreapp3.1\02. Salary.deps.json
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\02. Salary\bin\Debug\netcoreapp3.1\02. Salary.runtimeconfig.json
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\02. Salary\bin\Debug\netcoreapp3.1\02. Salary.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\02. Salary\bin\Debug\netcoreapp3.1\02. Salary.dll
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\02. Salary\bin\Debug\netcoreapp3.1\02. Salary.pdb
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\02. Salary\obj\Debug\netcoreapp3.1\02. Salary.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\02. Salary\obj\Debug\netcoreapp3.1\02. Salary.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\02. Salary\obj\Debug\netcoreapp3.1\02. Salary.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\02. Salary\obj\Debug\netcoreapp3.1\02. Salary.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\02. Salary\obj\Debug\netcoreapp3.1\02. Salary.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\02. Salary\obj\Debug\netcoreapp3.1\02. Salary.dll
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\02. Salary\obj\Debug\netcoreapp3.1\02. Salary.pdb
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\02. Salary\obj\Debug\netcoreapp3.1\02. Salary.genruntimeconfig.cache
