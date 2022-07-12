@@ -1,0 +1,14 @@
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\01. Persons\bin\Debug\netcoreapp3.1\01. Persons.exe
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\01. Persons\bin\Debug\netcoreapp3.1\01. Persons.deps.json
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\01. Persons\bin\Debug\netcoreapp3.1\01. Persons.runtimeconfig.json
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\01. Persons\bin\Debug\netcoreapp3.1\01. Persons.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\01. Persons\bin\Debug\netcoreapp3.1\01. Persons.dll
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\01. Persons\bin\Debug\netcoreapp3.1\01. Persons.pdb
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\01. Persons\obj\Debug\netcoreapp3.1\01. Persons.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\01. Persons\obj\Debug\netcoreapp3.1\01. Persons.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\01. Persons\obj\Debug\netcoreapp3.1\01. Persons.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\01. Persons\obj\Debug\netcoreapp3.1\01. Persons.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\01. Persons\obj\Debug\netcoreapp3.1\01. Persons.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\01. Persons\obj\Debug\netcoreapp3.1\01. Persons.dll
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\01. Persons\obj\Debug\netcoreapp3.1\01. Persons.pdb
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\01. Persons\obj\Debug\netcoreapp3.1\01. Persons.genruntimeconfig.cache
