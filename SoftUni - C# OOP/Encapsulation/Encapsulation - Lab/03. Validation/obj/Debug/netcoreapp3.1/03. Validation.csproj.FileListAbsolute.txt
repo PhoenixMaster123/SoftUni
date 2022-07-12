@@ -1,0 +1,14 @@
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Validation\bin\Debug\netcoreapp3.1\03. Validation.exe
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Validation\bin\Debug\netcoreapp3.1\03. Validation.deps.json
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Validation\bin\Debug\netcoreapp3.1\03. Validation.runtimeconfig.json
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Validation\bin\Debug\netcoreapp3.1\03. Validation.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Validation\bin\Debug\netcoreapp3.1\03. Validation.dll
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Validation\bin\Debug\netcoreapp3.1\03. Validation.pdb
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Validation\obj\Debug\netcoreapp3.1\03. Validation.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Validation\obj\Debug\netcoreapp3.1\03. Validation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Validation\obj\Debug\netcoreapp3.1\03. Validation.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Validation\obj\Debug\netcoreapp3.1\03. Validation.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Validation\obj\Debug\netcoreapp3.1\03. Validation.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Validation\obj\Debug\netcoreapp3.1\03. Validation.dll
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Validation\obj\Debug\netcoreapp3.1\03. Validation.pdb
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Validation\obj\Debug\netcoreapp3.1\03. Validation.genruntimeconfig.cache
