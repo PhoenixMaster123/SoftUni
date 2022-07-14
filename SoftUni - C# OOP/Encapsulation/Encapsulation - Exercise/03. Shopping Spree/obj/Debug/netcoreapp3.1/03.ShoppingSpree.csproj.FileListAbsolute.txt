@@ -1,0 +1,14 @@
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Shopping Spree\obj\Debug\netcoreapp3.1\03.ShoppingSpree.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Shopping Spree\obj\Debug\netcoreapp3.1\03.ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Shopping Spree\obj\Debug\netcoreapp3.1\03.ShoppingSpree.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Shopping Spree\obj\Debug\netcoreapp3.1\03.ShoppingSpree.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Shopping Spree\obj\Debug\netcoreapp3.1\03.ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Shopping Spree\bin\Debug\netcoreapp3.1\03.ShoppingSpree.exe
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Shopping Spree\bin\Debug\netcoreapp3.1\03.ShoppingSpree.deps.json
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Shopping Spree\bin\Debug\netcoreapp3.1\03.ShoppingSpree.runtimeconfig.json
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Shopping Spree\bin\Debug\netcoreapp3.1\03.ShoppingSpree.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Shopping Spree\bin\Debug\netcoreapp3.1\03.ShoppingSpree.dll
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Shopping Spree\bin\Debug\netcoreapp3.1\03.ShoppingSpree.pdb
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Shopping Spree\obj\Debug\netcoreapp3.1\03.ShoppingSpree.dll
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Shopping Spree\obj\Debug\netcoreapp3.1\03.ShoppingSpree.pdb
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\03. Shopping Spree\obj\Debug\netcoreapp3.1\03.ShoppingSpree.genruntimeconfig.cache
