@@ -1,0 +1,14 @@
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\04. Pizza Calories\bin\Debug\netcoreapp3.1\04.PizzaCalories.exe
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\04. Pizza Calories\bin\Debug\netcoreapp3.1\04.PizzaCalories.deps.json
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\04. Pizza Calories\bin\Debug\netcoreapp3.1\04.PizzaCalories.runtimeconfig.json
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\04. Pizza Calories\bin\Debug\netcoreapp3.1\04.PizzaCalories.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\04. Pizza Calories\bin\Debug\netcoreapp3.1\04.PizzaCalories.dll
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\04. Pizza Calories\bin\Debug\netcoreapp3.1\04.PizzaCalories.pdb
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\04. Pizza Calories\obj\Debug\netcoreapp3.1\04.PizzaCalories.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\04. Pizza Calories\obj\Debug\netcoreapp3.1\04.PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\04. Pizza Calories\obj\Debug\netcoreapp3.1\04.PizzaCalories.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\04. Pizza Calories\obj\Debug\netcoreapp3.1\04.PizzaCalories.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\04. Pizza Calories\obj\Debug\netcoreapp3.1\04.PizzaCalories.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\04. Pizza Calories\obj\Debug\netcoreapp3.1\04.PizzaCalories.dll
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\04. Pizza Calories\obj\Debug\netcoreapp3.1\04.PizzaCalories.pdb
+D:\SoftUni Advance + OOP\02. Encapsulation - OOP\Encapsulation\04. Pizza Calories\obj\Debug\netcoreapp3.1\04.PizzaCalories.genruntimeconfig.cache
