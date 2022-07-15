@@ -1,0 +1,14 @@
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.exe
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.deps.json
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.runtimeconfig.json
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.dll
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.pdb
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.dll
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.pdb
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineAnInterfaceIPerson.genruntimeconfig.cache
