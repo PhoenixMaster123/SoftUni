@@ -1,0 +1,14 @@
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\03. Telephony\obj\Debug\netcoreapp3.1\03. Telephony.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\03. Telephony\obj\Debug\netcoreapp3.1\03. Telephony.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\03. Telephony\obj\Debug\netcoreapp3.1\03. Telephony.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\03. Telephony\obj\Debug\netcoreapp3.1\03. Telephony.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\03. Telephony\obj\Debug\netcoreapp3.1\03. Telephony.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\03. Telephony\bin\Debug\netcoreapp3.1\03. Telephony.exe
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\03. Telephony\bin\Debug\netcoreapp3.1\03. Telephony.deps.json
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\03. Telephony\bin\Debug\netcoreapp3.1\03. Telephony.runtimeconfig.json
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\03. Telephony\bin\Debug\netcoreapp3.1\03. Telephony.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\03. Telephony\bin\Debug\netcoreapp3.1\03. Telephony.dll
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\03. Telephony\bin\Debug\netcoreapp3.1\03. Telephony.pdb
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\03. Telephony\obj\Debug\netcoreapp3.1\03. Telephony.dll
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\03. Telephony\obj\Debug\netcoreapp3.1\03. Telephony.pdb
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\03. Telephony\obj\Debug\netcoreapp3.1\03. Telephony.genruntimeconfig.cache
