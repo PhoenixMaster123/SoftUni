@@ -1,0 +1,14 @@
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\02. Multiple Implementation\bin\Debug\netcoreapp3.1\02. Multiple Implementation.exe
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\02. Multiple Implementation\bin\Debug\netcoreapp3.1\02. Multiple Implementation.deps.json
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\02. Multiple Implementation\bin\Debug\netcoreapp3.1\02. Multiple Implementation.runtimeconfig.json
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\02. Multiple Implementation\bin\Debug\netcoreapp3.1\02. Multiple Implementation.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\02. Multiple Implementation\bin\Debug\netcoreapp3.1\02. Multiple Implementation.dll
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\02. Multiple Implementation\bin\Debug\netcoreapp3.1\02. Multiple Implementation.pdb
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\02. Multiple Implementation\obj\Debug\netcoreapp3.1\02. Multiple Implementation.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\02. Multiple Implementation\obj\Debug\netcoreapp3.1\02. Multiple Implementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\02. Multiple Implementation\obj\Debug\netcoreapp3.1\02. Multiple Implementation.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\02. Multiple Implementation\obj\Debug\netcoreapp3.1\02. Multiple Implementation.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\02. Multiple Implementation\obj\Debug\netcoreapp3.1\02. Multiple Implementation.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\02. Multiple Implementation\obj\Debug\netcoreapp3.1\02. Multiple Implementation.dll
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\02. Multiple Implementation\obj\Debug\netcoreapp3.1\02. Multiple Implementation.pdb
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\02. Multiple Implementation\obj\Debug\netcoreapp3.1\02. Multiple Implementation.genruntimeconfig.cache
