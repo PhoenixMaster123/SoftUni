@@ -1,0 +1,16 @@
+D:\Softuniada 2020\Softuniada_2020\02. New SoftUni Building\bin\Debug\net5.0\02. New SoftUni Building.exe
+D:\Softuniada 2020\Softuniada_2020\02. New SoftUni Building\bin\Debug\net5.0\02. New SoftUni Building.deps.json
+D:\Softuniada 2020\Softuniada_2020\02. New SoftUni Building\bin\Debug\net5.0\02. New SoftUni Building.runtimeconfig.json
+D:\Softuniada 2020\Softuniada_2020\02. New SoftUni Building\bin\Debug\net5.0\02. New SoftUni Building.runtimeconfig.dev.json
+D:\Softuniada 2020\Softuniada_2020\02. New SoftUni Building\bin\Debug\net5.0\02. New SoftUni Building.dll
+D:\Softuniada 2020\Softuniada_2020\02. New SoftUni Building\bin\Debug\net5.0\ref\02. New SoftUni Building.dll
+D:\Softuniada 2020\Softuniada_2020\02. New SoftUni Building\bin\Debug\net5.0\02. New SoftUni Building.pdb
+D:\Softuniada 2020\Softuniada_2020\02. New SoftUni Building\obj\Debug\net5.0\02. New SoftUni Building.csproj.AssemblyReference.cache
+D:\Softuniada 2020\Softuniada_2020\02. New SoftUni Building\obj\Debug\net5.0\02. New SoftUni Building.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuniada 2020\Softuniada_2020\02. New SoftUni Building\obj\Debug\net5.0\02. New SoftUni Building.AssemblyInfoInputs.cache
+D:\Softuniada 2020\Softuniada_2020\02. New SoftUni Building\obj\Debug\net5.0\02. New SoftUni Building.AssemblyInfo.cs
+D:\Softuniada 2020\Softuniada_2020\02. New SoftUni Building\obj\Debug\net5.0\02. New SoftUni Building.csproj.CoreCompileInputs.cache
+D:\Softuniada 2020\Softuniada_2020\02. New SoftUni Building\obj\Debug\net5.0\02. New SoftUni Building.dll
+D:\Softuniada 2020\Softuniada_2020\02. New SoftUni Building\obj\Debug\net5.0\ref\02. New SoftUni Building.dll
+D:\Softuniada 2020\Softuniada_2020\02. New SoftUni Building\obj\Debug\net5.0\02. New SoftUni Building.pdb
+D:\Softuniada 2020\Softuniada_2020\02. New SoftUni Building\obj\Debug\net5.0\02. New SoftUni Building.genruntimeconfig.cache
