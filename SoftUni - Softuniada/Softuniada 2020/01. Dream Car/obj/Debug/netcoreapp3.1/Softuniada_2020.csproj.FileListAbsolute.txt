@@ -1,0 +1,14 @@
+D:\Softuniada 2020\Softuniada_2020\Softuniada_2020\bin\Debug\netcoreapp3.1\Softuniada_2020.exe
+D:\Softuniada 2020\Softuniada_2020\Softuniada_2020\bin\Debug\netcoreapp3.1\Softuniada_2020.deps.json
+D:\Softuniada 2020\Softuniada_2020\Softuniada_2020\bin\Debug\netcoreapp3.1\Softuniada_2020.runtimeconfig.json
+D:\Softuniada 2020\Softuniada_2020\Softuniada_2020\bin\Debug\netcoreapp3.1\Softuniada_2020.runtimeconfig.dev.json
+D:\Softuniada 2020\Softuniada_2020\Softuniada_2020\bin\Debug\netcoreapp3.1\Softuniada_2020.dll
+D:\Softuniada 2020\Softuniada_2020\Softuniada_2020\bin\Debug\netcoreapp3.1\Softuniada_2020.pdb
+D:\Softuniada 2020\Softuniada_2020\Softuniada_2020\obj\Debug\netcoreapp3.1\Softuniada_2020.csproj.AssemblyReference.cache
+D:\Softuniada 2020\Softuniada_2020\Softuniada_2020\obj\Debug\netcoreapp3.1\Softuniada_2020.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuniada 2020\Softuniada_2020\Softuniada_2020\obj\Debug\netcoreapp3.1\Softuniada_2020.AssemblyInfoInputs.cache
+D:\Softuniada 2020\Softuniada_2020\Softuniada_2020\obj\Debug\netcoreapp3.1\Softuniada_2020.AssemblyInfo.cs
+D:\Softuniada 2020\Softuniada_2020\Softuniada_2020\obj\Debug\netcoreapp3.1\Softuniada_2020.csproj.CoreCompileInputs.cache
+D:\Softuniada 2020\Softuniada_2020\Softuniada_2020\obj\Debug\netcoreapp3.1\Softuniada_2020.dll
+D:\Softuniada 2020\Softuniada_2020\Softuniada_2020\obj\Debug\netcoreapp3.1\Softuniada_2020.pdb
+D:\Softuniada 2020\Softuniada_2020\Softuniada_2020\obj\Debug\netcoreapp3.1\Softuniada_2020.genruntimeconfig.cache
