@@ -1,0 +1,14 @@
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\05. Birthday Celebrations.exe
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\05. Birthday Celebrations.deps.json
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\05. Birthday Celebrations.runtimeconfig.json
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\05. Birthday Celebrations.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\05. Birthday Celebrations.dll
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\05. Birthday Celebrations.pdb
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\05. Birthday Celebrations.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\05. Birthday Celebrations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\05. Birthday Celebrations.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\05. Birthday Celebrations.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\05. Birthday Celebrations.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\05. Birthday Celebrations.dll
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\05. Birthday Celebrations.pdb
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\05. Birthday Celebrations.genruntimeconfig.cache
