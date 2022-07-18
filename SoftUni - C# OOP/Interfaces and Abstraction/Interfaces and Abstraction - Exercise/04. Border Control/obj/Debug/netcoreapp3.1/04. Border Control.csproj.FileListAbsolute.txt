@@ -1,0 +1,14 @@
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\04. Border Control\bin\Debug\netcoreapp3.1\04. Border Control.exe
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\04. Border Control\bin\Debug\netcoreapp3.1\04. Border Control.deps.json
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\04. Border Control\bin\Debug\netcoreapp3.1\04. Border Control.runtimeconfig.json
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\04. Border Control\bin\Debug\netcoreapp3.1\04. Border Control.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\04. Border Control\bin\Debug\netcoreapp3.1\04. Border Control.dll
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\04. Border Control\bin\Debug\netcoreapp3.1\04. Border Control.pdb
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.dll
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.pdb
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.genruntimeconfig.cache
