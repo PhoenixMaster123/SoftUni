@@ -1,0 +1,14 @@
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\06. Food Shortage\bin\Debug\netcoreapp3.1\06. Food Shortage.exe
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\06. Food Shortage\bin\Debug\netcoreapp3.1\06. Food Shortage.deps.json
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\06. Food Shortage\bin\Debug\netcoreapp3.1\06. Food Shortage.runtimeconfig.json
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\06. Food Shortage\bin\Debug\netcoreapp3.1\06. Food Shortage.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\06. Food Shortage\bin\Debug\netcoreapp3.1\06. Food Shortage.dll
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\06. Food Shortage\bin\Debug\netcoreapp3.1\06. Food Shortage.pdb
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\06. Food Shortage\obj\Debug\netcoreapp3.1\06. Food Shortage.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\06. Food Shortage\obj\Debug\netcoreapp3.1\06. Food Shortage.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\06. Food Shortage\obj\Debug\netcoreapp3.1\06. Food Shortage.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\06. Food Shortage\obj\Debug\netcoreapp3.1\06. Food Shortage.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\06. Food Shortage\obj\Debug\netcoreapp3.1\06. Food Shortage.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\06. Food Shortage\obj\Debug\netcoreapp3.1\06. Food Shortage.dll
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\06. Food Shortage\obj\Debug\netcoreapp3.1\06. Food Shortage.pdb
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Interfaces and Abstraction\06. Food Shortage\obj\Debug\netcoreapp3.1\06. Food Shortage.genruntimeconfig.cache
