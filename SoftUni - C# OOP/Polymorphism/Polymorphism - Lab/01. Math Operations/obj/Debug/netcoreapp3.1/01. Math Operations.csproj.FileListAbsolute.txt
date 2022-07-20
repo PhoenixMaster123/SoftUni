@@ -1,0 +1,14 @@
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Polymorphism\01. Math Operations\bin\Debug\netcoreapp3.1\01. Math Operations.exe
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Polymorphism\01. Math Operations\bin\Debug\netcoreapp3.1\01. Math Operations.deps.json
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Polymorphism\01. Math Operations\bin\Debug\netcoreapp3.1\01. Math Operations.runtimeconfig.json
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Polymorphism\01. Math Operations\bin\Debug\netcoreapp3.1\01. Math Operations.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Polymorphism\01. Math Operations\bin\Debug\netcoreapp3.1\01. Math Operations.dll
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Polymorphism\01. Math Operations\bin\Debug\netcoreapp3.1\01. Math Operations.pdb
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Polymorphism\01. Math Operations\obj\Debug\netcoreapp3.1\01. Math Operations.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Polymorphism\01. Math Operations\obj\Debug\netcoreapp3.1\01. Math Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Polymorphism\01. Math Operations\obj\Debug\netcoreapp3.1\01. Math Operations.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Polymorphism\01. Math Operations\obj\Debug\netcoreapp3.1\01. Math Operations.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Polymorphism\01. Math Operations\obj\Debug\netcoreapp3.1\01. Math Operations.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Polymorphism\01. Math Operations\obj\Debug\netcoreapp3.1\01. Math Operations.dll
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Polymorphism\01. Math Operations\obj\Debug\netcoreapp3.1\01. Math Operations.pdb
+D:\SoftUni Advance + OOP\03. Interfaces and Abstraction - OOP\Polymorphism\01. Math Operations\obj\Debug\netcoreapp3.1\01. Math Operations.genruntimeconfig.cache
