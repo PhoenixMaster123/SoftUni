@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\01. Square Root\bin\Debug\net5.0\01. Square Root.exe
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\01. Square Root\bin\Debug\net5.0\01. Square Root.deps.json
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\01. Square Root\bin\Debug\net5.0\01. Square Root.runtimeconfig.json
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\01. Square Root\bin\Debug\net5.0\01. Square Root.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\01. Square Root\bin\Debug\net5.0\01. Square Root.dll
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\01. Square Root\bin\Debug\net5.0\ref\01. Square Root.dll
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\01. Square Root\bin\Debug\net5.0\01. Square Root.pdb
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\01. Square Root\obj\Debug\net5.0\01. Square Root.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\01. Square Root\obj\Debug\net5.0\01. Square Root.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\01. Square Root\obj\Debug\net5.0\01. Square Root.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\01. Square Root\obj\Debug\net5.0\01. Square Root.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\01. Square Root\obj\Debug\net5.0\01. Square Root.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\01. Square Root\obj\Debug\net5.0\01. Square Root.dll
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\01. Square Root\obj\Debug\net5.0\ref\01. Square Root.dll
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\01. Square Root\obj\Debug\net5.0\01. Square Root.pdb
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\01. Square Root\obj\Debug\net5.0\01. Square Root.genruntimeconfig.cache
