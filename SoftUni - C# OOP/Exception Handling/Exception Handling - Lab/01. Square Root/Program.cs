@@ -14,7 +14,7 @@ namespace _01._Square_Root
                 if (num < 0)
                 {
                     //Console.WriteLine("Invalid number."); 
-                    throw new Exception("Invalid number.");
+                    throw new IndexOutOfRangeException("Invalid number.");
                     
                 }
                 else
@@ -24,7 +24,7 @@ namespace _01._Square_Root
                     Console.WriteLine("Goodbye.");
                 }
             }
-            catch (Exception ex)
+            catch (IndexOutOfRangeException ex)
             {
                 Console.WriteLine(ex.Message);
                 Console.WriteLine("Goodbye.");
