@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\02. Enter Numbers\bin\Debug\net5.0\02. Enter Numbers.exe
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\02. Enter Numbers\bin\Debug\net5.0\02. Enter Numbers.deps.json
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\02. Enter Numbers\bin\Debug\net5.0\02. Enter Numbers.runtimeconfig.json
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\02. Enter Numbers\bin\Debug\net5.0\02. Enter Numbers.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\02. Enter Numbers\bin\Debug\net5.0\02. Enter Numbers.dll
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\02. Enter Numbers\bin\Debug\net5.0\ref\02. Enter Numbers.dll
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\02. Enter Numbers\bin\Debug\net5.0\02. Enter Numbers.pdb
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\02. Enter Numbers\obj\Debug\net5.0\02. Enter Numbers.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\02. Enter Numbers\obj\Debug\net5.0\02. Enter Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\02. Enter Numbers\obj\Debug\net5.0\02. Enter Numbers.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\02. Enter Numbers\obj\Debug\net5.0\02. Enter Numbers.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\02. Enter Numbers\obj\Debug\net5.0\02. Enter Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\02. Enter Numbers\obj\Debug\net5.0\02. Enter Numbers.dll
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\02. Enter Numbers\obj\Debug\net5.0\ref\02. Enter Numbers.dll
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\02. Enter Numbers\obj\Debug\net5.0\02. Enter Numbers.pdb
+D:\SoftUni Advance + OOP\05. Exception Handling\Exceptions and Error Handling\02. Enter Numbers\obj\Debug\net5.0\02. Enter Numbers.genruntimeconfig.cache
