@@ -71,7 +71,6 @@ namespace What_is_SOLID
                                          1. Reusing classes that do not have an interface that a client requires
                                          2. Making classes with incompatible interfaces work together
                                          3. Providing an alternative interface for a class 
-
             */
 
             /*
@@ -83,15 +82,7 @@ namespace What_is_SOLID
                                                                (Cons) State can be invalid <-> Less intuitive to use
                                    3. Parameter Inversion ->   (Pros) Changes are only localized to the method  
                                                                (Cons) Too many Parameters <-> Breaks the method signature
-
             */
-
-
-
-
-
-
-
         }
     }
 }
