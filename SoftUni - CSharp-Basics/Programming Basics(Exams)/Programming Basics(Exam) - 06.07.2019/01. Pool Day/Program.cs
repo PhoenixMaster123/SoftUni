@@ -7,11 +7,11 @@ namespace _01._Pool_Day
         static void Main(string[] args)
         {
             int people = int.Parse(Console.ReadLine());
-            double charge = double.Parse(Console.ReadLine());
+            double enterPrice = double.Parse(Console.ReadLine());
             double sunbed = double.Parse(Console.ReadLine());
             double umbrella = double.Parse(Console.ReadLine());
 
-            double enter = people * charge;
+            double enter = people * enterPrice;
             double percentSunbed = Math.Ceiling(people * 0.75); 
             double price = percentSunbed * sunbed;
             double halfpeole = Math.Ceiling(people * 0.50);
