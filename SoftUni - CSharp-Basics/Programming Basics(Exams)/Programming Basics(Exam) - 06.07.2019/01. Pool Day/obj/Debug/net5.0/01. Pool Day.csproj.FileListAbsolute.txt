@@ -1,0 +1,16 @@
+D:\C# Projects\ARC - massivs\01. Pool Day\bin\Debug\net5.0\01. Pool Day.exe
+D:\C# Projects\ARC - massivs\01. Pool Day\bin\Debug\net5.0\01. Pool Day.deps.json
+D:\C# Projects\ARC - massivs\01. Pool Day\bin\Debug\net5.0\01. Pool Day.runtimeconfig.json
+D:\C# Projects\ARC - massivs\01. Pool Day\bin\Debug\net5.0\01. Pool Day.runtimeconfig.dev.json
+D:\C# Projects\ARC - massivs\01. Pool Day\bin\Debug\net5.0\01. Pool Day.dll
+D:\C# Projects\ARC - massivs\01. Pool Day\bin\Debug\net5.0\ref\01. Pool Day.dll
+D:\C# Projects\ARC - massivs\01. Pool Day\bin\Debug\net5.0\01. Pool Day.pdb
+D:\C# Projects\ARC - massivs\01. Pool Day\obj\Debug\net5.0\01. Pool Day.csproj.AssemblyReference.cache
+D:\C# Projects\ARC - massivs\01. Pool Day\obj\Debug\net5.0\01. Pool Day.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\ARC - massivs\01. Pool Day\obj\Debug\net5.0\01. Pool Day.AssemblyInfoInputs.cache
+D:\C# Projects\ARC - massivs\01. Pool Day\obj\Debug\net5.0\01. Pool Day.AssemblyInfo.cs
+D:\C# Projects\ARC - massivs\01. Pool Day\obj\Debug\net5.0\01. Pool Day.csproj.CoreCompileInputs.cache
+D:\C# Projects\ARC - massivs\01. Pool Day\obj\Debug\net5.0\01. Pool Day.dll
+D:\C# Projects\ARC - massivs\01. Pool Day\obj\Debug\net5.0\ref\01. Pool Day.dll
+D:\C# Projects\ARC - massivs\01. Pool Day\obj\Debug\net5.0\01. Pool Day.pdb
+D:\C# Projects\ARC - massivs\01. Pool Day\obj\Debug\net5.0\01. Pool Day.genruntimeconfig.cache
