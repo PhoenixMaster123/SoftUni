@@ -1,0 +1,16 @@
+D:\C# Projects\ARC - massivs\03. Coffee Machine\bin\Debug\net5.0\03. Coffee Machine.exe
+D:\C# Projects\ARC - massivs\03. Coffee Machine\bin\Debug\net5.0\03. Coffee Machine.deps.json
+D:\C# Projects\ARC - massivs\03. Coffee Machine\bin\Debug\net5.0\03. Coffee Machine.runtimeconfig.json
+D:\C# Projects\ARC - massivs\03. Coffee Machine\bin\Debug\net5.0\03. Coffee Machine.runtimeconfig.dev.json
+D:\C# Projects\ARC - massivs\03. Coffee Machine\bin\Debug\net5.0\03. Coffee Machine.dll
+D:\C# Projects\ARC - massivs\03. Coffee Machine\bin\Debug\net5.0\ref\03. Coffee Machine.dll
+D:\C# Projects\ARC - massivs\03. Coffee Machine\bin\Debug\net5.0\03. Coffee Machine.pdb
+D:\C# Projects\ARC - massivs\03. Coffee Machine\obj\Debug\net5.0\03. Coffee Machine.csproj.AssemblyReference.cache
+D:\C# Projects\ARC - massivs\03. Coffee Machine\obj\Debug\net5.0\03. Coffee Machine.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\ARC - massivs\03. Coffee Machine\obj\Debug\net5.0\03. Coffee Machine.AssemblyInfoInputs.cache
+D:\C# Projects\ARC - massivs\03. Coffee Machine\obj\Debug\net5.0\03. Coffee Machine.AssemblyInfo.cs
+D:\C# Projects\ARC - massivs\03. Coffee Machine\obj\Debug\net5.0\03. Coffee Machine.csproj.CoreCompileInputs.cache
+D:\C# Projects\ARC - massivs\03. Coffee Machine\obj\Debug\net5.0\03. Coffee Machine.dll
+D:\C# Projects\ARC - massivs\03. Coffee Machine\obj\Debug\net5.0\ref\03. Coffee Machine.dll
+D:\C# Projects\ARC - massivs\03. Coffee Machine\obj\Debug\net5.0\03. Coffee Machine.pdb
+D:\C# Projects\ARC - massivs\03. Coffee Machine\obj\Debug\net5.0\03. Coffee Machine.genruntimeconfig.cache
