@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01.Warm Winter\bin\Debug\net5.0\01.Warm Winter.exe
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01.Warm Winter\bin\Debug\net5.0\01.Warm Winter.deps.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01.Warm Winter\bin\Debug\net5.0\01.Warm Winter.runtimeconfig.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01.Warm Winter\bin\Debug\net5.0\01.Warm Winter.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01.Warm Winter\bin\Debug\net5.0\01.Warm Winter.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01.Warm Winter\bin\Debug\net5.0\ref\01.Warm Winter.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01.Warm Winter\bin\Debug\net5.0\01.Warm Winter.pdb
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01.Warm Winter\obj\Debug\net5.0\01.Warm Winter.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01.Warm Winter\obj\Debug\net5.0\01.Warm Winter.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01.Warm Winter\obj\Debug\net5.0\01.Warm Winter.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01.Warm Winter\obj\Debug\net5.0\01.Warm Winter.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01.Warm Winter\obj\Debug\net5.0\01.Warm Winter.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01.Warm Winter\obj\Debug\net5.0\01.Warm Winter.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01.Warm Winter\obj\Debug\net5.0\ref\01.Warm Winter.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01.Warm Winter\obj\Debug\net5.0\01.Warm Winter.pdb
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01.Warm Winter\obj\Debug\net5.0\01.Warm Winter.genruntimeconfig.cache
