@@ -18,6 +18,7 @@ namespace _01.Warm_Winter
             
             int currentHat = stackHats.Peek();
             int currentScarf = queueScarfs.Peek();
+            
             while (queueScarfs.Count > 0 && stackHats.Count > 0)
             {
                 
@@ -69,8 +70,7 @@ namespace _01.Warm_Winter
                         currentHat = stackHats.Peek();
                     }
                    
-                }
-                
+                }                
             }
             int max = result.Max();
             Console.WriteLine($"The most expensive set is: {max}");
