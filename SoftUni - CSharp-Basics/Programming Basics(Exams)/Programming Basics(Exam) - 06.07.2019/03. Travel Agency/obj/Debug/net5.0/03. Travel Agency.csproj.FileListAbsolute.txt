@@ -1,0 +1,16 @@
+D:\C# Projects\ARC - massivs\03. Travel Agency\bin\Debug\net5.0\03. Travel Agency.exe
+D:\C# Projects\ARC - massivs\03. Travel Agency\bin\Debug\net5.0\03. Travel Agency.deps.json
+D:\C# Projects\ARC - massivs\03. Travel Agency\bin\Debug\net5.0\03. Travel Agency.runtimeconfig.json
+D:\C# Projects\ARC - massivs\03. Travel Agency\bin\Debug\net5.0\03. Travel Agency.runtimeconfig.dev.json
+D:\C# Projects\ARC - massivs\03. Travel Agency\bin\Debug\net5.0\03. Travel Agency.dll
+D:\C# Projects\ARC - massivs\03. Travel Agency\bin\Debug\net5.0\ref\03. Travel Agency.dll
+D:\C# Projects\ARC - massivs\03. Travel Agency\bin\Debug\net5.0\03. Travel Agency.pdb
+D:\C# Projects\ARC - massivs\03. Travel Agency\obj\Debug\net5.0\03. Travel Agency.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\ARC - massivs\03. Travel Agency\obj\Debug\net5.0\03. Travel Agency.AssemblyInfoInputs.cache
+D:\C# Projects\ARC - massivs\03. Travel Agency\obj\Debug\net5.0\03. Travel Agency.AssemblyInfo.cs
+D:\C# Projects\ARC - massivs\03. Travel Agency\obj\Debug\net5.0\03. Travel Agency.csproj.CoreCompileInputs.cache
+D:\C# Projects\ARC - massivs\03. Travel Agency\obj\Debug\net5.0\03. Travel Agency.dll
+D:\C# Projects\ARC - massivs\03. Travel Agency\obj\Debug\net5.0\ref\03. Travel Agency.dll
+D:\C# Projects\ARC - massivs\03. Travel Agency\obj\Debug\net5.0\03. Travel Agency.pdb
+D:\C# Projects\ARC - massivs\03. Travel Agency\obj\Debug\net5.0\03. Travel Agency.genruntimeconfig.cache
+D:\C# Projects\ARC - massivs\03. Travel Agency\obj\Debug\net5.0\03. Travel Agency.csproj.AssemblyReference.cache

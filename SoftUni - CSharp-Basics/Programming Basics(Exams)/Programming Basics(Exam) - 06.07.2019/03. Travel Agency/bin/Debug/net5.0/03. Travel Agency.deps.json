@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "03. Travel Agency/1.0.0": {
+        "runtime": {
+          "03. Travel Agency.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "03. Travel Agency/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
