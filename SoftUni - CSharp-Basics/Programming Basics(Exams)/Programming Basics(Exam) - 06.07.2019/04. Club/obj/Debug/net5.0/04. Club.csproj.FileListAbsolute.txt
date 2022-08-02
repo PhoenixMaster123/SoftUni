@@ -1,0 +1,16 @@
+D:\C# Projects\ARC - massivs\04. Club\bin\Debug\net5.0\04. Club.exe
+D:\C# Projects\ARC - massivs\04. Club\bin\Debug\net5.0\04. Club.deps.json
+D:\C# Projects\ARC - massivs\04. Club\bin\Debug\net5.0\04. Club.runtimeconfig.json
+D:\C# Projects\ARC - massivs\04. Club\bin\Debug\net5.0\04. Club.runtimeconfig.dev.json
+D:\C# Projects\ARC - massivs\04. Club\bin\Debug\net5.0\04. Club.dll
+D:\C# Projects\ARC - massivs\04. Club\bin\Debug\net5.0\ref\04. Club.dll
+D:\C# Projects\ARC - massivs\04. Club\bin\Debug\net5.0\04. Club.pdb
+D:\C# Projects\ARC - massivs\04. Club\obj\Debug\net5.0\04. Club.csproj.AssemblyReference.cache
+D:\C# Projects\ARC - massivs\04. Club\obj\Debug\net5.0\04. Club.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\ARC - massivs\04. Club\obj\Debug\net5.0\04. Club.AssemblyInfoInputs.cache
+D:\C# Projects\ARC - massivs\04. Club\obj\Debug\net5.0\04. Club.AssemblyInfo.cs
+D:\C# Projects\ARC - massivs\04. Club\obj\Debug\net5.0\04. Club.csproj.CoreCompileInputs.cache
+D:\C# Projects\ARC - massivs\04. Club\obj\Debug\net5.0\04. Club.dll
+D:\C# Projects\ARC - massivs\04. Club\obj\Debug\net5.0\ref\04. Club.dll
+D:\C# Projects\ARC - massivs\04. Club\obj\Debug\net5.0\04. Club.pdb
+D:\C# Projects\ARC - massivs\04. Club\obj\Debug\net5.0\04. Club.genruntimeconfig.cache
