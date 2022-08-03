@@ -1,0 +1,16 @@
+D:\C# Projects\ARC - massivs\04. Renovation\bin\Debug\net5.0\04. Renovation.exe
+D:\C# Projects\ARC - massivs\04. Renovation\bin\Debug\net5.0\04. Renovation.deps.json
+D:\C# Projects\ARC - massivs\04. Renovation\bin\Debug\net5.0\04. Renovation.runtimeconfig.json
+D:\C# Projects\ARC - massivs\04. Renovation\bin\Debug\net5.0\04. Renovation.runtimeconfig.dev.json
+D:\C# Projects\ARC - massivs\04. Renovation\bin\Debug\net5.0\04. Renovation.dll
+D:\C# Projects\ARC - massivs\04. Renovation\bin\Debug\net5.0\ref\04. Renovation.dll
+D:\C# Projects\ARC - massivs\04. Renovation\bin\Debug\net5.0\04. Renovation.pdb
+D:\C# Projects\ARC - massivs\04. Renovation\obj\Debug\net5.0\04. Renovation.csproj.AssemblyReference.cache
+D:\C# Projects\ARC - massivs\04. Renovation\obj\Debug\net5.0\04. Renovation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\ARC - massivs\04. Renovation\obj\Debug\net5.0\04. Renovation.AssemblyInfoInputs.cache
+D:\C# Projects\ARC - massivs\04. Renovation\obj\Debug\net5.0\04. Renovation.AssemblyInfo.cs
+D:\C# Projects\ARC - massivs\04. Renovation\obj\Debug\net5.0\04. Renovation.csproj.CoreCompileInputs.cache
+D:\C# Projects\ARC - massivs\04. Renovation\obj\Debug\net5.0\04. Renovation.dll
+D:\C# Projects\ARC - massivs\04. Renovation\obj\Debug\net5.0\ref\04. Renovation.dll
+D:\C# Projects\ARC - massivs\04. Renovation\obj\Debug\net5.0\04. Renovation.pdb
+D:\C# Projects\ARC - massivs\04. Renovation\obj\Debug\net5.0\04. Renovation.genruntimeconfig.cache
