@@ -40,7 +40,6 @@ namespace _01._Lootbox
                     {
                         Console.WriteLine("First lootbox is empty");
                         break;
-
                     }
                     else
                     {                     
@@ -60,12 +59,10 @@ namespace _01._Lootbox
                             break;
                         }
                         else
-                        {
-                           
+                        {                           
                            currentElementSecondBox = stackSecondLootBox.Peek();
                         }
-                       
-                    
+                                  
                     sum = currentElementFirstBox + currentElementSecondBox;
 
                 }
