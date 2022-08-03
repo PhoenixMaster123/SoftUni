@@ -1,0 +1,15 @@
+D:\C# Projects\ARC - massivs\05. PC Game Shop\bin\Debug\net5.0\05. PC Game Shop.exe
+D:\C# Projects\ARC - massivs\05. PC Game Shop\bin\Debug\net5.0\05. PC Game Shop.deps.json
+D:\C# Projects\ARC - massivs\05. PC Game Shop\bin\Debug\net5.0\05. PC Game Shop.runtimeconfig.json
+D:\C# Projects\ARC - massivs\05. PC Game Shop\bin\Debug\net5.0\05. PC Game Shop.runtimeconfig.dev.json
+D:\C# Projects\ARC - massivs\05. PC Game Shop\bin\Debug\net5.0\05. PC Game Shop.dll
+D:\C# Projects\ARC - massivs\05. PC Game Shop\bin\Debug\net5.0\ref\05. PC Game Shop.dll
+D:\C# Projects\ARC - massivs\05. PC Game Shop\bin\Debug\net5.0\05. PC Game Shop.pdb
+D:\C# Projects\ARC - massivs\05. PC Game Shop\obj\Debug\net5.0\05. PC Game Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\ARC - massivs\05. PC Game Shop\obj\Debug\net5.0\05. PC Game Shop.AssemblyInfoInputs.cache
+D:\C# Projects\ARC - massivs\05. PC Game Shop\obj\Debug\net5.0\05. PC Game Shop.AssemblyInfo.cs
+D:\C# Projects\ARC - massivs\05. PC Game Shop\obj\Debug\net5.0\05. PC Game Shop.csproj.CoreCompileInputs.cache
+D:\C# Projects\ARC - massivs\05. PC Game Shop\obj\Debug\net5.0\05. PC Game Shop.dll
+D:\C# Projects\ARC - massivs\05. PC Game Shop\obj\Debug\net5.0\ref\05. PC Game Shop.dll
+D:\C# Projects\ARC - massivs\05. PC Game Shop\obj\Debug\net5.0\05. PC Game Shop.pdb
+D:\C# Projects\ARC - massivs\05. PC Game Shop\obj\Debug\net5.0\05. PC Game Shop.genruntimeconfig.cache
