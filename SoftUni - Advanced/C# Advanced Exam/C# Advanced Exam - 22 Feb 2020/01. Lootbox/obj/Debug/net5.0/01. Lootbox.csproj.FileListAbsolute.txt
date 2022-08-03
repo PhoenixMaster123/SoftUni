@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Lootbox\bin\Debug\net5.0\01. Lootbox.exe
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Lootbox\bin\Debug\net5.0\01. Lootbox.deps.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Lootbox\bin\Debug\net5.0\01. Lootbox.runtimeconfig.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Lootbox\bin\Debug\net5.0\01. Lootbox.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Lootbox\bin\Debug\net5.0\01. Lootbox.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Lootbox\bin\Debug\net5.0\ref\01. Lootbox.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Lootbox\bin\Debug\net5.0\01. Lootbox.pdb
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Lootbox\obj\Debug\net5.0\01. Lootbox.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Lootbox\obj\Debug\net5.0\01. Lootbox.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Lootbox\obj\Debug\net5.0\01. Lootbox.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Lootbox\obj\Debug\net5.0\01. Lootbox.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Lootbox\obj\Debug\net5.0\01. Lootbox.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Lootbox\obj\Debug\net5.0\01. Lootbox.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Lootbox\obj\Debug\net5.0\ref\01. Lootbox.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Lootbox\obj\Debug\net5.0\01. Lootbox.pdb
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Lootbox\obj\Debug\net5.0\01. Lootbox.genruntimeconfig.cache
