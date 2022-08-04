@@ -22,7 +22,6 @@ namespace _01._Tiles_Master
                 {"Wall",0},
                 {"Floor",0}
             };
-
             int currentGreyTitle = queueGray.Peek();
             int currentWhiteTitle = stackWhite.Peek();
             int sum = 0;
