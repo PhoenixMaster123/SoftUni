@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\ExamExercises\T1 - Agency Profit\bin\Debug\netcoreapp2.1\T1 - Agency Profit.deps.json
+C:\Users\Kris\source\repos\ExamExercises\T1 - Agency Profit\bin\Debug\netcoreapp2.1\T1 - Agency Profit.runtimeconfig.json
+C:\Users\Kris\source\repos\ExamExercises\T1 - Agency Profit\bin\Debug\netcoreapp2.1\T1 - Agency Profit.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\ExamExercises\T1 - Agency Profit\bin\Debug\netcoreapp2.1\T1 - Agency Profit.dll
+C:\Users\Kris\source\repos\ExamExercises\T1 - Agency Profit\bin\Debug\netcoreapp2.1\T1 - Agency Profit.pdb
+C:\Users\Kris\source\repos\ExamExercises\T1 - Agency Profit\obj\Debug\netcoreapp2.1\T1 - Agency Profit.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\ExamExercises\T1 - Agency Profit\obj\Debug\netcoreapp2.1\T1 - Agency Profit.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\ExamExercises\T1 - Agency Profit\obj\Debug\netcoreapp2.1\T1 - Agency Profit.AssemblyInfo.cs
+C:\Users\Kris\source\repos\ExamExercises\T1 - Agency Profit\obj\Debug\netcoreapp2.1\T1 - Agency Profit.dll
+C:\Users\Kris\source\repos\ExamExercises\T1 - Agency Profit\obj\Debug\netcoreapp2.1\T1 - Agency Profit.pdb
