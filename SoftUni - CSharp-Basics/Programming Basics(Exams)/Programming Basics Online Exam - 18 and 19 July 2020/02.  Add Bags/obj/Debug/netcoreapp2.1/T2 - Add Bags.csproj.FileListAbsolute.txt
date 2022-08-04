@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\ExamExercises\T2 - Add Bags\bin\Debug\netcoreapp2.1\T2 - Add Bags.deps.json
+C:\Users\Kris\source\repos\ExamExercises\T2 - Add Bags\bin\Debug\netcoreapp2.1\T2 - Add Bags.runtimeconfig.json
+C:\Users\Kris\source\repos\ExamExercises\T2 - Add Bags\bin\Debug\netcoreapp2.1\T2 - Add Bags.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\ExamExercises\T2 - Add Bags\bin\Debug\netcoreapp2.1\T2 - Add Bags.dll
+C:\Users\Kris\source\repos\ExamExercises\T2 - Add Bags\bin\Debug\netcoreapp2.1\T2 - Add Bags.pdb
+C:\Users\Kris\source\repos\ExamExercises\T2 - Add Bags\obj\Debug\netcoreapp2.1\T2 - Add Bags.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\ExamExercises\T2 - Add Bags\obj\Debug\netcoreapp2.1\T2 - Add Bags.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\ExamExercises\T2 - Add Bags\obj\Debug\netcoreapp2.1\T2 - Add Bags.AssemblyInfo.cs
+C:\Users\Kris\source\repos\ExamExercises\T2 - Add Bags\obj\Debug\netcoreapp2.1\T2 - Add Bags.dll
+C:\Users\Kris\source\repos\ExamExercises\T2 - Add Bags\obj\Debug\netcoreapp2.1\T2 - Add Bags.pdb
