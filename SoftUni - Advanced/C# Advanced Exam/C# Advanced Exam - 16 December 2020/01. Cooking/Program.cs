@@ -160,7 +160,6 @@ namespace _01._Cooking
             {
                 Console.WriteLine($"{item.Key}: {item.Value}");
             }
-
         }
     }
 }
