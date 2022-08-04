@@ -1,0 +1,32 @@
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Exam Preparation\01. Meal Plan\bin\Debug\net5.0\01. Meal Plan.exe
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Exam Preparation\01. Meal Plan\bin\Debug\net5.0\01. Meal Plan.deps.json
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Exam Preparation\01. Meal Plan\bin\Debug\net5.0\01. Meal Plan.runtimeconfig.json
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Exam Preparation\01. Meal Plan\bin\Debug\net5.0\01. Meal Plan.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Exam Preparation\01. Meal Plan\bin\Debug\net5.0\01. Meal Plan.dll
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Exam Preparation\01. Meal Plan\bin\Debug\net5.0\ref\01. Meal Plan.dll
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Exam Preparation\01. Meal Plan\bin\Debug\net5.0\01. Meal Plan.pdb
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Exam Preparation\01. Meal Plan\obj\Debug\net5.0\01. Meal Plan.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Exam Preparation\01. Meal Plan\obj\Debug\net5.0\01. Meal Plan.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Exam Preparation\01. Meal Plan\obj\Debug\net5.0\01. Meal Plan.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Exam Preparation\01. Meal Plan\obj\Debug\net5.0\01. Meal Plan.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Exam Preparation\01. Meal Plan\obj\Debug\net5.0\01. Meal Plan.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Exam Preparation\01. Meal Plan\obj\Debug\net5.0\01. Meal Plan.dll
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Exam Preparation\01. Meal Plan\obj\Debug\net5.0\ref\01. Meal Plan.dll
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Exam Preparation\01. Meal Plan\obj\Debug\net5.0\01. Meal Plan.pdb
+D:\SoftUni Advance + OOP\Streams, Files and Directories\Exam Preparation\01. Meal Plan\obj\Debug\net5.0\01. Meal Plan.genruntimeconfig.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Meal Plan\obj\Debug\net5.0\01. Meal Plan.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Meal Plan\obj\Debug\net5.0\01. Meal Plan.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Meal Plan\obj\Debug\net5.0\01. Meal Plan.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Meal Plan\obj\Debug\net5.0\01. Meal Plan.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Meal Plan\obj\Debug\net5.0\01. Meal Plan.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Meal Plan\obj\Debug\net5.0\01. Meal Plan.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Meal Plan\obj\Debug\net5.0\ref\01. Meal Plan.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Meal Plan\obj\Debug\net5.0\01. Meal Plan.pdb
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Meal Plan\bin\Debug\net5.0\01. Meal Plan.exe
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Meal Plan\bin\Debug\net5.0\01. Meal Plan.deps.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Meal Plan\bin\Debug\net5.0\01. Meal Plan.runtimeconfig.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Meal Plan\bin\Debug\net5.0\01. Meal Plan.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Meal Plan\bin\Debug\net5.0\01. Meal Plan.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Meal Plan\bin\Debug\net5.0\ref\01. Meal Plan.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Meal Plan\bin\Debug\net5.0\01. Meal Plan.pdb
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\01. Meal Plan\obj\Debug\net5.0\01. Meal Plan.genruntimeconfig.cache
