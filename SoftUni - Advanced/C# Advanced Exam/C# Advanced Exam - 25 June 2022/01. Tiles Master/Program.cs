@@ -8,8 +8,6 @@ namespace _01._Tiles_Master
     {
         static void Main(string[] args)
         {
-
-
             int[] areasWhiteTiles = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
             int[] areasGreyTiles = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
 
