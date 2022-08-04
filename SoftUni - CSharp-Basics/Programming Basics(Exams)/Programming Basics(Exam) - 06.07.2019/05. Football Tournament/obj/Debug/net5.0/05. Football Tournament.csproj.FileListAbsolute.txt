@@ -1,0 +1,16 @@
+D:\C# Projects\ARC - massivs\05. Football Tournament\bin\Debug\net5.0\05. Football Tournament.exe
+D:\C# Projects\ARC - massivs\05. Football Tournament\bin\Debug\net5.0\05. Football Tournament.deps.json
+D:\C# Projects\ARC - massivs\05. Football Tournament\bin\Debug\net5.0\05. Football Tournament.runtimeconfig.json
+D:\C# Projects\ARC - massivs\05. Football Tournament\bin\Debug\net5.0\05. Football Tournament.runtimeconfig.dev.json
+D:\C# Projects\ARC - massivs\05. Football Tournament\bin\Debug\net5.0\05. Football Tournament.dll
+D:\C# Projects\ARC - massivs\05. Football Tournament\bin\Debug\net5.0\ref\05. Football Tournament.dll
+D:\C# Projects\ARC - massivs\05. Football Tournament\bin\Debug\net5.0\05. Football Tournament.pdb
+D:\C# Projects\ARC - massivs\05. Football Tournament\obj\Debug\net5.0\05. Football Tournament.csproj.AssemblyReference.cache
+D:\C# Projects\ARC - massivs\05. Football Tournament\obj\Debug\net5.0\05. Football Tournament.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\ARC - massivs\05. Football Tournament\obj\Debug\net5.0\05. Football Tournament.AssemblyInfoInputs.cache
+D:\C# Projects\ARC - massivs\05. Football Tournament\obj\Debug\net5.0\05. Football Tournament.AssemblyInfo.cs
+D:\C# Projects\ARC - massivs\05. Football Tournament\obj\Debug\net5.0\05. Football Tournament.csproj.CoreCompileInputs.cache
+D:\C# Projects\ARC - massivs\05. Football Tournament\obj\Debug\net5.0\05. Football Tournament.dll
+D:\C# Projects\ARC - massivs\05. Football Tournament\obj\Debug\net5.0\ref\05. Football Tournament.dll
+D:\C# Projects\ARC - massivs\05. Football Tournament\obj\Debug\net5.0\05. Football Tournament.pdb
+D:\C# Projects\ARC - massivs\05. Football Tournament\obj\Debug\net5.0\05. Football Tournament.genruntimeconfig.cache
