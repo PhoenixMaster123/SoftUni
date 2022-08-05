@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\ExamExercises\T4 - Food for Pets\bin\Debug\netcoreapp2.1\T4 - Food for Pets.deps.json
+C:\Users\Kris\source\repos\ExamExercises\T4 - Food for Pets\bin\Debug\netcoreapp2.1\T4 - Food for Pets.runtimeconfig.json
+C:\Users\Kris\source\repos\ExamExercises\T4 - Food for Pets\bin\Debug\netcoreapp2.1\T4 - Food for Pets.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\ExamExercises\T4 - Food for Pets\bin\Debug\netcoreapp2.1\T4 - Food for Pets.dll
+C:\Users\Kris\source\repos\ExamExercises\T4 - Food for Pets\bin\Debug\netcoreapp2.1\T4 - Food for Pets.pdb
+C:\Users\Kris\source\repos\ExamExercises\T4 - Food for Pets\obj\Debug\netcoreapp2.1\T4 - Food for Pets.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\ExamExercises\T4 - Food for Pets\obj\Debug\netcoreapp2.1\T4 - Food for Pets.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\ExamExercises\T4 - Food for Pets\obj\Debug\netcoreapp2.1\T4 - Food for Pets.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\ExamExercises\T4 - Food for Pets\obj\Debug\netcoreapp2.1\T4 - Food for Pets.AssemblyInfo.cs
+C:\Users\Kris\source\repos\ExamExercises\T4 - Food for Pets\obj\Debug\netcoreapp2.1\T4 - Food for Pets.dll
+C:\Users\Kris\source\repos\ExamExercises\T4 - Food for Pets\obj\Debug\netcoreapp2.1\T4 - Food for Pets.pdb
