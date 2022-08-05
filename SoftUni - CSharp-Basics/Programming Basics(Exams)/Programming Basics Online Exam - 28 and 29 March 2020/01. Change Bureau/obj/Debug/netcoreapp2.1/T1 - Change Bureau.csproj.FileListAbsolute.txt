@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\ExamExercises\T1 - Change Bureau\bin\Debug\netcoreapp2.1\T1 - Change Bureau.deps.json
+C:\Users\Kris\source\repos\ExamExercises\T1 - Change Bureau\bin\Debug\netcoreapp2.1\T1 - Change Bureau.runtimeconfig.json
+C:\Users\Kris\source\repos\ExamExercises\T1 - Change Bureau\bin\Debug\netcoreapp2.1\T1 - Change Bureau.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\ExamExercises\T1 - Change Bureau\bin\Debug\netcoreapp2.1\T1 - Change Bureau.dll
+C:\Users\Kris\source\repos\ExamExercises\T1 - Change Bureau\bin\Debug\netcoreapp2.1\T1 - Change Bureau.pdb
+C:\Users\Kris\source\repos\ExamExercises\T1 - Change Bureau\obj\Debug\netcoreapp2.1\T1 - Change Bureau.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\ExamExercises\T1 - Change Bureau\obj\Debug\netcoreapp2.1\T1 - Change Bureau.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\ExamExercises\T1 - Change Bureau\obj\Debug\netcoreapp2.1\T1 - Change Bureau.AssemblyInfo.cs
+C:\Users\Kris\source\repos\ExamExercises\T1 - Change Bureau\obj\Debug\netcoreapp2.1\T1 - Change Bureau.dll
+C:\Users\Kris\source\repos\ExamExercises\T1 - Change Bureau\obj\Debug\netcoreapp2.1\T1 - Change Bureau.pdb
