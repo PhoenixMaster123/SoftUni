@@ -1,0 +1,10 @@
+C:\Users\Kris\source\repos\ExamExercises\T2 - Cat Walking\bin\Debug\netcoreapp2.1\T2 - Cat Walking.deps.json
+C:\Users\Kris\source\repos\ExamExercises\T2 - Cat Walking\bin\Debug\netcoreapp2.1\T2 - Cat Walking.runtimeconfig.json
+C:\Users\Kris\source\repos\ExamExercises\T2 - Cat Walking\bin\Debug\netcoreapp2.1\T2 - Cat Walking.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\ExamExercises\T2 - Cat Walking\bin\Debug\netcoreapp2.1\T2 - Cat Walking.dll
+C:\Users\Kris\source\repos\ExamExercises\T2 - Cat Walking\bin\Debug\netcoreapp2.1\T2 - Cat Walking.pdb
+C:\Users\Kris\source\repos\ExamExercises\T2 - Cat Walking\obj\Debug\netcoreapp2.1\T2 - Cat Walking.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\ExamExercises\T2 - Cat Walking\obj\Debug\netcoreapp2.1\T2 - Cat Walking.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\ExamExercises\T2 - Cat Walking\obj\Debug\netcoreapp2.1\T2 - Cat Walking.AssemblyInfo.cs
+C:\Users\Kris\source\repos\ExamExercises\T2 - Cat Walking\obj\Debug\netcoreapp2.1\T2 - Cat Walking.dll
+C:\Users\Kris\source\repos\ExamExercises\T2 - Cat Walking\obj\Debug\netcoreapp2.1\T2 - Cat Walking.pdb
