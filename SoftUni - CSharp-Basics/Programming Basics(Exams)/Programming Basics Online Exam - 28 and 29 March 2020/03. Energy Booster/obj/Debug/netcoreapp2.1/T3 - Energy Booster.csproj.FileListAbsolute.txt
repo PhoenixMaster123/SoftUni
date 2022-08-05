@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\ExamExercises\T3 - Energy Booster\bin\Debug\netcoreapp2.1\T3 - Energy Booster.deps.json
+C:\Users\Kris\source\repos\ExamExercises\T3 - Energy Booster\bin\Debug\netcoreapp2.1\T3 - Energy Booster.runtimeconfig.json
+C:\Users\Kris\source\repos\ExamExercises\T3 - Energy Booster\bin\Debug\netcoreapp2.1\T3 - Energy Booster.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\ExamExercises\T3 - Energy Booster\bin\Debug\netcoreapp2.1\T3 - Energy Booster.dll
+C:\Users\Kris\source\repos\ExamExercises\T3 - Energy Booster\bin\Debug\netcoreapp2.1\T3 - Energy Booster.pdb
+C:\Users\Kris\source\repos\ExamExercises\T3 - Energy Booster\obj\Debug\netcoreapp2.1\T3 - Energy Booster.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\ExamExercises\T3 - Energy Booster\obj\Debug\netcoreapp2.1\T3 - Energy Booster.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\ExamExercises\T3 - Energy Booster\obj\Debug\netcoreapp2.1\T3 - Energy Booster.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\ExamExercises\T3 - Energy Booster\obj\Debug\netcoreapp2.1\T3 - Energy Booster.AssemblyInfo.cs
+C:\Users\Kris\source\repos\ExamExercises\T3 - Energy Booster\obj\Debug\netcoreapp2.1\T3 - Energy Booster.dll
+C:\Users\Kris\source\repos\ExamExercises\T3 - Energy Booster\obj\Debug\netcoreapp2.1\T3 - Energy Booster.pdb
