@@ -1,0 +1,11 @@
+C:\Users\Kris\source\repos\ExamExercises\T5 - Care of Puppy\bin\Debug\netcoreapp2.1\T5 - Care of Puppy.deps.json
+C:\Users\Kris\source\repos\ExamExercises\T5 - Care of Puppy\bin\Debug\netcoreapp2.1\T5 - Care of Puppy.runtimeconfig.json
+C:\Users\Kris\source\repos\ExamExercises\T5 - Care of Puppy\bin\Debug\netcoreapp2.1\T5 - Care of Puppy.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\ExamExercises\T5 - Care of Puppy\bin\Debug\netcoreapp2.1\T5 - Care of Puppy.dll
+C:\Users\Kris\source\repos\ExamExercises\T5 - Care of Puppy\bin\Debug\netcoreapp2.1\T5 - Care of Puppy.pdb
+C:\Users\Kris\source\repos\ExamExercises\T5 - Care of Puppy\obj\Debug\netcoreapp2.1\T5 - Care of Puppy.csprojAssemblyReference.cache
+C:\Users\Kris\source\repos\ExamExercises\T5 - Care of Puppy\obj\Debug\netcoreapp2.1\T5 - Care of Puppy.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\ExamExercises\T5 - Care of Puppy\obj\Debug\netcoreapp2.1\T5 - Care of Puppy.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\ExamExercises\T5 - Care of Puppy\obj\Debug\netcoreapp2.1\T5 - Care of Puppy.AssemblyInfo.cs
+C:\Users\Kris\source\repos\ExamExercises\T5 - Care of Puppy\obj\Debug\netcoreapp2.1\T5 - Care of Puppy.dll
+C:\Users\Kris\source\repos\ExamExercises\T5 - Care of Puppy\obj\Debug\netcoreapp2.1\T5 - Care of Puppy.pdb
