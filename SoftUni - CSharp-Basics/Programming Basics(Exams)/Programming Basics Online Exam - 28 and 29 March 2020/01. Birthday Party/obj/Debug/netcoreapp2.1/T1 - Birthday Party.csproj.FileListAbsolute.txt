@@ -1,0 +1,13 @@
+D:\C# Projects\ExamExercises\T1 - Birthday Party\bin\Debug\netcoreapp2.1\T1 - Birthday Party.deps.json
+D:\C# Projects\ExamExercises\T1 - Birthday Party\bin\Debug\netcoreapp2.1\T1 - Birthday Party.runtimeconfig.json
+D:\C# Projects\ExamExercises\T1 - Birthday Party\bin\Debug\netcoreapp2.1\T1 - Birthday Party.runtimeconfig.dev.json
+D:\C# Projects\ExamExercises\T1 - Birthday Party\bin\Debug\netcoreapp2.1\T1 - Birthday Party.dll
+D:\C# Projects\ExamExercises\T1 - Birthday Party\bin\Debug\netcoreapp2.1\T1 - Birthday Party.pdb
+D:\C# Projects\ExamExercises\T1 - Birthday Party\obj\Debug\netcoreapp2.1\T1 - Birthday Party.csproj.AssemblyReference.cache
+D:\C# Projects\ExamExercises\T1 - Birthday Party\obj\Debug\netcoreapp2.1\T1 - Birthday Party.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\ExamExercises\T1 - Birthday Party\obj\Debug\netcoreapp2.1\T1 - Birthday Party.AssemblyInfoInputs.cache
+D:\C# Projects\ExamExercises\T1 - Birthday Party\obj\Debug\netcoreapp2.1\T1 - Birthday Party.AssemblyInfo.cs
+D:\C# Projects\ExamExercises\T1 - Birthday Party\obj\Debug\netcoreapp2.1\T1 - Birthday Party.csproj.CoreCompileInputs.cache
+D:\C# Projects\ExamExercises\T1 - Birthday Party\obj\Debug\netcoreapp2.1\T1 - Birthday Party.dll
+D:\C# Projects\ExamExercises\T1 - Birthday Party\obj\Debug\netcoreapp2.1\T1 - Birthday Party.pdb
+D:\C# Projects\ExamExercises\T1 - Birthday Party\obj\Debug\netcoreapp2.1\T1 - Birthday Party.genruntimeconfig.cache
