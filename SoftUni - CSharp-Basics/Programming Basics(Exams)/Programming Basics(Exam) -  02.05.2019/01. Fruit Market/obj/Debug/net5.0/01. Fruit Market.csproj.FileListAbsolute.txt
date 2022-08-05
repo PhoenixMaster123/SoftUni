@@ -1,0 +1,16 @@
+D:\C# Projects\ExamExercises\01. Fruit Market\bin\Debug\net5.0\01. Fruit Market.exe
+D:\C# Projects\ExamExercises\01. Fruit Market\bin\Debug\net5.0\01. Fruit Market.deps.json
+D:\C# Projects\ExamExercises\01. Fruit Market\bin\Debug\net5.0\01. Fruit Market.runtimeconfig.json
+D:\C# Projects\ExamExercises\01. Fruit Market\bin\Debug\net5.0\01. Fruit Market.runtimeconfig.dev.json
+D:\C# Projects\ExamExercises\01. Fruit Market\bin\Debug\net5.0\01. Fruit Market.dll
+D:\C# Projects\ExamExercises\01. Fruit Market\bin\Debug\net5.0\ref\01. Fruit Market.dll
+D:\C# Projects\ExamExercises\01. Fruit Market\bin\Debug\net5.0\01. Fruit Market.pdb
+D:\C# Projects\ExamExercises\01. Fruit Market\obj\Debug\net5.0\01. Fruit Market.csproj.AssemblyReference.cache
+D:\C# Projects\ExamExercises\01. Fruit Market\obj\Debug\net5.0\01. Fruit Market.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\ExamExercises\01. Fruit Market\obj\Debug\net5.0\01. Fruit Market.AssemblyInfoInputs.cache
+D:\C# Projects\ExamExercises\01. Fruit Market\obj\Debug\net5.0\01. Fruit Market.AssemblyInfo.cs
+D:\C# Projects\ExamExercises\01. Fruit Market\obj\Debug\net5.0\01. Fruit Market.csproj.CoreCompileInputs.cache
+D:\C# Projects\ExamExercises\01. Fruit Market\obj\Debug\net5.0\01. Fruit Market.dll
+D:\C# Projects\ExamExercises\01. Fruit Market\obj\Debug\net5.0\ref\01. Fruit Market.dll
+D:\C# Projects\ExamExercises\01. Fruit Market\obj\Debug\net5.0\01. Fruit Market.pdb
+D:\C# Projects\ExamExercises\01. Fruit Market\obj\Debug\net5.0\01. Fruit Market.genruntimeconfig.cache
