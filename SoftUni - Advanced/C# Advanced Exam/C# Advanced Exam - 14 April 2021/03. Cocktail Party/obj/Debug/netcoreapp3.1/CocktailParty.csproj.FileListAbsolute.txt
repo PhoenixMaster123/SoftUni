@@ -1,0 +1,14 @@
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Skeleton\bin\Debug\netcoreapp3.1\CocktailParty.exe
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Skeleton\bin\Debug\netcoreapp3.1\CocktailParty.deps.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Skeleton\bin\Debug\netcoreapp3.1\CocktailParty.runtimeconfig.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Skeleton\bin\Debug\netcoreapp3.1\CocktailParty.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Skeleton\bin\Debug\netcoreapp3.1\CocktailParty.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Skeleton\bin\Debug\netcoreapp3.1\CocktailParty.pdb
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.pdb
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.genruntimeconfig.cache
