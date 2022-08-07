@@ -1,0 +1,14 @@
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. Ski Rental\obj\Debug\netcoreapp3.1\SkiRental.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. Ski Rental\obj\Debug\netcoreapp3.1\SkiRental.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. Ski Rental\obj\Debug\netcoreapp3.1\SkiRental.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. Ski Rental\obj\Debug\netcoreapp3.1\SkiRental.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. Ski Rental\obj\Debug\netcoreapp3.1\SkiRental.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. Ski Rental\bin\Debug\netcoreapp3.1\SkiRental.exe
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. Ski Rental\bin\Debug\netcoreapp3.1\SkiRental.deps.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. Ski Rental\bin\Debug\netcoreapp3.1\SkiRental.runtimeconfig.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. Ski Rental\bin\Debug\netcoreapp3.1\SkiRental.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. Ski Rental\bin\Debug\netcoreapp3.1\SkiRental.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. Ski Rental\bin\Debug\netcoreapp3.1\SkiRental.pdb
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. Ski Rental\obj\Debug\netcoreapp3.1\SkiRental.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. Ski Rental\obj\Debug\netcoreapp3.1\SkiRental.pdb
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. Ski Rental\obj\Debug\netcoreapp3.1\SkiRental.genruntimeconfig.cache
