@@ -1,0 +1,14 @@
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Guild\bin\Debug\netcoreapp3.0\Guild.exe
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Guild\bin\Debug\netcoreapp3.0\Guild.deps.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Guild\bin\Debug\netcoreapp3.0\Guild.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Guild\bin\Debug\netcoreapp3.0\Guild.pdb
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Guild\obj\Debug\netcoreapp3.0\Guild.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Guild\obj\Debug\netcoreapp3.0\Guild.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Guild\obj\Debug\netcoreapp3.0\Guild.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Guild\obj\Debug\netcoreapp3.0\Guild.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Guild\obj\Debug\netcoreapp3.0\Guild.pdb
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Guild\obj\Debug\netcoreapp3.0\Guild.genruntimeconfig.cache
