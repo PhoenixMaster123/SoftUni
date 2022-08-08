@@ -1,0 +1,16 @@
+D:\C# Projects\ARC - massivs\02. Mountain Run\obj\Debug\net5.0\02. Mountain Run.csproj.AssemblyReference.cache
+D:\C# Projects\ARC - massivs\02. Mountain Run\obj\Debug\net5.0\02. Mountain Run.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\ARC - massivs\02. Mountain Run\obj\Debug\net5.0\02. Mountain Run.AssemblyInfoInputs.cache
+D:\C# Projects\ARC - massivs\02. Mountain Run\obj\Debug\net5.0\02. Mountain Run.AssemblyInfo.cs
+D:\C# Projects\ARC - massivs\02. Mountain Run\obj\Debug\net5.0\02. Mountain Run.csproj.CoreCompileInputs.cache
+D:\C# Projects\ARC - massivs\02. Mountain Run\bin\Debug\net5.0\02. Mountain Run.exe
+D:\C# Projects\ARC - massivs\02. Mountain Run\bin\Debug\net5.0\02. Mountain Run.deps.json
+D:\C# Projects\ARC - massivs\02. Mountain Run\bin\Debug\net5.0\02. Mountain Run.runtimeconfig.json
+D:\C# Projects\ARC - massivs\02. Mountain Run\bin\Debug\net5.0\02. Mountain Run.runtimeconfig.dev.json
+D:\C# Projects\ARC - massivs\02. Mountain Run\bin\Debug\net5.0\02. Mountain Run.dll
+D:\C# Projects\ARC - massivs\02. Mountain Run\bin\Debug\net5.0\ref\02. Mountain Run.dll
+D:\C# Projects\ARC - massivs\02. Mountain Run\bin\Debug\net5.0\02. Mountain Run.pdb
+D:\C# Projects\ARC - massivs\02. Mountain Run\obj\Debug\net5.0\02. Mountain Run.dll
+D:\C# Projects\ARC - massivs\02. Mountain Run\obj\Debug\net5.0\ref\02. Mountain Run.dll
+D:\C# Projects\ARC - massivs\02. Mountain Run\obj\Debug\net5.0\02. Mountain Run.pdb
+D:\C# Projects\ARC - massivs\02. Mountain Run\obj\Debug\net5.0\02. Mountain Run.genruntimeconfig.cache
