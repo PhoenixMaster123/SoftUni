@@ -1,0 +1,14 @@
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. The Race\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.exe
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. The Race\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.deps.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. The Race\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. The Race\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. The Race\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. The Race\The Race - skeleton\bin\Debug\netcoreapp3.1\TheRace.pdb
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. The Race\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. The Race\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. The Race\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. The Race\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. The Race\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. The Race\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. The Race\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.pdb
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\03. The Race\The Race - skeleton\obj\Debug\netcoreapp3.1\TheRace.genruntimeconfig.cache
