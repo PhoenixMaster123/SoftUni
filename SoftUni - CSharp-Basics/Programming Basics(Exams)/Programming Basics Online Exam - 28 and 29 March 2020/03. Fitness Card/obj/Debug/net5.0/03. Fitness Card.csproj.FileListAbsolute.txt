@@ -1,0 +1,16 @@
+D:\C# Projects\ARC - massivs\03. Fitness Card\bin\Debug\net5.0\03. Fitness Card.exe
+D:\C# Projects\ARC - massivs\03. Fitness Card\bin\Debug\net5.0\03. Fitness Card.deps.json
+D:\C# Projects\ARC - massivs\03. Fitness Card\bin\Debug\net5.0\03. Fitness Card.runtimeconfig.json
+D:\C# Projects\ARC - massivs\03. Fitness Card\bin\Debug\net5.0\03. Fitness Card.runtimeconfig.dev.json
+D:\C# Projects\ARC - massivs\03. Fitness Card\bin\Debug\net5.0\03. Fitness Card.dll
+D:\C# Projects\ARC - massivs\03. Fitness Card\bin\Debug\net5.0\ref\03. Fitness Card.dll
+D:\C# Projects\ARC - massivs\03. Fitness Card\bin\Debug\net5.0\03. Fitness Card.pdb
+D:\C# Projects\ARC - massivs\03. Fitness Card\obj\Debug\net5.0\03. Fitness Card.csproj.AssemblyReference.cache
+D:\C# Projects\ARC - massivs\03. Fitness Card\obj\Debug\net5.0\03. Fitness Card.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\ARC - massivs\03. Fitness Card\obj\Debug\net5.0\03. Fitness Card.AssemblyInfoInputs.cache
+D:\C# Projects\ARC - massivs\03. Fitness Card\obj\Debug\net5.0\03. Fitness Card.AssemblyInfo.cs
+D:\C# Projects\ARC - massivs\03. Fitness Card\obj\Debug\net5.0\03. Fitness Card.csproj.CoreCompileInputs.cache
+D:\C# Projects\ARC - massivs\03. Fitness Card\obj\Debug\net5.0\03. Fitness Card.dll
+D:\C# Projects\ARC - massivs\03. Fitness Card\obj\Debug\net5.0\ref\03. Fitness Card.dll
+D:\C# Projects\ARC - massivs\03. Fitness Card\obj\Debug\net5.0\03. Fitness Card.pdb
+D:\C# Projects\ARC - massivs\03. Fitness Card\obj\Debug\net5.0\03. Fitness Card.genruntimeconfig.cache
