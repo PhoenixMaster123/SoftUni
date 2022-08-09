@@ -22,8 +22,7 @@ namespace TheRace
             if(this.Data.Count < this.Capacity)
             {
                  this.Data.Add(racer);
-            }
-                  
+            }           
         }
         public bool Remove(string name)
         {
@@ -35,9 +34,7 @@ namespace TheRace
             else
             {
                 return false;
-            }
-            
-            
+            }           
         }
         public Racer GetOldestRacer()
         {
@@ -59,7 +56,7 @@ namespace TheRace
         public Racer GetFastestRacer()
         {
 
-            var fastestCar = this.Data.OrderByDescending(x=>x.Car.Speed).FirstOrDefault();
+           var fastestCar = this.Data.OrderByDescending(x=>x.Car.Speed).FirstOrDefault();
            return fastestCar;
         }
         public int Count => this.Data.Count;
