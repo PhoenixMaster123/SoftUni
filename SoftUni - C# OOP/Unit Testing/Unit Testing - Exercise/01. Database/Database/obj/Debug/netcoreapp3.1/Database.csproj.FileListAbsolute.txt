@@ -1,0 +1,10 @@
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\Database\bin\Debug\netcoreapp3.1\Database.dll
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\Database\bin\Debug\netcoreapp3.1\Database.pdb
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.dll
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.pdb
