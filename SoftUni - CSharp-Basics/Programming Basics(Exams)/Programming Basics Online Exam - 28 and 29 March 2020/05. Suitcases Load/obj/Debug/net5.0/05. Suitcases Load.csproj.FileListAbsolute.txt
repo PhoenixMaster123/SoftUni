@@ -1,0 +1,16 @@
+D:\C# Projects\ARC - massivs\05. Suitcases Load\bin\Debug\net5.0\05. Suitcases Load.exe
+D:\C# Projects\ARC - massivs\05. Suitcases Load\bin\Debug\net5.0\05. Suitcases Load.deps.json
+D:\C# Projects\ARC - massivs\05. Suitcases Load\bin\Debug\net5.0\05. Suitcases Load.runtimeconfig.json
+D:\C# Projects\ARC - massivs\05. Suitcases Load\bin\Debug\net5.0\05. Suitcases Load.runtimeconfig.dev.json
+D:\C# Projects\ARC - massivs\05. Suitcases Load\bin\Debug\net5.0\05. Suitcases Load.dll
+D:\C# Projects\ARC - massivs\05. Suitcases Load\bin\Debug\net5.0\05. Suitcases Load.pdb
+D:\C# Projects\ARC - massivs\05. Suitcases Load\obj\Debug\net5.0\05. Suitcases Load.csproj.AssemblyReference.cache
+D:\C# Projects\ARC - massivs\05. Suitcases Load\obj\Debug\net5.0\05. Suitcases Load.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\ARC - massivs\05. Suitcases Load\obj\Debug\net5.0\05. Suitcases Load.AssemblyInfoInputs.cache
+D:\C# Projects\ARC - massivs\05. Suitcases Load\obj\Debug\net5.0\05. Suitcases Load.AssemblyInfo.cs
+D:\C# Projects\ARC - massivs\05. Suitcases Load\obj\Debug\net5.0\05. Suitcases Load.csproj.CoreCompileInputs.cache
+D:\C# Projects\ARC - massivs\05. Suitcases Load\obj\Debug\net5.0\05. Suitcases Load.dll
+D:\C# Projects\ARC - massivs\05. Suitcases Load\obj\Debug\net5.0\refint\05. Suitcases Load.dll
+D:\C# Projects\ARC - massivs\05. Suitcases Load\obj\Debug\net5.0\05. Suitcases Load.pdb
+D:\C# Projects\ARC - massivs\05. Suitcases Load\obj\Debug\net5.0\05. Suitcases Load.genruntimeconfig.cache
+D:\C# Projects\ARC - massivs\05. Suitcases Load\obj\Debug\net5.0\ref\05. Suitcases Load.dll

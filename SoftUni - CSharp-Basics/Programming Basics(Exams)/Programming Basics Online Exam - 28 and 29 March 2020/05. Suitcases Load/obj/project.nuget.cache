@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u9ARscehniTlW05TMqSatAKuveta5Wm7w/JabiAumKC/mou/hciaIOuPEL6YbiD8SIjMLlBa97AyliZLefQK6g==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\ARC - massivs\\05. Suitcases Load\\05. Suitcases Load.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PhoenixMaster\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
