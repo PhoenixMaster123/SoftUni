@@ -1,0 +1,15 @@
+D:\C# Projects\ARC - massivs\04. Trekking Mania\bin\Debug\net5.0\04. Trekking Mania.exe
+D:\C# Projects\ARC - massivs\04. Trekking Mania\bin\Debug\net5.0\04. Trekking Mania.deps.json
+D:\C# Projects\ARC - massivs\04. Trekking Mania\bin\Debug\net5.0\04. Trekking Mania.runtimeconfig.json
+D:\C# Projects\ARC - massivs\04. Trekking Mania\bin\Debug\net5.0\04. Trekking Mania.runtimeconfig.dev.json
+D:\C# Projects\ARC - massivs\04. Trekking Mania\bin\Debug\net5.0\04. Trekking Mania.dll
+D:\C# Projects\ARC - massivs\04. Trekking Mania\bin\Debug\net5.0\ref\04. Trekking Mania.dll
+D:\C# Projects\ARC - massivs\04. Trekking Mania\bin\Debug\net5.0\04. Trekking Mania.pdb
+D:\C# Projects\ARC - massivs\04. Trekking Mania\obj\Debug\net5.0\04. Trekking Mania.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\ARC - massivs\04. Trekking Mania\obj\Debug\net5.0\04. Trekking Mania.AssemblyInfoInputs.cache
+D:\C# Projects\ARC - massivs\04. Trekking Mania\obj\Debug\net5.0\04. Trekking Mania.AssemblyInfo.cs
+D:\C# Projects\ARC - massivs\04. Trekking Mania\obj\Debug\net5.0\04. Trekking Mania.csproj.CoreCompileInputs.cache
+D:\C# Projects\ARC - massivs\04. Trekking Mania\obj\Debug\net5.0\04. Trekking Mania.dll
+D:\C# Projects\ARC - massivs\04. Trekking Mania\obj\Debug\net5.0\ref\04. Trekking Mania.dll
+D:\C# Projects\ARC - massivs\04. Trekking Mania\obj\Debug\net5.0\04. Trekking Mania.pdb
+D:\C# Projects\ARC - massivs\04. Trekking Mania\obj\Debug\net5.0\04. Trekking Mania.genruntimeconfig.cache
