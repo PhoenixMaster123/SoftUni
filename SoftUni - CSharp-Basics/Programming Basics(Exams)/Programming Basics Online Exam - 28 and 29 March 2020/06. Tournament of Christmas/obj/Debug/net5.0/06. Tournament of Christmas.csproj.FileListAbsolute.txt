@@ -1,0 +1,16 @@
+D:\C# Projects\ARC - massivs\06. Tournament of Christmas\bin\Debug\net5.0\06. Tournament of Christmas.exe
+D:\C# Projects\ARC - massivs\06. Tournament of Christmas\bin\Debug\net5.0\06. Tournament of Christmas.deps.json
+D:\C# Projects\ARC - massivs\06. Tournament of Christmas\bin\Debug\net5.0\06. Tournament of Christmas.runtimeconfig.json
+D:\C# Projects\ARC - massivs\06. Tournament of Christmas\bin\Debug\net5.0\06. Tournament of Christmas.runtimeconfig.dev.json
+D:\C# Projects\ARC - massivs\06. Tournament of Christmas\bin\Debug\net5.0\06. Tournament of Christmas.dll
+D:\C# Projects\ARC - massivs\06. Tournament of Christmas\bin\Debug\net5.0\06. Tournament of Christmas.pdb
+D:\C# Projects\ARC - massivs\06. Tournament of Christmas\obj\Debug\net5.0\06. Tournament of Christmas.csproj.AssemblyReference.cache
+D:\C# Projects\ARC - massivs\06. Tournament of Christmas\obj\Debug\net5.0\06. Tournament of Christmas.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\ARC - massivs\06. Tournament of Christmas\obj\Debug\net5.0\06. Tournament of Christmas.AssemblyInfoInputs.cache
+D:\C# Projects\ARC - massivs\06. Tournament of Christmas\obj\Debug\net5.0\06. Tournament of Christmas.AssemblyInfo.cs
+D:\C# Projects\ARC - massivs\06. Tournament of Christmas\obj\Debug\net5.0\06. Tournament of Christmas.csproj.CoreCompileInputs.cache
+D:\C# Projects\ARC - massivs\06. Tournament of Christmas\obj\Debug\net5.0\06. Tournament of Christmas.dll
+D:\C# Projects\ARC - massivs\06. Tournament of Christmas\obj\Debug\net5.0\refint\06. Tournament of Christmas.dll
+D:\C# Projects\ARC - massivs\06. Tournament of Christmas\obj\Debug\net5.0\06. Tournament of Christmas.pdb
+D:\C# Projects\ARC - massivs\06. Tournament of Christmas\obj\Debug\net5.0\06. Tournament of Christmas.genruntimeconfig.cache
+D:\C# Projects\ARC - massivs\06. Tournament of Christmas\obj\Debug\net5.0\ref\06. Tournament of Christmas.dll

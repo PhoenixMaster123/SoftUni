@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AUp6VLPf1KP87ze/GM9azfn4MEyYtqIUD8pSpPFUHdUZT5wI9vpnbYxMm3j1LYsxjAbcP48Y/xc0hTEe3nTABA==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\ARC - massivs\\06. Tournament of Christmas\\06. Tournament of Christmas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PhoenixMaster\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
