@@ -1,0 +1,10 @@
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.deps.json
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.dll
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.pdb
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.dll
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.pdb
