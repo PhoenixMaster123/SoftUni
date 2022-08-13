@@ -1,0 +1,10 @@
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+D:\SoftUni Advance + OOP\08. Unit Testing - OOP\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb
