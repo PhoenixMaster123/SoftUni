@@ -1,0 +1,15 @@
+D:\C# Projects\ARC - massivs\02. Movie Day\bin\Debug\net5.0\02. Movie Day.exe
+D:\C# Projects\ARC - massivs\02. Movie Day\bin\Debug\net5.0\02. Movie Day.deps.json
+D:\C# Projects\ARC - massivs\02. Movie Day\bin\Debug\net5.0\02. Movie Day.runtimeconfig.json
+D:\C# Projects\ARC - massivs\02. Movie Day\bin\Debug\net5.0\02. Movie Day.runtimeconfig.dev.json
+D:\C# Projects\ARC - massivs\02. Movie Day\bin\Debug\net5.0\02. Movie Day.dll
+D:\C# Projects\ARC - massivs\02. Movie Day\bin\Debug\net5.0\ref\02. Movie Day.dll
+D:\C# Projects\ARC - massivs\02. Movie Day\bin\Debug\net5.0\02. Movie Day.pdb
+D:\C# Projects\ARC - massivs\02. Movie Day\obj\Debug\net5.0\02. Movie Day.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\ARC - massivs\02. Movie Day\obj\Debug\net5.0\02. Movie Day.AssemblyInfoInputs.cache
+D:\C# Projects\ARC - massivs\02. Movie Day\obj\Debug\net5.0\02. Movie Day.AssemblyInfo.cs
+D:\C# Projects\ARC - massivs\02. Movie Day\obj\Debug\net5.0\02. Movie Day.csproj.CoreCompileInputs.cache
+D:\C# Projects\ARC - massivs\02. Movie Day\obj\Debug\net5.0\02. Movie Day.dll
+D:\C# Projects\ARC - massivs\02. Movie Day\obj\Debug\net5.0\ref\02. Movie Day.dll
+D:\C# Projects\ARC - massivs\02. Movie Day\obj\Debug\net5.0\02. Movie Day.pdb
+D:\C# Projects\ARC - massivs\02. Movie Day\obj\Debug\net5.0\02. Movie Day.genruntimeconfig.cache
