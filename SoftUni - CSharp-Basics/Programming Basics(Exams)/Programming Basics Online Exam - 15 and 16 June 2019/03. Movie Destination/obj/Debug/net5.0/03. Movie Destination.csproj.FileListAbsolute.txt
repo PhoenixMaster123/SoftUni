@@ -1,0 +1,16 @@
+D:\C# Projects\ARC - massivs\03. Movie Destination\bin\Debug\net5.0\03. Movie Destination.exe
+D:\C# Projects\ARC - massivs\03. Movie Destination\bin\Debug\net5.0\03. Movie Destination.deps.json
+D:\C# Projects\ARC - massivs\03. Movie Destination\bin\Debug\net5.0\03. Movie Destination.runtimeconfig.json
+D:\C# Projects\ARC - massivs\03. Movie Destination\bin\Debug\net5.0\03. Movie Destination.runtimeconfig.dev.json
+D:\C# Projects\ARC - massivs\03. Movie Destination\bin\Debug\net5.0\03. Movie Destination.dll
+D:\C# Projects\ARC - massivs\03. Movie Destination\bin\Debug\net5.0\03. Movie Destination.pdb
+D:\C# Projects\ARC - massivs\03. Movie Destination\obj\Debug\net5.0\03. Movie Destination.csproj.AssemblyReference.cache
+D:\C# Projects\ARC - massivs\03. Movie Destination\obj\Debug\net5.0\03. Movie Destination.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\ARC - massivs\03. Movie Destination\obj\Debug\net5.0\03. Movie Destination.AssemblyInfoInputs.cache
+D:\C# Projects\ARC - massivs\03. Movie Destination\obj\Debug\net5.0\03. Movie Destination.AssemblyInfo.cs
+D:\C# Projects\ARC - massivs\03. Movie Destination\obj\Debug\net5.0\03. Movie Destination.csproj.CoreCompileInputs.cache
+D:\C# Projects\ARC - massivs\03. Movie Destination\obj\Debug\net5.0\03. Movie Destination.dll
+D:\C# Projects\ARC - massivs\03. Movie Destination\obj\Debug\net5.0\refint\03. Movie Destination.dll
+D:\C# Projects\ARC - massivs\03. Movie Destination\obj\Debug\net5.0\03. Movie Destination.pdb
+D:\C# Projects\ARC - massivs\03. Movie Destination\obj\Debug\net5.0\03. Movie Destination.genruntimeconfig.cache
+D:\C# Projects\ARC - massivs\03. Movie Destination\obj\Debug\net5.0\ref\03. Movie Destination.dll
