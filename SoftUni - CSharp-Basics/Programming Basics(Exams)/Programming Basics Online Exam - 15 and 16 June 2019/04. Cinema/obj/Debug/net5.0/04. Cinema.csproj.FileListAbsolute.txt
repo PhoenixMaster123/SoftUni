@@ -1,0 +1,16 @@
+D:\C# Projects\ARC - massivs\04. Cinema\bin\Debug\net5.0\04. Cinema.exe
+D:\C# Projects\ARC - massivs\04. Cinema\bin\Debug\net5.0\04. Cinema.deps.json
+D:\C# Projects\ARC - massivs\04. Cinema\bin\Debug\net5.0\04. Cinema.runtimeconfig.json
+D:\C# Projects\ARC - massivs\04. Cinema\bin\Debug\net5.0\04. Cinema.runtimeconfig.dev.json
+D:\C# Projects\ARC - massivs\04. Cinema\bin\Debug\net5.0\04. Cinema.dll
+D:\C# Projects\ARC - massivs\04. Cinema\bin\Debug\net5.0\04. Cinema.pdb
+D:\C# Projects\ARC - massivs\04. Cinema\obj\Debug\net5.0\04. Cinema.csproj.AssemblyReference.cache
+D:\C# Projects\ARC - massivs\04. Cinema\obj\Debug\net5.0\04. Cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\ARC - massivs\04. Cinema\obj\Debug\net5.0\04. Cinema.AssemblyInfoInputs.cache
+D:\C# Projects\ARC - massivs\04. Cinema\obj\Debug\net5.0\04. Cinema.AssemblyInfo.cs
+D:\C# Projects\ARC - massivs\04. Cinema\obj\Debug\net5.0\04. Cinema.csproj.CoreCompileInputs.cache
+D:\C# Projects\ARC - massivs\04. Cinema\obj\Debug\net5.0\04. Cinema.dll
+D:\C# Projects\ARC - massivs\04. Cinema\obj\Debug\net5.0\refint\04. Cinema.dll
+D:\C# Projects\ARC - massivs\04. Cinema\obj\Debug\net5.0\04. Cinema.pdb
+D:\C# Projects\ARC - massivs\04. Cinema\obj\Debug\net5.0\04. Cinema.genruntimeconfig.cache
+D:\C# Projects\ARC - massivs\04. Cinema\obj\Debug\net5.0\ref\04. Cinema.dll
