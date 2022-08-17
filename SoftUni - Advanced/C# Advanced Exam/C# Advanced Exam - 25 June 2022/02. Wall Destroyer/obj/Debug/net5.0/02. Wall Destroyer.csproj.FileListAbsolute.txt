@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Wall Destroyer\bin\Debug\net5.0\02. Wall Destroyer.exe
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Wall Destroyer\bin\Debug\net5.0\02. Wall Destroyer.deps.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Wall Destroyer\bin\Debug\net5.0\02. Wall Destroyer.runtimeconfig.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Wall Destroyer\bin\Debug\net5.0\02. Wall Destroyer.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Wall Destroyer\bin\Debug\net5.0\02. Wall Destroyer.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Wall Destroyer\bin\Debug\net5.0\02. Wall Destroyer.pdb
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Wall Destroyer\obj\Debug\net5.0\refint\02. Wall Destroyer.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.pdb
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Wall Destroyer\obj\Debug\net5.0\02. Wall Destroyer.genruntimeconfig.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\02. Wall Destroyer\obj\Debug\net5.0\ref\02. Wall Destroyer.dll
