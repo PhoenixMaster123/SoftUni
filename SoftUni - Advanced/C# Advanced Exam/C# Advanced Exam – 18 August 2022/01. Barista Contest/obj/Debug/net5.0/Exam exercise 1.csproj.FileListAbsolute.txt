@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Exam exercise 1\bin\Debug\net5.0\Exam exercise 1.exe
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Exam exercise 1\bin\Debug\net5.0\Exam exercise 1.deps.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Exam exercise 1\bin\Debug\net5.0\Exam exercise 1.runtimeconfig.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Exam exercise 1\bin\Debug\net5.0\Exam exercise 1.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Exam exercise 1\bin\Debug\net5.0\Exam exercise 1.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Exam exercise 1\bin\Debug\net5.0\Exam exercise 1.pdb
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Exam exercise 1\obj\Debug\net5.0\Exam exercise 1.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Exam exercise 1\obj\Debug\net5.0\Exam exercise 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Exam exercise 1\obj\Debug\net5.0\Exam exercise 1.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Exam exercise 1\obj\Debug\net5.0\Exam exercise 1.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Exam exercise 1\obj\Debug\net5.0\Exam exercise 1.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Exam exercise 1\obj\Debug\net5.0\Exam exercise 1.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Exam exercise 1\obj\Debug\net5.0\refint\Exam exercise 1.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Exam exercise 1\obj\Debug\net5.0\Exam exercise 1.pdb
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Exam exercise 1\obj\Debug\net5.0\Exam exercise 1.genruntimeconfig.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Exam exercise 1\obj\Debug\net5.0\ref\Exam exercise 1.dll
