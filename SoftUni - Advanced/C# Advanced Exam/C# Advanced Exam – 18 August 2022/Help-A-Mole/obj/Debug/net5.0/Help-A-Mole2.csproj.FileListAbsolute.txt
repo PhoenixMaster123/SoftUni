@@ -1,0 +1,16 @@
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Help-A-Mole2\bin\Debug\net5.0\Help-A-Mole2.exe
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Help-A-Mole2\bin\Debug\net5.0\Help-A-Mole2.deps.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Help-A-Mole2\bin\Debug\net5.0\Help-A-Mole2.runtimeconfig.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Help-A-Mole2\bin\Debug\net5.0\Help-A-Mole2.runtimeconfig.dev.json
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Help-A-Mole2\bin\Debug\net5.0\Help-A-Mole2.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Help-A-Mole2\bin\Debug\net5.0\Help-A-Mole2.pdb
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Help-A-Mole2\obj\Debug\net5.0\Help-A-Mole2.csproj.AssemblyReference.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Help-A-Mole2\obj\Debug\net5.0\Help-A-Mole2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Help-A-Mole2\obj\Debug\net5.0\Help-A-Mole2.AssemblyInfoInputs.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Help-A-Mole2\obj\Debug\net5.0\Help-A-Mole2.AssemblyInfo.cs
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Help-A-Mole2\obj\Debug\net5.0\Help-A-Mole2.csproj.CoreCompileInputs.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Help-A-Mole2\obj\Debug\net5.0\Help-A-Mole2.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Help-A-Mole2\obj\Debug\net5.0\refint\Help-A-Mole2.dll
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Help-A-Mole2\obj\Debug\net5.0\Help-A-Mole2.pdb
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Help-A-Mole2\obj\Debug\net5.0\Help-A-Mole2.genruntimeconfig.cache
+D:\SoftUni Advance + OOP\Exam(preparation)\Exam(preparation)\Exam Preparation\Help-A-Mole2\obj\Debug\net5.0\ref\Help-A-Mole2.dll
