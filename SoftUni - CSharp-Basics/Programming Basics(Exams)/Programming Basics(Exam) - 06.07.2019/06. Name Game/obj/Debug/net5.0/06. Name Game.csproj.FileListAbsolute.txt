@@ -1,0 +1,16 @@
+D:\C# Projects\ARC - massivs\06. Name Game\bin\Debug\net5.0\06. Name Game.exe
+D:\C# Projects\ARC - massivs\06. Name Game\bin\Debug\net5.0\06. Name Game.deps.json
+D:\C# Projects\ARC - massivs\06. Name Game\bin\Debug\net5.0\06. Name Game.runtimeconfig.json
+D:\C# Projects\ARC - massivs\06. Name Game\bin\Debug\net5.0\06. Name Game.runtimeconfig.dev.json
+D:\C# Projects\ARC - massivs\06. Name Game\bin\Debug\net5.0\06. Name Game.dll
+D:\C# Projects\ARC - massivs\06. Name Game\bin\Debug\net5.0\06. Name Game.pdb
+D:\C# Projects\ARC - massivs\06. Name Game\obj\Debug\net5.0\06. Name Game.csproj.AssemblyReference.cache
+D:\C# Projects\ARC - massivs\06. Name Game\obj\Debug\net5.0\06. Name Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\ARC - massivs\06. Name Game\obj\Debug\net5.0\06. Name Game.AssemblyInfoInputs.cache
+D:\C# Projects\ARC - massivs\06. Name Game\obj\Debug\net5.0\06. Name Game.AssemblyInfo.cs
+D:\C# Projects\ARC - massivs\06. Name Game\obj\Debug\net5.0\06. Name Game.csproj.CoreCompileInputs.cache
+D:\C# Projects\ARC - massivs\06. Name Game\obj\Debug\net5.0\06. Name Game.dll
+D:\C# Projects\ARC - massivs\06. Name Game\obj\Debug\net5.0\refint\06. Name Game.dll
+D:\C# Projects\ARC - massivs\06. Name Game\obj\Debug\net5.0\06. Name Game.pdb
+D:\C# Projects\ARC - massivs\06. Name Game\obj\Debug\net5.0\06. Name Game.genruntimeconfig.cache
+D:\C# Projects\ARC - massivs\06. Name Game\obj\Debug\net5.0\ref\06. Name Game.dll
