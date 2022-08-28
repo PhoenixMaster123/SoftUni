@@ -1,0 +1,16 @@
+D:\C# Projects\ARC - massivs\04. Cinema Voucher\bin\Debug\net5.0\04. Cinema Voucher.exe
+D:\C# Projects\ARC - massivs\04. Cinema Voucher\bin\Debug\net5.0\04. Cinema Voucher.deps.json
+D:\C# Projects\ARC - massivs\04. Cinema Voucher\bin\Debug\net5.0\04. Cinema Voucher.runtimeconfig.json
+D:\C# Projects\ARC - massivs\04. Cinema Voucher\bin\Debug\net5.0\04. Cinema Voucher.runtimeconfig.dev.json
+D:\C# Projects\ARC - massivs\04. Cinema Voucher\bin\Debug\net5.0\04. Cinema Voucher.dll
+D:\C# Projects\ARC - massivs\04. Cinema Voucher\bin\Debug\net5.0\04. Cinema Voucher.pdb
+D:\C# Projects\ARC - massivs\04. Cinema Voucher\obj\Debug\net5.0\04. Cinema Voucher.csproj.AssemblyReference.cache
+D:\C# Projects\ARC - massivs\04. Cinema Voucher\obj\Debug\net5.0\04. Cinema Voucher.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\ARC - massivs\04. Cinema Voucher\obj\Debug\net5.0\04. Cinema Voucher.AssemblyInfoInputs.cache
+D:\C# Projects\ARC - massivs\04. Cinema Voucher\obj\Debug\net5.0\04. Cinema Voucher.AssemblyInfo.cs
+D:\C# Projects\ARC - massivs\04. Cinema Voucher\obj\Debug\net5.0\04. Cinema Voucher.csproj.CoreCompileInputs.cache
+D:\C# Projects\ARC - massivs\04. Cinema Voucher\obj\Debug\net5.0\04. Cinema Voucher.dll
+D:\C# Projects\ARC - massivs\04. Cinema Voucher\obj\Debug\net5.0\refint\04. Cinema Voucher.dll
+D:\C# Projects\ARC - massivs\04. Cinema Voucher\obj\Debug\net5.0\04. Cinema Voucher.pdb
+D:\C# Projects\ARC - massivs\04. Cinema Voucher\obj\Debug\net5.0\04. Cinema Voucher.genruntimeconfig.cache
+D:\C# Projects\ARC - massivs\04. Cinema Voucher\obj\Debug\net5.0\ref\04. Cinema Voucher.dll
