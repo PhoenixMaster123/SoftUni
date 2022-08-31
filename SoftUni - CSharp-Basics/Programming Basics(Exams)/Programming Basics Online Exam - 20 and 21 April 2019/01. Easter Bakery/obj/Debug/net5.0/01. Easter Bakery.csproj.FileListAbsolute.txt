@@ -1,0 +1,16 @@
+D:\C# Projects\ARC - massivs\01. Easter Bakery\bin\Debug\net5.0\01. Easter Bakery.exe
+D:\C# Projects\ARC - massivs\01. Easter Bakery\bin\Debug\net5.0\01. Easter Bakery.deps.json
+D:\C# Projects\ARC - massivs\01. Easter Bakery\bin\Debug\net5.0\01. Easter Bakery.runtimeconfig.json
+D:\C# Projects\ARC - massivs\01. Easter Bakery\bin\Debug\net5.0\01. Easter Bakery.runtimeconfig.dev.json
+D:\C# Projects\ARC - massivs\01. Easter Bakery\bin\Debug\net5.0\01. Easter Bakery.dll
+D:\C# Projects\ARC - massivs\01. Easter Bakery\bin\Debug\net5.0\01. Easter Bakery.pdb
+D:\C# Projects\ARC - massivs\01. Easter Bakery\obj\Debug\net5.0\01. Easter Bakery.csproj.AssemblyReference.cache
+D:\C# Projects\ARC - massivs\01. Easter Bakery\obj\Debug\net5.0\01. Easter Bakery.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\ARC - massivs\01. Easter Bakery\obj\Debug\net5.0\01. Easter Bakery.AssemblyInfoInputs.cache
+D:\C# Projects\ARC - massivs\01. Easter Bakery\obj\Debug\net5.0\01. Easter Bakery.AssemblyInfo.cs
+D:\C# Projects\ARC - massivs\01. Easter Bakery\obj\Debug\net5.0\01. Easter Bakery.csproj.CoreCompileInputs.cache
+D:\C# Projects\ARC - massivs\01. Easter Bakery\obj\Debug\net5.0\01. Easter Bakery.dll
+D:\C# Projects\ARC - massivs\01. Easter Bakery\obj\Debug\net5.0\refint\01. Easter Bakery.dll
+D:\C# Projects\ARC - massivs\01. Easter Bakery\obj\Debug\net5.0\01. Easter Bakery.pdb
+D:\C# Projects\ARC - massivs\01. Easter Bakery\obj\Debug\net5.0\01. Easter Bakery.genruntimeconfig.cache
+D:\C# Projects\ARC - massivs\01. Easter Bakery\obj\Debug\net5.0\ref\01. Easter Bakery.dll
