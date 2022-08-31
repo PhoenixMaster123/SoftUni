@@ -1,0 +1,16 @@
+D:\C# Projects\ARC - massivs\02. Easter Party\bin\Debug\net5.0\02. Easter Party.exe
+D:\C# Projects\ARC - massivs\02. Easter Party\bin\Debug\net5.0\02. Easter Party.deps.json
+D:\C# Projects\ARC - massivs\02. Easter Party\bin\Debug\net5.0\02. Easter Party.runtimeconfig.json
+D:\C# Projects\ARC - massivs\02. Easter Party\bin\Debug\net5.0\02. Easter Party.runtimeconfig.dev.json
+D:\C# Projects\ARC - massivs\02. Easter Party\bin\Debug\net5.0\02. Easter Party.dll
+D:\C# Projects\ARC - massivs\02. Easter Party\bin\Debug\net5.0\02. Easter Party.pdb
+D:\C# Projects\ARC - massivs\02. Easter Party\obj\Debug\net5.0\02. Easter Party.csproj.AssemblyReference.cache
+D:\C# Projects\ARC - massivs\02. Easter Party\obj\Debug\net5.0\02. Easter Party.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\ARC - massivs\02. Easter Party\obj\Debug\net5.0\02. Easter Party.AssemblyInfoInputs.cache
+D:\C# Projects\ARC - massivs\02. Easter Party\obj\Debug\net5.0\02. Easter Party.AssemblyInfo.cs
+D:\C# Projects\ARC - massivs\02. Easter Party\obj\Debug\net5.0\02. Easter Party.csproj.CoreCompileInputs.cache
+D:\C# Projects\ARC - massivs\02. Easter Party\obj\Debug\net5.0\02. Easter Party.dll
+D:\C# Projects\ARC - massivs\02. Easter Party\obj\Debug\net5.0\refint\02. Easter Party.dll
+D:\C# Projects\ARC - massivs\02. Easter Party\obj\Debug\net5.0\02. Easter Party.pdb
+D:\C# Projects\ARC - massivs\02. Easter Party\obj\Debug\net5.0\02. Easter Party.genruntimeconfig.cache
+D:\C# Projects\ARC - massivs\02. Easter Party\obj\Debug\net5.0\ref\02. Easter Party.dll
