@@ -1,0 +1,14 @@
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\bin\Debug\netcoreapp3.1\06. Favorite Movie.exe
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\bin\Debug\netcoreapp3.1\06. Favorite Movie.deps.json
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\bin\Debug\netcoreapp3.1\06. Favorite Movie.runtimeconfig.json
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\bin\Debug\netcoreapp3.1\06. Favorite Movie.runtimeconfig.dev.json
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\bin\Debug\netcoreapp3.1\06. Favorite Movie.dll
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\bin\Debug\netcoreapp3.1\06. Favorite Movie.pdb
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\netcoreapp3.1\06. Favorite Movie.csproj.AssemblyReference.cache
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\netcoreapp3.1\06. Favorite Movie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\netcoreapp3.1\06. Favorite Movie.AssemblyInfoInputs.cache
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\netcoreapp3.1\06. Favorite Movie.AssemblyInfo.cs
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\netcoreapp3.1\06. Favorite Movie.csproj.CoreCompileInputs.cache
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\netcoreapp3.1\06. Favorite Movie.dll
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\netcoreapp3.1\06. Favorite Movie.pdb
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Favorite Movie\obj\Debug\netcoreapp3.1\06. Favorite Movie.genruntimeconfig.cache
