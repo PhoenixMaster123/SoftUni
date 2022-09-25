@@ -1,0 +1,14 @@
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\bin\Debug\netcoreapp3.1\06. Movie Tickets.exe
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\bin\Debug\netcoreapp3.1\06. Movie Tickets.deps.json
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\bin\Debug\netcoreapp3.1\06. Movie Tickets.runtimeconfig.json
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\bin\Debug\netcoreapp3.1\06. Movie Tickets.runtimeconfig.dev.json
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\bin\Debug\netcoreapp3.1\06. Movie Tickets.dll
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\bin\Debug\netcoreapp3.1\06. Movie Tickets.pdb
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\obj\Debug\netcoreapp3.1\06. Movie Tickets.csproj.AssemblyReference.cache
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\obj\Debug\netcoreapp3.1\06. Movie Tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\obj\Debug\netcoreapp3.1\06. Movie Tickets.AssemblyInfoInputs.cache
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\obj\Debug\netcoreapp3.1\06. Movie Tickets.AssemblyInfo.cs
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\obj\Debug\netcoreapp3.1\06. Movie Tickets.csproj.CoreCompileInputs.cache
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\obj\Debug\netcoreapp3.1\06. Movie Tickets.dll
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\obj\Debug\netcoreapp3.1\06. Movie Tickets.pdb
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\06. Movie Tickets\obj\Debug\netcoreapp3.1\06. Movie Tickets.genruntimeconfig.cache
