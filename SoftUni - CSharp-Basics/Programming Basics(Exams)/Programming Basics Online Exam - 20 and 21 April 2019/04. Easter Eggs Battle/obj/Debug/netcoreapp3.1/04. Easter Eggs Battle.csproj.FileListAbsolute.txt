@@ -1,0 +1,13 @@
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Eggs Battle\bin\Debug\netcoreapp3.1\04. Easter Eggs Battle.exe
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Eggs Battle\bin\Debug\netcoreapp3.1\04. Easter Eggs Battle.deps.json
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Eggs Battle\bin\Debug\netcoreapp3.1\04. Easter Eggs Battle.runtimeconfig.json
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Eggs Battle\bin\Debug\netcoreapp3.1\04. Easter Eggs Battle.runtimeconfig.dev.json
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Eggs Battle\bin\Debug\netcoreapp3.1\04. Easter Eggs Battle.dll
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Eggs Battle\bin\Debug\netcoreapp3.1\04. Easter Eggs Battle.pdb
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Eggs Battle\obj\Debug\netcoreapp3.1\04. Easter Eggs Battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Eggs Battle\obj\Debug\netcoreapp3.1\04. Easter Eggs Battle.AssemblyInfoInputs.cache
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Eggs Battle\obj\Debug\netcoreapp3.1\04. Easter Eggs Battle.AssemblyInfo.cs
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Eggs Battle\obj\Debug\netcoreapp3.1\04. Easter Eggs Battle.csproj.CoreCompileInputs.cache
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Eggs Battle\obj\Debug\netcoreapp3.1\04. Easter Eggs Battle.dll
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Eggs Battle\obj\Debug\netcoreapp3.1\04. Easter Eggs Battle.pdb
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Eggs Battle\obj\Debug\netcoreapp3.1\04. Easter Eggs Battle.genruntimeconfig.cache
