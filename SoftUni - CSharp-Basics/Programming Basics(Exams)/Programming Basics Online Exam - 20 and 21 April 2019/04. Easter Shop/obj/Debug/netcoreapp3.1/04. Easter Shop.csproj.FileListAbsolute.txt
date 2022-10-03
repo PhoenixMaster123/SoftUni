@@ -1,0 +1,13 @@
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Shop\bin\Debug\netcoreapp3.1\04. Easter Shop.exe
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Shop\bin\Debug\netcoreapp3.1\04. Easter Shop.deps.json
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Shop\bin\Debug\netcoreapp3.1\04. Easter Shop.runtimeconfig.json
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Shop\bin\Debug\netcoreapp3.1\04. Easter Shop.runtimeconfig.dev.json
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Shop\bin\Debug\netcoreapp3.1\04. Easter Shop.dll
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Shop\bin\Debug\netcoreapp3.1\04. Easter Shop.pdb
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Shop\obj\Debug\netcoreapp3.1\04. Easter Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Shop\obj\Debug\netcoreapp3.1\04. Easter Shop.AssemblyInfoInputs.cache
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Shop\obj\Debug\netcoreapp3.1\04. Easter Shop.AssemblyInfo.cs
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Shop\obj\Debug\netcoreapp3.1\04. Easter Shop.csproj.CoreCompileInputs.cache
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Shop\obj\Debug\netcoreapp3.1\04. Easter Shop.dll
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Shop\obj\Debug\netcoreapp3.1\04. Easter Shop.pdb
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\04. Easter Shop\obj\Debug\netcoreapp3.1\04. Easter Shop.genruntimeconfig.cache
