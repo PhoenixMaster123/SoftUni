@@ -1,0 +1,13 @@
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\03. Painting Eggs\bin\Debug\netcoreapp3.1\03. Painting Eggs.exe
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\03. Painting Eggs\bin\Debug\netcoreapp3.1\03. Painting Eggs.deps.json
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\03. Painting Eggs\bin\Debug\netcoreapp3.1\03. Painting Eggs.runtimeconfig.json
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\03. Painting Eggs\bin\Debug\netcoreapp3.1\03. Painting Eggs.runtimeconfig.dev.json
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\03. Painting Eggs\bin\Debug\netcoreapp3.1\03. Painting Eggs.dll
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\03. Painting Eggs\bin\Debug\netcoreapp3.1\03. Painting Eggs.pdb
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\03. Painting Eggs\obj\Debug\netcoreapp3.1\03. Painting Eggs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\03. Painting Eggs\obj\Debug\netcoreapp3.1\03. Painting Eggs.AssemblyInfoInputs.cache
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\03. Painting Eggs\obj\Debug\netcoreapp3.1\03. Painting Eggs.AssemblyInfo.cs
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\03. Painting Eggs\obj\Debug\netcoreapp3.1\03. Painting Eggs.csproj.CoreCompileInputs.cache
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\03. Painting Eggs\obj\Debug\netcoreapp3.1\03. Painting Eggs.dll
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\03. Painting Eggs\obj\Debug\netcoreapp3.1\03. Painting Eggs.pdb
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\03. Painting Eggs\obj\Debug\netcoreapp3.1\03. Painting Eggs.genruntimeconfig.cache
