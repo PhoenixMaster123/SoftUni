@@ -1,0 +1,14 @@
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Easter Bake\bin\Debug\netcoreapp3.1\05. Easter Bake.exe
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Easter Bake\bin\Debug\netcoreapp3.1\05. Easter Bake.deps.json
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Easter Bake\bin\Debug\netcoreapp3.1\05. Easter Bake.runtimeconfig.json
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Easter Bake\bin\Debug\netcoreapp3.1\05. Easter Bake.runtimeconfig.dev.json
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Easter Bake\bin\Debug\netcoreapp3.1\05. Easter Bake.dll
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Easter Bake\bin\Debug\netcoreapp3.1\05. Easter Bake.pdb
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Easter Bake\obj\Debug\netcoreapp3.1\05. Easter Bake.csproj.AssemblyReference.cache
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Easter Bake\obj\Debug\netcoreapp3.1\05. Easter Bake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Easter Bake\obj\Debug\netcoreapp3.1\05. Easter Bake.AssemblyInfoInputs.cache
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Easter Bake\obj\Debug\netcoreapp3.1\05. Easter Bake.AssemblyInfo.cs
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Easter Bake\obj\Debug\netcoreapp3.1\05. Easter Bake.csproj.CoreCompileInputs.cache
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Easter Bake\obj\Debug\netcoreapp3.1\05. Easter Bake.dll
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Easter Bake\obj\Debug\netcoreapp3.1\05. Easter Bake.pdb
+C:\Users\Detelina Metz\source\repos\Programming Basics Online Exam - 15 and 16 June 2019\05. Easter Bake\obj\Debug\netcoreapp3.1\05. Easter Bake.genruntimeconfig.cache
