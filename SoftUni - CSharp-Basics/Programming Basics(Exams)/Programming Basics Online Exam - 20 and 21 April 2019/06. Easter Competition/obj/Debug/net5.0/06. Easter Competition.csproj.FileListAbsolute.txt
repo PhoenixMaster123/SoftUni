@@ -1,0 +1,16 @@
+D:\C# Projects\Nested Loops\06. Easter Competition\bin\Debug\net5.0\06. Easter Competition.exe
+D:\C# Projects\Nested Loops\06. Easter Competition\bin\Debug\net5.0\06. Easter Competition.deps.json
+D:\C# Projects\Nested Loops\06. Easter Competition\bin\Debug\net5.0\06. Easter Competition.runtimeconfig.json
+D:\C# Projects\Nested Loops\06. Easter Competition\bin\Debug\net5.0\06. Easter Competition.runtimeconfig.dev.json
+D:\C# Projects\Nested Loops\06. Easter Competition\bin\Debug\net5.0\06. Easter Competition.dll
+D:\C# Projects\Nested Loops\06. Easter Competition\bin\Debug\net5.0\06. Easter Competition.pdb
+D:\C# Projects\Nested Loops\06. Easter Competition\obj\Debug\net5.0\06. Easter Competition.csproj.AssemblyReference.cache
+D:\C# Projects\Nested Loops\06. Easter Competition\obj\Debug\net5.0\06. Easter Competition.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Nested Loops\06. Easter Competition\obj\Debug\net5.0\06. Easter Competition.AssemblyInfoInputs.cache
+D:\C# Projects\Nested Loops\06. Easter Competition\obj\Debug\net5.0\06. Easter Competition.AssemblyInfo.cs
+D:\C# Projects\Nested Loops\06. Easter Competition\obj\Debug\net5.0\06. Easter Competition.csproj.CoreCompileInputs.cache
+D:\C# Projects\Nested Loops\06. Easter Competition\obj\Debug\net5.0\06. Easter Competition.dll
+D:\C# Projects\Nested Loops\06. Easter Competition\obj\Debug\net5.0\refint\06. Easter Competition.dll
+D:\C# Projects\Nested Loops\06. Easter Competition\obj\Debug\net5.0\06. Easter Competition.pdb
+D:\C# Projects\Nested Loops\06. Easter Competition\obj\Debug\net5.0\06. Easter Competition.genruntimeconfig.cache
+D:\C# Projects\Nested Loops\06. Easter Competition\obj\Debug\net5.0\ref\06. Easter Competition.dll
