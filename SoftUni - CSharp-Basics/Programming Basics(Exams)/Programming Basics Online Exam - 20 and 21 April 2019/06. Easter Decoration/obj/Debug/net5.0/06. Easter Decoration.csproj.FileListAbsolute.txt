@@ -1,0 +1,16 @@
+D:\C# Projects\Nested Loops\06. Easter Decoration\bin\Debug\net5.0\06. Easter Decoration.exe
+D:\C# Projects\Nested Loops\06. Easter Decoration\bin\Debug\net5.0\06. Easter Decoration.deps.json
+D:\C# Projects\Nested Loops\06. Easter Decoration\bin\Debug\net5.0\06. Easter Decoration.runtimeconfig.json
+D:\C# Projects\Nested Loops\06. Easter Decoration\bin\Debug\net5.0\06. Easter Decoration.runtimeconfig.dev.json
+D:\C# Projects\Nested Loops\06. Easter Decoration\bin\Debug\net5.0\06. Easter Decoration.dll
+D:\C# Projects\Nested Loops\06. Easter Decoration\bin\Debug\net5.0\06. Easter Decoration.pdb
+D:\C# Projects\Nested Loops\06. Easter Decoration\obj\Debug\net5.0\06. Easter Decoration.csproj.AssemblyReference.cache
+D:\C# Projects\Nested Loops\06. Easter Decoration\obj\Debug\net5.0\06. Easter Decoration.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Nested Loops\06. Easter Decoration\obj\Debug\net5.0\06. Easter Decoration.AssemblyInfoInputs.cache
+D:\C# Projects\Nested Loops\06. Easter Decoration\obj\Debug\net5.0\06. Easter Decoration.AssemblyInfo.cs
+D:\C# Projects\Nested Loops\06. Easter Decoration\obj\Debug\net5.0\06. Easter Decoration.csproj.CoreCompileInputs.cache
+D:\C# Projects\Nested Loops\06. Easter Decoration\obj\Debug\net5.0\06. Easter Decoration.dll
+D:\C# Projects\Nested Loops\06. Easter Decoration\obj\Debug\net5.0\refint\06. Easter Decoration.dll
+D:\C# Projects\Nested Loops\06. Easter Decoration\obj\Debug\net5.0\06. Easter Decoration.pdb
+D:\C# Projects\Nested Loops\06. Easter Decoration\obj\Debug\net5.0\06. Easter Decoration.genruntimeconfig.cache
+D:\C# Projects\Nested Loops\06. Easter Decoration\obj\Debug\net5.0\ref\06. Easter Decoration.dll
