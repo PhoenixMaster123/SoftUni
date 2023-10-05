@@ -56,8 +56,11 @@ public class Main {
         int realPerformanceCount = count % numbers.size();
 
         for (int i = 1; i <= realPerformanceCount; i++) {
+            // We are taking the first element
             int firstElement = numbers.get(0);
+            // Then we are removing the element
             numbers.remove(0);
+            // After that we are adding the element and the element is on the last position
             numbers.add(firstElement);
         }
     }
@@ -66,8 +69,11 @@ public class Main {
         int realPerformanceCount = count % numbers.size();
 
         for (int i = 1; i <= realPerformanceCount; i++) {
+            // We are taking the last element
             int lastElement = numbers.get(numbers.size() - 1);
+             // Then we are removing the element
             numbers.remove(numbers.size() - 1);
+              // After that we are adding the element and the element is on the first position
             numbers.add(0, lastElement);
         }
     }
