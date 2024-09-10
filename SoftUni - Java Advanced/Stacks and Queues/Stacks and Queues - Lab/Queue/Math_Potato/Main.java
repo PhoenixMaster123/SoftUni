@@ -19,7 +19,21 @@ public class Main
         int cycle = 1;
 
         while (queue.size() > 1) {
-            for (int i = 1; i < n; i++) {
+
+            /////////////////////////////////// Variant 1 ///////////////////////////////
+
+            // 1. We took the first player from the Queue
+            String player = queue.poll();
+            // 2. We increase cycle + 1
+            cycle++;
+            if (isPrime(cycle)) {
+                System.out.println("Prime " + player);
+                queue.offer(player);
+            } else {
+                System.out.println("Removed " + player);
+            }
+            /////////////////////////////////// Variant 2 ///////////////////////////////
+           /* for (int i = 1; i < n; i++) {
                 queue.offer(queue.poll());
             }
             if (isPrime(cycle)) {
@@ -28,13 +42,35 @@ public class Main
                 System.out.println("Removed " + queue.poll());
             }
             cycle++;
+            */
         }
 
         System.out.println("Last is " + queue.poll());
     }
 
-    static boolean isPrime(int cycle) {
-        if (cycle <= 1) {
+    private static boolean isPrime(int cycle) {
+        
+        /////////////////////////////////// Variant 1 ///////////////////////////////
+
+         if (number == 1) {
+            return false;
+        }
+
+        boolean isPrime = true;
+
+        for (int divisor = 2; divisor <= number - 1; divisor++) {
+            if (number % divisor == 0) {
+                isPrime = false;
+                break;
+            }
+        }
+
+        return isPrime;
+    }
+}
+    /////////////////////////////////// Variant 2 ///////////////////////////////
+
+       /* if (cycle <= 1) {
             return false;
         } else if (cycle == 2) {
             return true;
@@ -47,4 +83,4 @@ public class Main
         }
         return true;
     }
-}
+    */
